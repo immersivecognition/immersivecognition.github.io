@@ -1,0 +1,12 @@
+[
+    {
+        "name": "UXF: Unity Experiment Framework",
+        "href": "http://jbrookes.com/unity-experiment-framework",
+        "description": "The Unity Experiment Framework (UXF) is an open source package for the Unity3D game engine that can be used to assist the development of virtual reality human behaviour experiments."
+    },
+    {
+        "name": "optotools",
+        "href": "https://github.com/immersivecognition/optotools",
+        "description": "An R package for reading and converting NDI Optotrak files."
+    }
+]

@@ -1,0 +1,8 @@
+<h1>People</h1>
+<ul class="people">
+    {% for person in people %}
+    <li>
+        <em>{{ person.name }}</em> - {{ person.role }}
+    </li>
+    {% endfor %}
+</ul>

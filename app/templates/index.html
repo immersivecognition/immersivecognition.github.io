@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<div class="section">
+    {% include 'about-card.html' %}
+</div>
+<div class="section" id="code">
+    {% include 'code-card.html' %}
+</div>
+<div class="section" id="people">
+    {% include 'people-card.html' %}
+</div>
+
+{% endblock %}

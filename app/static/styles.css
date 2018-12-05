@@ -1,0 +1,230 @@
+* {
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #353535;
+    margin: 0;
+}
+
+em {
+    font-weight: 700;
+    font-style: normal;
+}
+
+#main {
+    min-height: 100%;
+    position: relative;
+}
+
+a:link, a:hover, a:focus, a:active, a:visited {
+    text-decoration: none;
+    color: inherit;
+}
+
+#inner-body {
+    position: relative;
+    margin: 0 auto 0 auto;
+    padding: 3em 3em 50px 3em;
+    max-width: 1000px;
+    min-width: 400px;
+}
+
+#footer {
+    color: #adadad;
+    font-size: 12px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    text-align: center;
+}
+
+.section {
+    padding: 1em 0;
+    margin: 3em 0;
+}
+
+.section p {
+    text-align: center;
+}
+
+
+.section::after {
+    content: " ";
+    white-space: pre;
+    display: block;
+    position: relative;
+    margin: 3em auto 0 auto;
+    height: 1px;
+    width: 40%;
+    border-bottom: 1px solid #ebebeb;
+}
+
+
+a#logo {
+    border-bottom: 2px solid #ffffff;
+    margin-bottom: -2px;
+    display: inline-block;
+    padding-bottom: 15px;
+    padding-left: 1px;
+    -webkit-transition: .2s; /* Safari */
+    transition: .2s;
+}
+
+a#logo:hover {
+    border-bottom: 2px solid #164E86;
+    -webkit-transition: .2s; /* Safari */
+    transition: .2s;
+}
+
+#logo-title {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    font-size: 2.25em;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+}
+
+#logo-subtitle {
+    font-weight: 700;
+    color: #164E86;
+}
+
+
+#navbar {
+    position: relative;
+    margin: 0 0 4em 0;
+    width: 100%;
+}
+
+ul.navlist {
+    padding-left: 30px;
+    display: inline-block; 
+    margin: 0;
+}
+
+ul.navlist-right {
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
+
+ul.navlist li {
+    font-weight: 700;
+    border-bottom: 2px solid #ffffff;
+    display: inline-block; 
+    padding: 15px 1em;
+    -webkit-transition: .2s; /* Safari */
+    transition: .2s;
+}
+
+ul.navlist li:hover {
+    border-bottom: 2px solid #164E86;
+    color: #164E86;
+    -webkit-transition: .2s; /* Safari */
+    transition: .2s;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+    margin-top: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+
+h1 {
+    font-size: 1.8em;
+}
+
+h2 {
+    font-size: 1.6em;
+}
+
+ul.tiles {
+    padding: 0;
+}
+
+ul.tiles li {
+    display: inline-block;
+    width: 50%;
+    overflow: hidden;
+    vertical-align: top;
+}
+
+a.project {
+    margin: 0.8em;
+    height: 200px;
+
+}
+
+a.project p {
+    text-align: left;
+}
+
+.projecttitle {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+
+.projecttitle::after {
+    content: " ";
+    white-space: pre;
+    display: block;
+    height: 2px;
+    width: 20%;
+    border-bottom: 2px solid #d0d0d0;
+    text-align: center;
+    padding-top: 0.5em;
+    -webkit-transition: .2s; /* Safari */
+    transition: .2s;
+}
+
+ul.tiles li:hover a.project .projecttitle {
+    color: #164E86;
+}
+
+ul.tiles li:hover a.project .projecttitle::after {
+    -webkit-transition: .2s; /* Safari */
+    transition: .2s;
+    width: 40%;
+    border-bottom: 2px solid #164E86;
+}
+
+
+
+p.about {
+    font-size: 1.3em;
+    line-height: 140%;
+    text-align: left;
+}
+
+ul.people {
+
+}
+
+i.twitter-color {color: #1da1f2}
+i.github-color {color: #333}
+
+
+@media screen and (max-width: 600px) {
+    #inner-body {
+        padding: 1em 1em 50px 1em;
+    }
+
+    a#logo {
+        display: block;
+    }
+
+    ul.navlist {
+        padding-left: 0;
+    }
+
+}
+
+@media screen and (max-width: 1000px) {
+    ul.tiles li {
+        display: inline-block;
+        width: 100%;
+    }
+}
