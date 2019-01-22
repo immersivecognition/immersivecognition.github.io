@@ -1,8 +1,11 @@
 <h1>People</h1>
-<ul class="people">
+<ul id="people">
     {% for person in people %}
     <li>
-        <em>{{ person.name }}</em> - {{ person.role }}
+        <img class="person" src="https://api.adorable.io/avatars/128/{{ person.name }}.png" />
+        <p>
+            <em>{{ person.name }}</em><br>{{ person.role }}
+        </p>
     </li>
     {% endfor %}
 </ul>

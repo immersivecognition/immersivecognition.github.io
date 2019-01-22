@@ -1,0 +1,10 @@
+<h1>Projects</h1>
+<div class="tiles">
+    {% for project in projects %}
+    <a class="project" href="{{ project.href }}">
+        <div class="innerproject">
+            <div class="projecttitle">{{ project.name }}</div>
+            <p>{{ project.description }}</p>
+        </div>
+    </a>{% endfor %}
+</div>

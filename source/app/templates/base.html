@@ -4,13 +4,13 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Immersive Cognition (ICON) Lab Group - University of Leeds - Code Homepage ">
+    <meta name="description" content="Immersive Cognition (ICON) Lab Group - University of Leeds - Projects Homepage ">
 
     <title>{% if title %}{{title}} - {% endif %}Immersive Cognition GitHub Landing Page</title>
 
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ"
         crossorigin="anonymous">
-    <link href="https://fonts.googleapis.com/css?family=Roboto:400,700|Montserrat:400,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,700|Work+Sans:500" rel="stylesheet">
     <link rel="stylesheet" href="{{url_for('static', filename='styles.css')}}">
 </head>
 
@@ -28,8 +28,8 @@
                 </a>
 
                 <ul class="navlist">
-                    <a href="/#code">
-                        <li>Code</li>
+                    <a href="/#projects">
+                        <li>Projects</li>
                     </a>
                     <a href="/#people">
                         <li>People</li>
@@ -57,6 +57,13 @@
     </div>
 
     <script src="{{ url_for('static', filename='zenscroll-min.js') }}"></script>
+    <script>
+        // shuffles
+        var ul = document.querySelector('ul#people');
+        for (var i = ul.children.length; i >= 0; i--) {
+            ul.appendChild(ul.children[Math.random() * i | 0]);
+        }
+    </script>
 </body>
 
 </html>

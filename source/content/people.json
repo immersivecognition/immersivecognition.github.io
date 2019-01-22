@@ -6,5 +6,49 @@
     {
         "name": "Matthew Warburton",
         "role": "Software Developer; Research Assistant"
+    },
+    {
+        "name": "Example Person 1",
+        "role": "Example Role"
+    },
+    {
+        "name": "Example Person 2",
+        "role": "Example Role"
+    },
+    {
+        "name": "Example Person 3",
+        "role": "Example Role"
+    },
+    {
+        "name": "Example Person 4",
+        "role": "Example Role"
+    },
+    {
+        "name": "Example Person 5",
+        "role": "Example Role"
+    },
+    {
+        "name": "Example Person 6",
+        "role": "Example Role"
+    },
+    {
+        "name": "Example Person 7",
+        "role": "Example Role"
+    },
+    {
+        "name": "Example Person 8",
+        "role": "Example Role"
+    },
+    {
+        "name": "Example Person 9",
+        "role": "Example Role"
+    },
+    {
+        "name": "Example Person 10",
+        "role": "Example Role"
+    },
+    {
+        "name": "Example Person 11",
+        "role": "Example Role"
     }
 ]
