@@ -28,7 +28,7 @@ a:link, a:hover, a:focus, a:active, a:visited {
     position: relative;
     margin: 0 auto 0 auto;
     padding: 3em 3em 50px 3em;
-    max-width: 1000px;
+    max-width: 1200px;
     min-width: 400px;
 }
 
@@ -148,8 +148,6 @@ h2 {
 div.tiles {
     display: flex;
     flex-wrap: wrap;
-    align-items: flex-start;
-    align-content: flex-start;
     padding: 2em 0 0 0;
 }
 
@@ -157,17 +155,19 @@ a.project {
     width: 50%;
     overflow: hidden;
     vertical-align: top;
+    display: block;
+    margin: 0.5em 0;    
 }
 
 a.project p {
     text-align: left;
-    margin: 0.2em 0;
 }
 
 .innerproject {
-    margin: 0.2em;
+    margin: 0 0.5em;
+    height: 100%;
     padding: 1.4em;
-    background-color: white;
+    background-color: #f5f5f5;
     border-radius: 10px;
     -webkit-transition: background-color .15s; /* Safari */
     transition: background-color .15s;
@@ -209,7 +209,7 @@ div.tiles a.project:hover .projecttitle::after {
 }
 
 img.banner {
-    max-width: 100%;
+    width: 100%;
 }
 
 p.about {
@@ -225,15 +225,16 @@ ul#people {
     list-style: none;
 }
 
-ul#people li {
-    text-align: center;
-    width: 25%;
-    padding: 1em;
-    margin: 0 auto;
+a.personbox {
+    height: 100%;
+    display: block;
+    width: 150px;
 }
 
-a.personbox {
-    display: block;
+ul#people li {
+    text-align: center;
+    padding: 1em;
+    margin: 0 auto;
 }
 
 img.person {
@@ -254,23 +255,14 @@ i.twitter-color {color: #1da1f2}
 i.github-color {color: #333}
 
 
-@media screen and (max-width: 1000px) {
-    ul.tiles li {
+@media screen and (max-width: 640px) {
+
+    a.project {
         width: 100%;
     }
 
-    ul#people li {
-        width: 33.33%;
-    }
-}
-
-@media screen and (max-width: 640px) {
     #inner-body {
         padding: 1em 1em 50px 1em;
-    }
-
-    ul#people li {
-        width: 50.0%;
     }
 
     a#logo {
