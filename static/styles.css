@@ -185,7 +185,7 @@ a.project p {
     display: block;
     height: 2px;
     width: 0%;
-    border-bottom: 2px solid #d0d0d0;
+    border-bottom: 2px solid #164E86;
     text-align: center;
     padding-top: 0.1em;
     -webkit-transition: .15s; /* Safari */
@@ -206,10 +206,11 @@ div.tiles a.project:hover .projecttitle::after {
     -webkit-transition: .15s; /* Safari */
     transition: .15s;
     width: 20%;
-    border-bottom: 2px solid #164E86;
 }
 
-
+img.banner {
+    max-width: 100%;
+}
 
 p.about {
     font-size: 1.3em;
@@ -228,14 +229,25 @@ ul#people li {
     text-align: center;
     width: 25%;
     padding: 1em;
-    margin: auto;
+    margin: 0 auto;
+}
+
+a.personbox {
+    display: block;
 }
 
 img.person {
     border-radius: 50%;
-    width: 128px;
-    height: 128px;
+    border: 10px solid rgba(255,255,255,0);
+    -webkit-transition: .15s; /* Safari */
+    transition: .15s;
+    width: 138px;
+    height: 138px;
     object-fit: scale-down;
+}
+
+a.personbox:hover img.person {
+    border-color: #ebebeb;
 }
 
 i.twitter-color {color: #1da1f2}

@@ -2,10 +2,12 @@
 <ul id="people">
     {% for person in people %}
     <li>
+    <a class="personbox" href="http://example.com/">
         <img class="person" src="https://api.adorable.io/avatars/128/{{ person.name }}.png" />
         <p>
             <em>{{ person.name }}</em><br>{{ person.role }}
         </p>
+    </a>
     </li>
     {% endfor %}
 </ul>
