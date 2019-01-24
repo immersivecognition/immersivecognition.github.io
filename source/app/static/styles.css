@@ -11,6 +11,10 @@ body {
 }
 
 em {
+    font-style: italic;
+}
+
+stong {
     font-weight: 700;
     font-style: normal;
 }
@@ -84,12 +88,14 @@ img.logo {
 }
 
 ul.navlist {
+    width: 100%;
     display: inline-block; 
     margin: 0;
     padding: 0;
 }
 
 ul.navlist-right {
+    width: auto;
     position: absolute;
     bottom: 0px;
     right: 0px;
@@ -354,4 +360,19 @@ i.arrow-color { color: #e7e7e7 }
         width: 100%;
     }
 
+}
+
+@media screen and (max-width: 900px) {
+    ul.navlist a {
+        display: block;
+    }   
+
+    ul.navlist li {
+        padding: 8px 0 8px 0;
+    }   
+
+    a.logo {
+        text-align: center;
+        width: 100%;
+    }
 }
