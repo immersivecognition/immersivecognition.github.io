@@ -52,11 +52,85 @@
                 
 
 <div class="section">
-    <img class="banner" src="https://placeimg.com/1000/480/tech" alt="banner"/>
+    <h1 class="center">People</h1>
+<ul id="people">
+    
+    <li>
+    <a class="personbox" href="/people/example-person-1/">
+        
+        <img class="person" src="https://api.adorable.io/avatars/128/Example Person 1.png" />
+        
+        <p>
+            <strong>Example Person 1</strong><br><em>Example Role</em>
+        </p>
+    </a>
+    </li>
+    
+    <li>
+    <a class="personbox" href="/people/example-person-2/">
+        
+        <img class="person" src="https://api.adorable.io/avatars/128/Example Person 2.png" />
+        
+        <p>
+            <strong>Example Person 2</strong><br><em>Example Role</em>
+        </p>
+    </a>
+    </li>
+    
+    <li>
+    <a class="personbox" href="/people/example-person-3/">
+        
+        <img class="person" src="https://api.adorable.io/avatars/128/Example Person 3.png" />
+        
+        <p>
+            <strong>Example Person 3</strong><br><em>Example Role</em>
+        </p>
+    </a>
+    </li>
+    
+    <li>
+    <a class="personbox" href="/people/example-person-4/">
+        
+        <img class="person" src="https://api.adorable.io/avatars/128/Example Person 4.png" />
+        
+        <p>
+            <strong>Example Person 4</strong><br><em>Example Role</em>
+        </p>
+    </a>
+    </li>
+    
+    <li>
+    <a class="personbox" href="/people/example-person-5/">
+        
+        <img class="person" src="https://api.adorable.io/avatars/128/Example Person 5.png" />
+        
+        <p>
+            <strong>Example Person 5</strong><br><em>Example Role</em>
+        </p>
+    </a>
+    </li>
+    
+    <li>
+    <a class="personbox" href="/people/jack-brookes/">
+        
+        <img class="person" src="/static/people-images/jack.jpg" />
+        
+        <p>
+            <strong>Jack Brookes</strong><br><em>PhD Student</em>
+        </p>
+    </a>
+    </li>
+    
+</ul>
 
-<p class="about">
-    Immersive Cognition (ICON) is a research team at the University of Leeds, UK, using immersive technologies to study cognitive science.
-</p>
+
+<script>
+    // shuffles people
+    var ul = document.querySelector('ul#people');
+    for (var i = ul.children.length; i >= 0; i--) {
+        ul.appendChild(ul.children[Math.random() * i | 0]);
+    }
+</script>
 </div>
 
 

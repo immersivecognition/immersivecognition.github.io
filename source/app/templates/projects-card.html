@@ -1,7 +1,7 @@
 <h1 class="center">Projects</h1>
 <div class="tiles">
     {% for project in projects %}
-    <a class="project" href="{{ project.href }}">
+    <a class="project" href="{{ url_for('project', name=project.filename) }}">
         <div class="innerproject">
             {% if project.metadata.image %}
             <img class="project" width=100 height=100 src="{{ url_for('static', filename='project-images/' + project.metadata.image) }}" />

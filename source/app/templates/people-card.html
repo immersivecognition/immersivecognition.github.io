@@ -2,8 +2,12 @@
 <ul id="people">
     {% for person in people %}
     <li>
-    <a class="personbox" href="{{ person.href }}">
+    <a class="personbox" href="{{ url_for('person', name=person.filename) }}">
+        {% if person.metadata.image %}
+        <img class="person" src="{{url_for('static', filename='people-images/' + person.metadata.image)}}" />
+        {% else %}
         <img class="person" src="https://api.adorable.io/avatars/128/{{ person.metadata.name }}.png" />
+        {% endif %}
         <p>
             <strong>{{ person.metadata.name }}</strong><br><em>{{ person.metadata.role }}</em>
         </p>

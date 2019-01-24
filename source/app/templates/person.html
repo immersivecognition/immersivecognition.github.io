@@ -4,7 +4,11 @@
 
 <div class="section post">
     <div class="post-sidebar">
+        {% if person.metadata.image %}
+        <img class="person" src="{{url_for('static', filename='people-images/' + person.metadata.image)}}" />
+        {% else %}
         <img class="person" src="https://api.adorable.io/avatars/128/{{ person.metadata.name }}.png" />
+        {% endif %}
         <h1>{{ person.metadata.name }}</h1>
         <p>
             {{ person.metadata.role }}
