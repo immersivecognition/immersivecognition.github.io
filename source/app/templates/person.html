@@ -1,0 +1,57 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<div class="section post">
+    <div class="post-sidebar">
+        <img class="person" src="https://api.adorable.io/avatars/128/{{ person.metadata.name }}.png" />
+        <h1>{{ person.metadata.name }}</h1>
+        <p>
+            {{ person.metadata.role }}
+        </p>
+        <ul class="me-links">
+            {% if person.metadata.interests %}
+            <span class="link-title">Interests</span>
+            <ul class="interests">
+                {% for interest in person.metadata.interests.split(',') %}
+                <li>
+                    <i class="fas fa-angle-right fa-fw arrow-color"></i> {{ interest }}
+                </li>
+                {% endfor %}
+            </ul>
+            {% endif %}
+            {% if person.metadata.twitter %}
+            <span class="link-title">Twitter</span>
+            <li>
+                <a href="https://twitter.com/{{person.metadata.twitter}}">
+                    <i class="fab fa-twitter fa-fw twitter-color"></i>
+                    {{ person.metadata.twitter }}
+                </a>
+            </li>
+            {% endif %}
+            {% if person.metadata.github %}
+            <span class="link-title">GitHub</span>
+            <li>
+                <a href="https://github.com/{{person.metadata.github}}">
+                    <i class="fab fa-github fa-fw github-color"></i> 
+                     {{ person.metadata.github }}
+                </a>
+            </li>
+            {% endif %}
+            {% if person.metadata.scholar %}
+            <span class="link-title">Google Scholar</span>
+            <li>
+                <a href="https://scholar.google.co.uk/citations?user={{person.metadata.scholar}}">
+                    <i class="fas fa-book-open fa-fw scholar-color"></i> 
+                     {{ person.metadata.name }}
+                </a>
+            </li>
+            {% endif %}
+        </ul>
+    </div><div class="post-main">
+        <blockquote class="me">{{ person|safe }}</blockquote>
+    </div>
+
+</div>
+
+{% endblock %}

@@ -1,0 +1,41 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<div class="section post">
+    <div class="post-sidebar">
+        {% if project.metadata.image %}
+        <img width=100 height=100 src="{{ url_for('static', filename='project-images/' + project.metadata.image) }}" />
+        {% else %}
+        <img width=100 height=100 src="{{ url_for('static', filename='project-images/default.png') }}" />
+        {% endif %}
+        <h1>{{ project.metadata.name }}</h1>
+
+        <ul class="me-links">
+            {% if project.metadata.github %}
+            <span class="link-title">GitHub</span>
+            <li>
+                <a href="https://github.com/{{ project.metadata.github }}">
+                    <i class="fab fa-github fa-fw github-color"></i> 
+                    {{ project.metadata.github.split("/")[-1] }}
+                </a>
+            </li>
+            {% endif %}
+            {% if project.metadata.website %}
+            <span class="link-title">Website</span>
+            <li>
+                <a href="{{ project.metadata.website }}">
+                    <i class="fas fa-external-link-alt link-color"></i>
+                    External link
+                </a>
+            </li>
+            {% endif %}
+        </ul>
+
+    </div><div class="post-main">
+        {{ project|safe }}
+    </div>
+
+</div>
+
+{% endblock %}

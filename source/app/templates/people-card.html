@@ -1,13 +1,22 @@
-<h1>People</h1>
+<h1 class="center">People</h1>
 <ul id="people">
     {% for person in people %}
     <li>
-    <a class="personbox" href="http://example.com/">
-        <img class="person" src="https://api.adorable.io/avatars/128/{{ person.name }}.png" />
+    <a class="personbox" href="{{ person.href }}">
+        <img class="person" src="https://api.adorable.io/avatars/128/{{ person.metadata.name }}.png" />
         <p>
-            <em>{{ person.name }}</em><br>{{ person.role }}
+            <em>{{ person.metadata.name }}</em><br>{{ person.metadata.role }}
         </p>
     </a>
     </li>
     {% endfor %}
 </ul>
+
+
+<script>
+    // shuffles people
+    var ul = document.querySelector('ul#people');
+    for (var i = ul.children.length; i >= 0; i--) {
+        ul.appendChild(ul.children[Math.random() * i | 0]);
+    }
+</script>
