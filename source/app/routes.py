@@ -40,18 +40,18 @@ def index():
 
 @application.route('/projects/')
 def projects():
-    return render_template('projects.html', projects=get_mds('projects'))
+    return render_template('projects.html', projects=get_mds('projects'), title='Projects')
 
 
 @application.route('/projects/<name>/')
 def project(name):
     project = path_to_md("projects", name + '.md')
-    return render_template('project.html', project=project)
+    return render_template('project.html', project=project, title=project.metadata["name"])
 
 
 @application.route('/people/')
 def people():
-    return render_template('people.html', people=get_mds('people'))
+    return render_template('people.html', people=get_mds('people'), title="People")
 
 
 @application.route('/people/<name>/')
@@ -63,7 +63,7 @@ def person(name):
         papers = ALL_PAPERS[person.metadata['scholar']]
     else:
         papers = {}
-    return render_template('person.html', person=person, papers=papers, email=email)
+    return render_template('person.html', person=person, papers=papers, email=email, title=person.metadata["name"])
 
 
 @application.route('/papers/')
@@ -78,10 +78,10 @@ def papers():
     for year, papers in flattened_years.items():
         flattened_years[year] = remove_duplicates(papers, 'title')
 
-    return render_template('papers.html', papers=flattened_years)
+    return render_template('papers.html', papers=flattened_years, title="Papers")
 
 
 @application.route('/contact/')
 def contact():
     email = 'pscicon'
-    return render_template('contact.html', email=obfuscate(email + '@' + DOMAIN))
+    return render_template('contact.html', email=obfuscate(email + '@' + DOMAIN), title="Contact")
