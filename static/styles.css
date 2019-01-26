@@ -347,7 +347,6 @@ button.year {
 }
 
 button.year::before {
-    font-family: monospace;
     content: '⯈';
     padding-right: 0.5em;
 }
