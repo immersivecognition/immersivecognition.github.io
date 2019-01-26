@@ -1,5 +1,5 @@
 {% for year in papers|sort(reverse=True) %}
-<button class="year">{% if year == "0" %}Undated{% else %}{{ year }}{% endif %}</button>
+<button class="year"><span class="fas fa-caret-right fa-fw r-arrow"></span><span class="fas fa-caret-down fa-fw d-arrow"></span>{% if year == "0" %}Undated{% else %}{{ year }}{% endif %}</button>
     <ul class="paperlist paperlist-hidden">
     {% for paper in papers[year] %}
         <li>

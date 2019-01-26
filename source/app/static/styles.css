@@ -346,18 +346,26 @@ button.year {
     font-weight: 400;
 }
 
-button.year::before {
-    content: '\002BC8';
+.r-arrow, .d-arrow {
     padding-right: 0.5em;
+    display: inline-block;
+}
+
+button.year .d-arrow {
+    display: none;
+}
+
+button.year-active .r-arrow {
+    display: none;
+}
+
+button.year-active .d-arrow {
+    display: inline-block;
 }
 
 button.year:hover {
     background-color: #e7e7e7;
     color: black;
-}
-
-button.year-active::before {
-    content: '\002BC6';
 }
 
 ul.paperlist {
