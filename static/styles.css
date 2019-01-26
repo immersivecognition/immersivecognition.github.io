@@ -347,7 +347,7 @@ button.year {
 }
 
 button.year::before {
-    content: '⯈';
+    content: '\002BC8';
     padding-right: 0.5em;
 }
 
@@ -357,7 +357,7 @@ button.year:hover {
 }
 
 button.year-active::before {
-    content: '⯆';
+    content: '\002BC6';
 }
 
 ul.paperlist {
