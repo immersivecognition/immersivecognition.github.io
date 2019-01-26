@@ -2,8 +2,12 @@ from flask import render_template, url_for
 from app import application
 import os
 import markdown2
+import json
+from email_obfuscator import obfuscate
 
 CONTENT = "content"
+ALL_PAPERS = json.load(open(os.path.join(CONTENT, 'papers.json'), encoding="utf-8"))
+DOMAIN = 'leeds.ac.uk'
 
 def path_to_md(base, filename):
     md_path = os.path.join(CONTENT, base)
@@ -16,6 +20,16 @@ def get_mds(base):
     files = [f for f in os.listdir(os.path.join(CONTENT, base)) if f.lower().endswith(".md")]
     mds = [path_to_md(base, f) for f in files]
     return mds
+
+
+def remove_duplicates(lis, key):
+    seen = set()
+    result = []
+    for item in lis:
+        if item[key] not in seen:
+            result.append(item)
+            seen.add(item[key])
+    return result
 
 
 @application.route('/')
@@ -43,9 +57,31 @@ def people():
 @application.route('/people/<name>/')
 def person(name):
     person = path_to_md("people", name + '.md')
-    return render_template('person.html', person=person)
+    email = person.metadata.get("email", None)
+    email = None if email == None else obfuscate(email + '@' + DOMAIN)
+    if 'scholar' in person.metadata:
+        papers = ALL_PAPERS[person.metadata['scholar']]
+    else:
+        papers = {}
+    return render_template('person.html', person=person, papers=papers, email=email)
+
+
+@application.route('/papers/')
+def papers():
+    flattened_years = {}
+    for years_dict in ALL_PAPERS.values():
+        for year, papers in years_dict.items():
+            if year not in flattened_years:
+                flattened_years[year] = []
+            flattened_years[year] += papers
+    
+    for year, papers in flattened_years.items():
+        flattened_years[year] = remove_duplicates(papers, 'title')
+
+    return render_template('papers.html', papers=flattened_years)
 
 
 @application.route('/contact/')
 def contact():
-    return render_template('contact.html')
+    email = 'pscicon'
+    return render_template('contact.html', email=obfuscate(email + '@' + DOMAIN))

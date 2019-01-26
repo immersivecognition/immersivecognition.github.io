@@ -11,7 +11,7 @@ def resize_aspect_fit(path, dest, final_size, fmt):
             im = Image.open(path + item)
             f, e = os.path.splitext(path + item)
             size = im.size
-            ratio = float(final_size) / max(size)
+            ratio = float(final_size) / min(size)
             new_image_size = tuple([int(x*ratio) for x in size])
             im = im.resize(new_image_size, Image.ANTIALIAS)
             new_im = Image.new("RGB" if fmt=='JPEG' else "RGBA", (final_size, final_size))
@@ -29,7 +29,7 @@ def resize_aspect_fit(path, dest, final_size, fmt):
 
             fname, e = os.path.splitext(item)
             if fmt == 'JPEG':
-                new_im.save(dest + fname + '.jpg', 'JPEG', quality=90)
+                new_im.save(dest + fname + '.jpg', 'JPEG', quality=93)
             elif fmt == 'PNG':
                 new_im.save(dest + fname + '.png', 'PNG')
             print(f"converted {item}")

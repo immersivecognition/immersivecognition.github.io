@@ -5,9 +5,9 @@
 <div class="section post">
     <div class="post-sidebar">
         {% if person.metadata.image %}
-        <img class="person" src="{{url_for('static', filename='people-images/' + person.metadata.image)}}" />
+        <img class="person" src="{{url_for('static', filename='people-images/' + person.metadata.image)}}", alt="{{person.metadata.name}}" />
         {% else %}
-        <img class="person" src="https://api.adorable.io/avatars/128/{{ person.metadata.name }}.png" />
+        <img class="person" src="https://api.adorable.io/avatars/128/{{ person.metadata.name }}.png", alt="{{person.metadata.name}}" />
         {% endif %}
         <h1>{{ person.metadata.name }}</h1>
         <p>
@@ -51,9 +51,20 @@
                 </a>
             </li>
             {% endif %}
+            {% if email %}
+            <span class="link-title">Email</span>
+            <li>
+                <i class="fa fa-envelope fa-fw email-color" aria-hidden="true"></i>
+                {{ email|safe }}
+            </li>
+            {% endif %}
         </ul>
     </div><div class="post-main">
         <blockquote class="me">{{ person|safe }}</blockquote>
+        {% if papers %}
+        <h2>Papers</h2>
+        {% include 'papers-card.html' %}
+        {% endif %}
     </div>
 
 </div>

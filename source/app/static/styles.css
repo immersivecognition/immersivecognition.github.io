@@ -8,6 +8,7 @@ body {
     color: #353535;
     margin: 0;
     min-width: 400px;
+    line-height: 130%;
 }
 
 em {
@@ -50,8 +51,6 @@ a:link, a:hover, a:focus, a:active, a:visited {
     height: 50px;
     color: #adadad;
     font-size: 12px;
-    font-family: 'Work Sans', sans-serif;
-    font-weight: 400;
     text-align: center;
 }
 
@@ -131,6 +130,7 @@ h1, h2, h3, h4, h5, h6 {
     margin-top: 0;
     font-family: 'Work Sans', sans-serif;
     font-weight: 400;
+    line-height: 1.3em;
 }
 
 .center {
@@ -264,7 +264,7 @@ a.personbox:hover img.person {
 }
 
 .post a {
-    color: #0e47b1;
+    color: #1a0dab;
 }
 
 .post-sidebar {
@@ -279,13 +279,14 @@ a.personbox:hover img.person {
     display: inline-block;
     width: 70%;
     vertical-align: top;
+    font-size: 16px;
+    line-height: 160%;
 }
 
 blockquote.me {
-    font-size: 18px;
     border-left: 10px solid #e7e7e7;
     margin: 1.5em 10px;
-    padding: 0.5em 10px;
+    padding: 0.5em 1.5em;
     quotes: "\201C""\201D""\2018""\2019";
 }
 
@@ -296,10 +297,6 @@ blockquote.me:before {
     line-height: 0.1em;
     margin-right: 0.25em;
     vertical-align: -0.4em;
-}
-
-blockquote.me p {
-    display: inline;
 }
 
 .link-title {
@@ -320,8 +317,10 @@ ul.me-links > li {
 }
 
 ul.contact {
+    padding: 1em 0 0 0;
+    text-align: center;
+    font-size: 18px;
     list-style: none;
-    font-weight: 700;
 }
 
 ul.interests {
@@ -333,12 +332,72 @@ ul.interests li {
     margin: 0.4em 0;
 }
 
+button.year {
+    background-color: #f8f8f8;
+    cursor: pointer;
+    padding: 0.6em;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    margin: 0.3em 0;
+    font-size: 18px;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 400;
+}
+
+button.year::before {
+    font-family: monospace;
+    content: '⯈';
+    padding-right: 0.5em;
+}
+
+button.year:hover {
+    background-color: #e7e7e7;
+    color: black;
+}
+
+button.year-active::before {
+    content: '⯆';
+}
+
+ul.paperlist {
+    padding: 0 1em;
+    list-style: none;
+}
+
+ul.paperlist-hidden {
+    display: none;
+}
+
+ul.paperlist li {
+    line-height: 140%;
+    padding: 1em 2em;
+    border-bottom: 1px solid #e7e7e7;
+}
+
+ul.paperlist li:last-child{
+    border-bottom: 0;
+}
+
+.paper-links {
+    padding-top: 0.5em;
+}
+
+.paper-links a {
+    padding-right: 1.5em;
+}
+
+
+
 i.email-color { color: #ffa930 }
 i.twitter-color { color: #1da1f2 }
 i.github-color { color: #333 }
 i.scholar-color { color: #4285f4 }
 i.link-color { color: #00ca54 }
 i.arrow-color { color: #e7e7e7 }
+i.pdf-color { color: #ff0000 }
+i.globe-color { color: #0033a1 }
 
 
 @media screen and (max-width: 640px) {
@@ -358,6 +417,10 @@ i.arrow-color { color: #e7e7e7 }
     .post-sidebar, .post-main {
         display: block;
         width: 100%;
+    }
+
+    ul.paperlist li {
+        padding: 1em 0em;
     }
 
 }

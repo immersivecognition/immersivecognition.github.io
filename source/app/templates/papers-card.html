@@ -1,0 +1,31 @@
+{% for year in papers|sort(reverse=True) %}
+<button class="year">{% if year == "0" %}Undated{% else %}{{ year }}{% endif %}</button>
+    <ul class="paperlist paperlist-hidden">
+    {% for paper in papers[year] %}
+        <li>
+            <strong><em>{{ paper.title }}</em></strong>;</br>
+            {% if paper.author %}{{ paper.author.replace(" and ", ", ") }};{% endif %}
+            {% if paper.journal %}{{ paper.journal }};{% endif %}
+            {% if year != "0" %}{{ paper.year }}{% endif %}
+            <div class="paper-links">
+                {% if paper.url %}<a class="link-title" href="{{ paper.url }}" target="_blank"><i class="fas fa-globe fa-fw globe-color"></i> Webpage</a>{% endif %}
+                {% if paper.eprint %}<a class="link-title" href="{{ paper.eprint }}" target="_blank"><i class="fas fa-file-pdf fa-fw pdf-color"></i> PDF</a>{% endif %}
+            </div>
+        </li>
+    {% endfor %}
+    </ul>
+{% endfor %}
+
+
+<script>
+    var coll = document.getElementsByClassName("year");
+    var i;
+    
+    for (i = 0; i < coll.length; i++) {
+        coll[i].addEventListener("click", function() {
+        this.classList.toggle("year-active");
+        var content = this.nextElementSibling;
+        content.classList.toggle("paperlist-hidden");
+        });
+    }
+</script>

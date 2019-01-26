@@ -1,12 +1,11 @@
-<h1 class="center">People</h1>
 <ul id="people">
     {% for person in people %}
     <li>
     <a class="personbox" href="{{ url_for('person', name=person.filename) }}">
         {% if person.metadata.image %}
-        <img class="person" src="{{url_for('static', filename='people-images/' + person.metadata.image)}}" />
+        <img class="person" src="{{url_for('static', filename='people-images/' + person.metadata.image)}}", alt="{{person.metadata.name}}" />
         {% else %}
-        <img class="person" src="https://api.adorable.io/avatars/128/{{ person.metadata.name }}.png" />
+        <img class="person" src="https://api.adorable.io/avatars/128/{{ person.metadata.name }}.png", alt="{{person.metadata.name}}" />
         {% endif %}
         <p>
             <strong>{{ person.metadata.name }}</strong><br><em>{{ person.metadata.role }}</em>
