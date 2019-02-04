@@ -3,6 +3,10 @@
     scroll-behavior: smooth;
 }
 
+html {
+    overflow-y: scroll;
+} 
+
 body {
     font-family: 'Lato', sans-serif;
     color: #353535;

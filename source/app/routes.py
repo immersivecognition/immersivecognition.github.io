@@ -59,7 +59,7 @@ def person(name):
     person = path_to_md("people", name + '.md')
     email = person.metadata.get("email", None)
     email = None if email == None else obfuscate(email + '@' + DOMAIN)
-    if 'scholar' in person.metadata:
+    if 'scholar' in person.metadata and person.metadata['scholar'] in ALL_PAPERS:
         papers = ALL_PAPERS[person.metadata['scholar']]
     else:
         papers = {}
