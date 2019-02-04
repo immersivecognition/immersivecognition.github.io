@@ -429,7 +429,7 @@
       {
         "title": "D| FF| CULTIES",
         "year": 1998,
-        "url": "http://books.google.com/books?hl=en&lr=&id=sDsJmqyMe7UC&oi=fnd&pg=PA213&dq=info:ewGpoF0-uQ4J:scholar.google.com&ots=DIj1cluaGE&sig=HtCJxi9BmhsDI4sC_JdkEk7y3j0",
+        "url": "http://books.google.com/books?hl=en&lr=&id=sDsJmqyMe7UC&oi=fnd&pg=PA213&dq=info:ewGpoF0-uQ4J:scholar.google.com&ots=DIj1cnAaHz&sig=nwkaUhzrSoW1vzafID1Y7c4vTEw",
         "author": "John P Wann and Mark Mon-Williams and Richard G Carson",
         "journal": "The Psychobiology of the Hand",
         "pages": "213",
@@ -439,7 +439,7 @@
       {
         "title": "The effect of vertical visual target location on head and neck posture",
         "year": 1998,
-        "url": "http://books.google.com/books?hl=en&lr=&id=70NZDwAAQBAJ&oi=fnd&pg=PA123&dq=info:S-s8sBQcqngJ:scholar.google.com&ots=dg5zHohz6i&sig=AmPXjjOKD2ypQDaUsNdmo1YallE",
+        "url": "http://books.google.com/books?hl=en&lr=&id=70NZDwAAQBAJ&oi=fnd&pg=PA123&dq=info:S-s8sBQcqngJ:scholar.google.com&ots=dg5zHqnz7d&sig=Kdmz2pBfTy-eEzta0-ylA0pEVzk",
         "author": "Robin Burgess-Limerick and Anna Plooy and Mark Mon-Williams",
         "journal": "Contemporary ergonomics",
         "pages": "123-129",
@@ -1313,7 +1313,7 @@
       {
         "title": "Measuring the development of motor-control processes in neurodevelopmental disorders",
         "year": 2006,
-        "url": "http://books.google.com/books?hl=en&lr=&id=cOLUEoTUhkwC&oi=fnd&pg=PA329&dq=info:-LWPCD-fZ5EJ:scholar.google.com&ots=-C2lmM_Tpk&sig=FmzhFoksqNiX228GhTRAx7s2Td0",
+        "url": "http://books.google.com/books?hl=en&lr=&id=cOLUEoTUhkwC&oi=fnd&pg=PA329&dq=info:-LWPCD-fZ5EJ:scholar.google.com&ots=-C2lmO4Tpq&sig=fBjM8jT-rxDJHg6BNjExj-ps4ME",
         "author": "MARK Mon-Williams and JAMES R Tresilian",
         "journal": "Imitation and the Social Mind: Autism and Typical Development",
         "pages": "329",
@@ -2170,7 +2170,7 @@
       {
         "title": "Motor development in Down syndrome: a longitudinal perspective",
         "year": 0,
-        "url": "http://books.google.com/books?hl=en&lr=&id=gZ9JWYumJHwC&oi=fnd&pg=PA225&dq=info:TrEaD99XIdQJ:scholar.google.com&ots=L24mN_KQWu&sig=hu2HV8oBF33eKbHxVpLhFnkHla4",
+        "url": "http://books.google.com/books?hl=en&lr=&id=gZ9JWYumJHwC&oi=fnd&pg=PA225&dq=info:TrEaD99XIdQJ:scholar.google.com&ots=L24mN0QQXo&sig=7G2RtgTwacH0Abf51IxN_7V8DSk",
         "author": "Anne Jobling and Mark Mon-Williams",
         "journal": "Perceptual-motor behavior in Down syndrome",
         "pages": "225-248",
@@ -2247,7 +2247,7 @@
       {
         "title": "Ophthalmic Factors in Down Syndrome: A Motoric Perspective",
         "year": 0,
-        "url": "http://books.google.com/books?hl=en&lr=&id=gZ9JWYumJHwC&oi=fnd&pg=PA99&dq=info:3gjk4CgHbIsJ:scholar.google.com&ots=L24mN_KQYp&sig=Brx91fjkDUp0QbHAGIAhTJ42iCw",
+        "url": "http://books.google.com/books?hl=en&lr=&id=gZ9JWYumJHwC&oi=fnd&pg=PA99&dq=info:3gjk4CgHbIsJ:scholar.google.com&ots=L24mN0QQYu&sig=0XW0GP7SFEjg0_1VsOWH-O2dso4",
         "author": "John P Wann",
         "journal": "Perceptual-motor Behavior in Down Syndrome",
         "pages": "99",
@@ -3130,6 +3130,35 @@
         "publisher": "Cold Spring Harbor Laboratory",
         "abstract": "Virtual Reality systems offer a powerful tool for human behaviour research. The ability to create three-dimensional visual scenes and measure responses to the visual stimuli enables the behavioural researcher to test hypotheses in a manner and scale that were previously unfeasible. For example, a researcher wanting to understand interceptive timing behaviour might wish to violate Newtonian mechanics, so objects move in novel 3D trajectories. The same researcher may wish to collect such data with hundreds of participants outside the laboratory (e.g. in a museum), and the use of a VR headset makes this a realistic proposition. The difficulty facing the researcher is that sophisticated 3D graphics engines (such as Unity) have been created for game designers rather than behavioural scientists. In order to overcome this barrier, we have created a set of tools and programming syntaxes that allow logical encoding of the common experimental features required by the behavioural scientist. The Unity Experimental Framework (UXF) allows the researcher to readily implement several forms of data collection, and provides researchers with the ability to easily modify independent variables. UXF does not offer any stimulus presentation features, so the full power of the Unity game engine can be exploited. We use a case study to show how UXF can support behavioural research and remote deployment of experiments (where data are streamed over the internet and accessed later by researchers). In summary, UXF presents an opportunity to simplify and speed up development of virtual reality experiments created in commercial VR software.",
         "eprint": "https://www.biorxiv.org/content/biorxiv/early/2018/11/01/459339.full.pdf"
+      }
+    ]
+  },
+  "uoOWsPIAAAAJ": {
+    "2018": [
+      {
+        "title": "Studying Human Behaviour with Virtual Reality: The Unity Experiment Framework",
+        "year": 2018,
+        "url": "https://www.biorxiv.org/content/10.1101/459339v1.abstract",
+        "author": "Jack Brookes and Matthew Warburton and Mshari Alghadier and Faisal Mushtaq and Mark Mon-Williams",
+        "journal": "bioRxiv",
+        "pages": "459339",
+        "publisher": "Cold Spring Harbor Laboratory",
+        "abstract": "Virtual Reality systems offer a powerful tool for human behaviour research. The ability to create three-dimensional visual scenes and measure responses to the visual stimuli enables the behavioural researcher to test hypotheses in a manner and scale that were previously unfeasible. For example, a researcher wanting to understand interceptive timing behaviour might wish to violate Newtonian mechanics, so objects move in novel 3D trajectories. The same researcher may wish to collect such data with hundreds of participants outside the laboratory (e.g. in a museum), and the use of a VR headset makes this a realistic proposition. The difficulty facing the researcher is that sophisticated 3D graphics engines (such as Unity) have been created for game designers rather than behavioural scientists. In order to overcome this barrier, we have created a set of tools and programming syntaxes that allow logical encoding of the common experimental features required by the behavioural scientist. The Unity Experimental Framework (UXF) allows the researcher to readily implement several forms of data collection, and provides researchers with the ability to easily modify independent variables. UXF does not offer any stimulus presentation features, so the full power of the Unity game engine can be exploited. We use a case study to show how UXF can support behavioural research and remote deployment of experiments (where data are streamed over the internet and accessed later by researchers). In summary, UXF presents an opportunity to simplify and speed up development of virtual reality experiments created in commercial VR software.",
+        "eprint": "https://www.biorxiv.org/content/biorxiv/early/2018/11/01/459339.full.pdf"
+      }
+    ],
+    "2015": [
+      {
+        "title": "The effect of backpack weight on dynamic foot-loading patterns in Saudi school boys aged 7 to 12 years",
+        "year": 2015,
+        "url": "https://www.physiotherapyjournal.com/article/S0031-9406(15)00199-6/abstract",
+        "author": "M Alghadier",
+        "journal": "Physiotherapy",
+        "volume": "101",
+        "pages": "e51-e52",
+        "publisher": "Elsevier",
+        "abstract": "Background: Obesity is a major health issue worldwide. It is the fifth leading risk factor for global death. Childhood obesity is growing fast as it doubled in the last 30 years. Globally around 170 million children, aged less than 18 years, were estimated to be overweight (Lobstein et al., 2004). In 2010, the childhood obesity prevalence in Saudi Arabia reached 9.3%. Obesity prevalence remains high and therefore surveillance should be monitored. Studies reported that foot-loading patterns were altered by obesity.",
+        "eprint": "http://www.academia.edu/download/39974870/WCPT_present..pdf"
       }
     ]
   },
