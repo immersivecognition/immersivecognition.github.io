@@ -3,6 +3,8 @@ name: Paul Dominick Baniqued
 role: PhD Student
 interests: Mechanical Engineering, Biorobotics, Cognitive Neuroscience
 scholar: PBa5aYMAAAAJ
+github: paulbaniqued
+twitter: paulobaniqued
 email: mnpdeb
 image: paul.jpg
 ---
