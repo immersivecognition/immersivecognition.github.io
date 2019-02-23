@@ -4,6 +4,7 @@ role: PhD Student
 interests: Mechanical Engineering, Biorobotics, Cognitive Neuroscience
 scholar: PBa5aYMAAAAJ
 email: mnpdeb
+image: paul.jpg
 ---
 
 
