@@ -46,7 +46,8 @@ def projects():
 @application.route('/projects/<name>/')
 def project(name):
     project = path_to_md("projects", name + '.md')
-    return render_template('project.html', project=project, title=project.metadata["name"])
+    description = project.metadata.get("description", None)
+    return render_template('project.html', project=project, title=project.metadata["name"], description=description)
 
 
 @application.route('/people/')
