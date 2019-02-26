@@ -115,8 +115,6 @@ ul.navlist li {
     font-size: 18px;
     display: inline-block; 
     padding: 15px 1em;
-    -webkit-transition: .15s; /* Safari */
-    transition: .15s;
     color: #4b4b4b;
 }
 
