@@ -1,0 +1,1 @@
+Do not edit this folder directly: Add the images to the content folder and run resizeimg.py. 

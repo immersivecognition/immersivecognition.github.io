@@ -285,6 +285,10 @@ a.personbox:hover img.person {
     line-height: 160%;
 }
 
+.post-main img, .post-main video {
+    max-width: 100%;
+}
+
 blockquote.me {
     border-left: 10px solid #e7e7e7;
     margin: 1.5em 10px;
