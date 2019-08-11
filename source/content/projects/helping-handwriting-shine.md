@@ -21,5 +21,5 @@ Helping Handwriting Shine is based on five Key Principles:
 
 The intervention is being evaluated via a randomised controlled trial by the [National Foundation for Educational Research](https://www.nfer.ac.uk/) and the project is funded by the [Education Endowment Foundation](https://educationendowmentfoundation.org.uk/).
 
-<img src="https://github.com/immersivecognition/immersivecognition.github.io/blob/master/static/files/hhs-manual.jpg" alt="HHS Manuals" height="200"> <img src="https://github.com/immersivecognition/immersivecognition.github.io/blob/master/static/files/hhs-em.jpg" alt="HHS Manuals" height="200"> <img src="https://github.com/immersivecognition/immersivecognition.github.io/blob/master/static/files/hhs-handwriting.jpg" alt="HHS Manuals" height="200">
+<img src="/static/files/hhs-manual.jpg" alt="HHS Manuals" height="200"> <img src="/static/files/hhs-em.jpg" alt="HHS Manuals" height="200"> <img src="/static/files/hhs-handwriting.jpg" alt="HHS Manuals" height="200">
 
