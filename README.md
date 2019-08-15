@@ -1,11 +1,10 @@
 # immersivecognition.github.io
 Immersive Cognition GitHub landing page
 
-## Information
-
-Website is built in Flask (Python module). The static HTML content is generated using Frozen-Flask.
 
 ## Updating (for users)
+
+**Only modify files inside the `/source/content` folder.**
 
 Users can add/modify markdown files in the [/source/content/people](/source/content/people) or [/source/content/projects](/source/content/projects) and submit as a pull request. See existing markdown files for examples
 
@@ -20,6 +19,10 @@ To add/remove/modify papers, don't edit `papers.json` directly - instead fix the
 
 
 ## Updating (for developers)
+
+### Information
+
+Website is built in Flask (Python module). The static HTML content is generated using Frozen-Flask.
 
 If users add content (markdown files, or images), the developer needs to [clone the pull request](https://help.github.com/articles/checking-out-pull-requests-locally/). With the local repository run the following Python scripts (from the `/source` folder to incorporate the changes into the static HTML:
 
