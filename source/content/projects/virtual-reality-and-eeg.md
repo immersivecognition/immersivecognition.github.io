@@ -13,4 +13,4 @@ In the Immersive Cognition Lab, some of our experiments involve recording EEG an
 In this case study, we synchronized the recording of an experiment running on a commercially available VR device (HTC) and an EEG system (the Enobio 8 channel). Participants played a simple baseball game whilst we sent markers identifying distinct events that took place in the game so that event-related data could be later analysed off-line.
 
 
-<img src="/static/files/vr-baseball.png" alt="Virtual Reality Baseball Screenshot" height="200"> <img src="/static/files/vr-eeg.jpg" alt="Virtual Reality EEG" height="200">
+<img src="/static/files/vr-baseball.png" alt="Virtual Reality Baseball Screenshot" height="200"> <img src="/static/files/vr-eeg.jpg" alt="Virtual Reality EEG" height="200"> <img src="/static/files/eeg-graph.png" alt="Virtual Reality EEG">
