@@ -51,21 +51,7 @@ def get_papers(author):
         pubs_sorted[year].append(pub)
     return pubs_sorted
 
-
-def get_page_overload(pagerequest):
-    """
-    Overload for default _get_page function in scholarly 
-    """
-    resp = scholarly._SESSION.get(pagerequest, headers=scholarly._HEADERS, cookies=scholarly._COOKIES)
-    if resp.status_code == 200:
-        return resp.text
-    if resp.status_code == 503:
-        raise Exception('Error: {0} {1}'.format(resp.status_code, resp.reason))
-    else:
-        raise Exception('Error: {0} {1}'.format(resp.status_code, resp.reason))
-
-scholarly._get_page = get_page_overload
-
+# to speed up, you can reduce the sleep time in scholarly._get_page function (scholarly.py).
 
 if __name__ == "__main__":
     scholars = get_scholars()
@@ -74,4 +60,3 @@ if __name__ == "__main__":
     with open(os.path.join(CONTENT, 'papers.json'), 'w+', encoding="utf-8") as f:
         print(f"papers info saved to papers.json")
         json.dump(papers, f, indent=2, ensure_ascii=False, skipkeys=True)
-    scholarly._SESSION.__exit__()

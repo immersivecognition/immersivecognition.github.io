@@ -221,9 +221,10 @@ img.banner {
 }
 
 p.about {
-    font-size: 1.3em;
+    text-align: center;
+    font-size: 2em;
     line-height: 140%;
-    text-align: left;
+    color: #4b4b4b;
 }
 
 ul#people {

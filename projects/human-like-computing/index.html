@@ -75,7 +75,29 @@
     </div><div class="post-main">
         <h1>Human-Like Computing (HLC)</h1>
 
-<p>The Human-Like Computing (HLC) project aims to use human approaches to solve robotics problems. Humans can navigate cluttered environments, like fridges, with ease whereas robots take orders of magnitudes more time to plan and execute actions. Utilising Virtual Reality (VR), we hope to investigate what allows humans to plan these complicated movements and apply the learnings to robots.</p>
+<h2>Background</h2>
+
+<p>How do you grasp a bottle of milk, nestling behind some yoghurt pots, within a cluttered fridge. Humans are able to easily and rapidly plan such actions using visual information, while robots struggle.
+While artificial intelligence has made great leaps in beating humans in tasks such as chess, the planning and execution abilities of today's robots are trumped by the average toddler.
+Given the complex and unpredictable world we live in, these apparently trivial tasks are the product of highly sophisticated neural computations that generalise and adapt to changing situations: continually engaged in a process of selecting between multiple goals and actions.</p>
+
+<p>Our aim is to investigate how such computations could be transferred to robots to enable them to manipulate objects more efficiently, in a ore human-like way than is presently the case, and to be able to perform manipulation presently beyond the state of the art.</p>
+
+<h2>Implementation</h2>
+
+<p>To investigate how humans interact with cluttered environments, a virtual reality (VR) scenario was created. 
+VR has many advantages over traditional experimental setups, elaborated on in the UXF project. 
+The Unity game engine and UXF were used to create a scenario where participants move obstacles on a table to reach a target and retrieve it to an end point.
+The participant's hand, elbow and shoulder were tracked using a HTC Vive VR system and 2x HTC Vive trackers.
+See the video below for an example of the scenario:</p>
+
+<p><video controls>
+  <source src="/static/files/cluttered-environment-task.mp4" type="video/mp4">
+  Your browser does not support HTML5 video.
+</video></p>
+
+<p>Experimental data was collected for 20 participants, each performing 120 trials where we manipulated the setup of the obstacles to investigate certain behaviours. 
+In conjunction with the data collection, a computational model was created to describe a high level process by which humans could select which obstacles to move given a layout, which works on assessing where the gaps between obstacles are and whether the participant needs to interact with obstacles to give a useable path to the target.</p>
 
     </div>
 

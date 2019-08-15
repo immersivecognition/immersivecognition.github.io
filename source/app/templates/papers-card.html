@@ -3,8 +3,8 @@
     <ul class="paperlist paperlist-hidden">
     {% for paper in papers[year] %}
         <li>
-            <strong><em>{{ paper.title }}</em></strong>;</br>
-            {% if paper.author %}{{ paper.author.replace(" and ", ", ") }};{% endif %}
+            <strong><em>{{ paper.title }}</em></strong></br>
+            {% if paper.author %}{{ paper.author.replace(" and ", ", ") }}{% endif %}
             {% if paper.journal %}{{ paper.journal }};{% endif %}
             {% if year != "0" %}{{ paper.year }}{% endif %}
             <div class="paper-links">
