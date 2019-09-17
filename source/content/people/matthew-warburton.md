@@ -4,6 +4,8 @@ role: Research Assistant
 interests: Decision making, Motor control
 email: M.Warburton
 github: mwarb
+twitter: m_warb
+scholar: zQa8nTgAAAAJ
 image: matthew.jpg
 ---
 
