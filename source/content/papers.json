@@ -122,19 +122,6 @@
         "eprint": "https://link.springer.com/article/10.1007/s00221-014-3947-4"
       },
       {
-        "title": "Kinematic measures of imitation fidelity in primary school children",
-        "year": 2014,
-        "url": "https://www.tandfonline.com/doi/abs/10.1080/15248372.2013.771265",
-        "author": "Justin HG Williams and Jackie M Casey and Lieke Braadbaart and Peter R Culmer and Mark Mon-Williams",
-        "journal": "Journal of Cognition and Development",
-        "volume": "15",
-        "number": "2",
-        "pages": "345-362",
-        "publisher": "Taylor & Francis Group",
-        "abstract": "We sought to develop a method for measuring imitation accuracy objectively in primary school children. Children imitated a model drawing shapes on the same computer-tablet interface they saw used in video clips, allowing kinematics of model and observers' actions to be directly compared. Imitation accuracy was reported as a correlation reflecting the statistical dependency between values of the model's and participant's sets of actions, or as a mean absolute difference between them. Children showed consistent improvement in imitation accuracy across middle childhood. They appeared to rationalize the demands of the task by remembering duration and size of action, which enabled them to reenact speed through motor-planning mechanisms. Kinematic measures may provide a window into the cognitive mechanisms involved in imitation.",
-        "eprint": "http://eprints.whiterose.ac.uk/88037/1/WilliamsCD.pdf"
-      },
-      {
         "title": "Calibration is both functional and anatomical.",
         "year": 2014,
         "url": "https://psycnet.apa.org/record/2013-25330-001",
@@ -146,6 +133,19 @@
         "publisher": "American Psychological Association",
         "abstract": "Bingham and Pagano (1998) described calibration as a mapping from embodied perceptual units to an embodied action unit and suggested that it is an inherent component of perception/action that yields accurate targeted actions. We tested two predictions of this “Mapping Theory.” First, calibration should transfer between limbs, because it involves a mapping from perceptual units to an action unit, and thus is functionally specific to the action (Pan, Coats, and Bingham, 2014). We used distorted haptic feedback to calibrate feedforward right hand reaches and tested right and left hand reaches after calibration. The calibration transferred. Second, the Mapping Theory predicts that limb specific calibration should be possible because the units are embodied and anatomy contributes to their scaling. Limbs must be calibrated to one another given potential anatomical differences among limbs. We used distorted haptic …",
         "eprint": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3923309/"
+      },
+      {
+        "title": "Kinematic measures of imitation fidelity in primary school children",
+        "year": 2014,
+        "url": "https://www.tandfonline.com/doi/abs/10.1080/15248372.2013.771265",
+        "author": "Justin HG Williams and Jackie M Casey and Lieke Braadbaart and Peter R Culmer and Mark Mon-Williams",
+        "journal": "Journal of Cognition and Development",
+        "volume": "15",
+        "number": "2",
+        "pages": "345-362",
+        "publisher": "Taylor & Francis Group",
+        "abstract": "We sought to develop a method for measuring imitation accuracy objectively in primary school children. Children imitated a model drawing shapes on the same computer-tablet interface they saw used in video clips, allowing kinematics of model and observers' actions to be directly compared. Imitation accuracy was reported as a correlation reflecting the statistical dependency between values of the model's and participant's sets of actions, or as a mean absolute difference between them. Children showed consistent improvement in imitation accuracy across middle childhood. They appeared to rationalize the demands of the task by remembering duration and size of action, which enabled them to reenact speed through motor-planning mechanisms. Kinematic measures may provide a window into the cognitive mechanisms involved in imitation.",
+        "eprint": "http://eprints.whiterose.ac.uk/88037/1/WilliamsCD.pdf"
       },
       {
         "title": "Children’s head movements and postural stability as a function of task",
@@ -489,7 +489,7 @@
       {
         "title": "D| FF| CULTIES",
         "year": 1998,
-        "url": "http://books.google.com/books?hl=en&lr=&id=sDsJmqyMe7UC&oi=fnd&pg=PA213&dq=info:ewGpoF0-uQ4J:scholar.google.com&ots=DIlZilz7IC&sig=Kchp31WXcxeJ8qtupASGBpQ2lt4",
+        "url": "http://books.google.com/books?hl=en&lr=&id=sDsJmqyMe7UC&oi=fnd&pg=PA213&dq=info:ewGpoF0-uQ4J:scholar.google.com&ots=DIl1biBaIz&sig=m8NB0diT_pSmDZhTG8S5wjfWXPs",
         "author": "John P Wann and Mark Mon-Williams and Richard G Carson",
         "journal": "The Psychobiology of the Hand",
         "pages": "213",
@@ -499,7 +499,7 @@
       {
         "title": "The effect of vertical visual target location on head and neck posture",
         "year": 1998,
-        "url": "http://books.google.com/books?hl=en&lr=&id=70NZDwAAQBAJ&oi=fnd&pg=PA123&dq=info:S-s8sBQcqngJ:scholar.google.com&ots=dg7vNomw8g&sig=Zld0rV_KazmQ7jqIrr1jQo34I68",
+        "url": "http://books.google.com/books?hl=en&lr=&id=70NZDwAAQBAJ&oi=fnd&pg=PA123&dq=info:S-s8sBQcqngJ:scholar.google.com&ots=dg7zGloz8i&sig=LkGqij0wv753LWomCS2GDa2Gfig",
         "author": "Robin Burgess-Limerick and Anna Plooy and Mark Mon-Williams",
         "journal": "Contemporary ergonomics",
         "pages": "123-129",
@@ -763,7 +763,7 @@
       {
         "title": "Motor development in Down syndrome: a longitudinal perspective",
         "year": 2000,
-        "url": "http://books.google.com/books?hl=en&lr=&id=gZ9JWYumJHwC&oi=fnd&pg=PA225&dq=info:TrEaD99XIdQJ:scholar.google.com&ots=L26iT_PNYs&sig=2DlaYXISzmO2VBqBvtbK77qyE9U",
+        "url": "http://books.google.com/books?hl=en&lr=&id=gZ9JWYumJHwC&oi=fnd&pg=PA225&dq=info:TrEaD99XIdQJ:scholar.google.com&ots=L26mMXRPUu&sig=9FGR6iHOILKuBGZI1zK8G_Y_IoU",
         "author": "Anne Jobling and Mark Mon-Williams",
         "journal": "Perceptual-motor behavior in Down syndrome",
         "pages": "225-248",
@@ -813,30 +813,78 @@
         "abstract": "The purpose as highlighted in the Acknowledgements section of Psychiatric Rehabilitation is to define and refine psychiatric rehabilitation. In most instances the book achieves this successfully. The book is separated into three parts:(i) an introduction to major mental illness;(ii) psychiatric rehabilitation; and (iii) the provision of community-based services. With the first section the reader is introduced competently to the basic concepts of mental illness including the latest developments in phenomenology, aetiology, prognosis and trajectory. The focus is almost exclusively, however, on USA epidemiological evidence, which the authors use to support"
       }
     ],
-    "1994": [
+    "1997": [
       {
-        "title": "Binocular vision in a bi-ocular world: new-generation head-mounted displays avoid causing visual deficit",
-        "year": 1994,
-        "url": "https://www.sciencedirect.com/science/article/pii/0141938294900736",
-        "author": "Simon Rushton and Mark Mon-Williams and John P Wann",
-        "journal": "Displays",
-        "volume": "15",
-        "number": "4",
-        "pages": "255-260",
-        "publisher": "Elsevier",
-        "abstract": "Our previous research highlighted adverse visual effects after wearing a binocular head-mounted display (HMD) for a 10 min stereoscopic visualization task. We have since proposed a theoretical, explanation based on the conflict between the depth. Such cues presented by image disparity and image focal depth. Such conflict, however, is not evident in all HMD configurations, and we replicated our early trials using a new-generation bi-ocular HMD produced by Virtuality Entertainment Ltd. Using similar, conventional optometric procedures with 50 participants, we observed no problems in the use of this display for immersion periods of to 30 min. This study demonstrates that effective HMDs can be produced through careful design and precision engineering. It also suggests a difference between the presentation of binocular and bi-ocular images and the requirements that they place on the visual system. Factors to …",
-        "eprint": "http://www.academia.edu/download/38171863/Binocular_vision_in_a_bi-ocular_world.pdf"
+        "title": "Synaesthesia in the normal limb",
+        "year": 1997,
+        "url": "https://royalsocietypublishing.org/doi/abs/10.1098/rspb.1997.0139",
+        "author": "Mark Mon-Williams and John P Wann and Morgan Jenkinson and Kate Rushton",
+        "journal": "Proceedings of the Royal Society of London. Series B: Biological Sciences",
+        "volume": "264",
+        "number": "1384",
+        "pages": "1007-1010",
+        "publisher": "The Royal Society",
+        "abstract": "We explored the degree to which vision may alter kinaesthetic perception by asking participants to view their hand through a prism, introducing different horizontal deviations, while trying to align their fingers above and below a thin table. When the visual image of one hand was displaced this overwhelmed kinaesthetic judgements and participants reliably reported that they felt their limbs were aligned, even when they were laterally mis–aligned by as much as 10 cm. This effect, however, was mediated by ‘visual capture’ and when the task was attempted in a darkened room with limb position indicated by an LED taped to the finger, kinaesthesis dominated and participants reported that the LED seemed to become detached from their finger tip. In both light and dark conditions the finger was clearly visible and only the background detail was extinguished. Hence, in perceiving limb position, it appears that we believe in …",
+        "eprint": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1688538/pdf/9263468.pdf"
       },
       {
-        "title": "Ophthalmic factors in developmental coordination disorder",
-        "year": 1994,
-        "url": "https://journals.humankinetics.com/view/journals/apaq/11/2/article-p170.xml",
-        "author": "Mark A Mon-Williams and Eve Pascal and John P Wann",
-        "journal": "Adapted Physical Activity Quarterly",
-        "volume": "11",
+        "title": "Health issues with virtual reality displays: What we do know and what we don't",
+        "year": 1997,
+        "url": "https://dl.acm.org/citation.cfm?id=271307",
+        "author": "John P Wann and Mark Mon-Williams",
+        "journal": "ACM SIGGRAPH Computer Graphics",
+        "volume": "31",
         "number": "2",
-        "pages": "170-178",
-        "abstract": "Developmental coordination disorder (DCD) occurs in a small number of children who present with impaired body/eye coordination. No study of ophthalmic function in DCD exists despite vision’s primary role in perception. Ocular performance was therefore assessed with a battery of tests. Five hundred children aged between 5 and 7 years were involved in the study. Diagnosis of DCD was confirmed for 29 children by the Movement Assessment Battery for Children (ABC); 29 control children were randomly selected. Comprehensive examination with a battery of ophthalmic tests did not reveal any significant difference in visual status between the two groups. Strabismus was found in 5 children from both groups. All 5 children with strabismus from the DCD group showed a similar movement profile with the Motor Competence Checklist. While a causal relationship cannot be discounted, the presence of strabismus …"
+        "pages": "53-57",
+        "publisher": "ACM",
+        "abstract": "During the late 1980s and early 1990s virtual reality (VR) technology enjoyed a prolonged honeymoon with the international media who presented a glossy futuristic image of the technology. It was inevitable that the media would eventually tire of this image and look for new journalistic angles, such as the negative effects of VR. Some speculation then ensued about the negative social consequences of VR in the public domain (\" Social autism\" and\" The end of civilisation as we know it…\"---Stone, 1992, BBC Horizon), although these speculations now appear unfounded. The first direct assertion, in the international media, that there might be visual safety issues with VR technology, came from the reporting of findings from Mon-Williams, Wann and Rushton in 1993 [5]. Since then a steady trickle of media features have strongly hinted at virtual problems that may arise (eg Business Week, July 10, 1995; New Scientist …"
+      },
+      {
+        "title": "Looking at the task in hand: vergence eye movements and perceived size",
+        "year": 1997,
+        "url": "https://link.springer.com/article/10.1007/s002210050246",
+        "author": "Mark Mon-Williams and James R Tresilian and Anna Plooy and John P Wann and Jack Broerse",
+        "journal": "Experimental Brain Research",
+        "volume": "117",
+        "number": "3",
+        "pages": "501-506",
+        "publisher": "Springer-Verlag",
+        "abstract": " A retinal afterimage of the hand changes size when the same unseen hand is moved backwards and forwards in darkness. We demonstrate that arm movements per se are not sufficient to cause a size change and that vergence eye movements are a necessary and sufficient condition for the presence of the illusory size change. We review previous literature to illustrate that changing limb position in the dark alters vergence angle and we explain the illusion via this mechanism. A discussion is provided on why altering limb position causes a change in vergence and we speculate on the underlying mechanisms.",
+        "eprint": "https://www.researchgate.net/profile/James_Tresilian/publication/226662828_Looking_at_the_task_in_hand_Vergence_eye_movements_and_perceived_size/links/0c96051e54ad0d446d000000.pdf"
+      },
+      {
+        "title": "The value of training accommodative facility for ball sports",
+        "year": 1997,
+        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1444-0938.1997.tb04867.x",
+        "author": "David Atchison and Mark Mon‐Williams and James Tresilian and Lawrence R Stark and Niall C Strang",
+        "journal": "Clinical and Experimental Optometry",
+        "volume": "80",
+        "number": "4",
+        "pages": "127-132",
+        "publisher": "Blackwell Publishing Ltd",
+        "abstract": "We address the issue of training accommodative facility as a means of improving performance in ball sports. Presenting examples from the game of baseball, we show that dynamic accommodation is unlikely to play an important role in ball skills. The movement speed of the ball combined with the last possible time at which visual information can be converted to motor action means that accommodation cannot provide useful information on the time to contact of the ball. In addition, we question whether altering accommodation to provide a clear retinal image of an approaching target is necessary for most ball sport skills.",
+        "eprint": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1444-0938.1997.tb04867.x"
+      },
+      {
+        "title": "Hepatitis D virus--how prevalent?",
+        "year": 1997,
+        "url": "https://www.ncbi.nlm.nih.gov/pubmed/9472257",
+        "author": "E van der Ryst and K Cloete and A van Heerden and EJ Smit and MM Williams",
+        "journal": "South African medical journal= Suid-Afrikaanse tydskrif vir geneeskunde",
+        "volume": "87",
+        "number": "10",
+        "pages": "1387; author reply 1388",
+        "abstract": "1. S Afr Med J. 1997 Oct;87(10):1387; author reply 1388. Hepatitis D virus--how\nprevalent? van der Ryst E, Cloete K, van Heerden A, Smit EJ, Williams MM. PMID:\n9472257 [Indexed for MEDLINE]. Publication Types: Letter. MeSH terms. Hepatitis\nD/epidemiology*; Humans; Prevalence; South Africa/epidemiology.\n"
+      },
+      {
+        "title": "A curious illusion suggests complex interactions in depth perception",
+        "year": 1997,
+        "url": "http://scholar.google.com/scholar?cluster=17294026490164517845&hl=en&oi=scholarr",
+        "author": "M Mon-Williams and JR Tresilian",
+        "volume": "26",
+        "number": "10",
+        "pages": "1334-1334",
+        "publisher": "PION LTD"
       }
     ],
     "2010": [
@@ -1028,94 +1076,33 @@
         "abstract": "The development of prehension was studied in five groups of children (n= 10 for each group) aged between 5 and 12 years. The experiment also involved 10 children with developmental coordination disorder. The control children were all screened on standardised cognitive and movement skill batteries to ensure that they had no neurological abnormalities. The tasks involved the children reaching to grasp objects with different sized grasping surfaces placed at different distances with their preferred and non-preferred hand. We also investigated bimanual coordination in a precision task that required reach-to-grasps to two different objects and locations at the same time. In our paradigm, the two objects were either at the same distance or one object was closer or further than the other. In the same way, the grasping surface could be the same or different so that one hand had to reach to an object with greater …"
       }
     ],
-    "1997": [
+    "1994": [
       {
-        "title": "Synaesthesia in the normal limb",
-        "year": 1997,
-        "url": "https://royalsocietypublishing.org/doi/abs/10.1098/rspb.1997.0139",
-        "author": "Mark Mon-Williams and John P Wann and Morgan Jenkinson and Kate Rushton",
-        "journal": "Proceedings of the Royal Society of London. Series B: Biological Sciences",
-        "volume": "264",
-        "number": "1384",
-        "pages": "1007-1010",
-        "publisher": "The Royal Society",
-        "abstract": "We explored the degree to which vision may alter kinaesthetic perception by asking participants to view their hand through a prism, introducing different horizontal deviations, while trying to align their fingers above and below a thin table. When the visual image of one hand was displaced this overwhelmed kinaesthetic judgements and participants reliably reported that they felt their limbs were aligned, even when they were laterally mis–aligned by as much as 10 cm. This effect, however, was mediated by ‘visual capture’ and when the task was attempted in a darkened room with limb position indicated by an LED taped to the finger, kinaesthesis dominated and participants reported that the LED seemed to become detached from their finger tip. In both light and dark conditions the finger was clearly visible and only the background detail was extinguished. Hence, in perceiving limb position, it appears that we believe in …",
-        "eprint": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1688538/pdf/9263468.pdf"
-      },
-      {
-        "title": "Health issues with virtual reality displays: What we do know and what we don't",
-        "year": 1997,
-        "url": "https://dl.acm.org/citation.cfm?id=271307",
-        "author": "John P Wann and Mark Mon-Williams",
-        "journal": "ACM SIGGRAPH Computer Graphics",
-        "volume": "31",
-        "number": "2",
-        "pages": "53-57",
-        "publisher": "ACM",
-        "abstract": "During the late 1980s and early 1990s virtual reality (VR) technology enjoyed a prolonged honeymoon with the international media who presented a glossy futuristic image of the technology. It was inevitable that the media would eventually tire of this image and look for new journalistic angles, such as the negative effects of VR. Some speculation then ensued about the negative social consequences of VR in the public domain (\" Social autism\" and\" The end of civilisation as we know it…\"---Stone, 1992, BBC Horizon), although these speculations now appear unfounded. The first direct assertion, in the international media, that there might be visual safety issues with VR technology, came from the reporting of findings from Mon-Williams, Wann and Rushton in 1993 [5]. Since then a steady trickle of media features have strongly hinted at virtual problems that may arise (eg Business Week, July 10, 1995; New Scientist …"
-      },
-      {
-        "title": "Looking at the task in hand: vergence eye movements and perceived size",
-        "year": 1997,
-        "url": "https://link.springer.com/article/10.1007/s002210050246",
-        "author": "Mark Mon-Williams and James R Tresilian and Anna Plooy and John P Wann and Jack Broerse",
-        "journal": "Experimental Brain Research",
-        "volume": "117",
-        "number": "3",
-        "pages": "501-506",
-        "publisher": "Springer-Verlag",
-        "abstract": " A retinal afterimage of the hand changes size when the same unseen hand is moved backwards and forwards in darkness. We demonstrate that arm movements per se are not sufficient to cause a size change and that vergence eye movements are a necessary and sufficient condition for the presence of the illusory size change. We review previous literature to illustrate that changing limb position in the dark alters vergence angle and we explain the illusion via this mechanism. A discussion is provided on why altering limb position causes a change in vergence and we speculate on the underlying mechanisms.",
-        "eprint": "https://www.researchgate.net/profile/James_Tresilian/publication/226662828_Looking_at_the_task_in_hand_Vergence_eye_movements_and_perceived_size/links/0c96051e54ad0d446d000000.pdf"
-      },
-      {
-        "title": "The value of training accommodative facility for ball sports",
-        "year": 1997,
-        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1444-0938.1997.tb04867.x",
-        "author": "David Atchison and Mark Mon‐Williams and James Tresilian and Lawrence R Stark and Niall C Strang",
-        "journal": "Clinical and Experimental Optometry",
-        "volume": "80",
+        "title": "Binocular vision in a bi-ocular world: new-generation head-mounted displays avoid causing visual deficit",
+        "year": 1994,
+        "url": "https://www.sciencedirect.com/science/article/pii/0141938294900736",
+        "author": "Simon Rushton and Mark Mon-Williams and John P Wann",
+        "journal": "Displays",
+        "volume": "15",
         "number": "4",
-        "pages": "127-132",
-        "publisher": "Blackwell Publishing Ltd",
-        "abstract": "We address the issue of training accommodative facility as a means of improving performance in ball sports. Presenting examples from the game of baseball, we show that dynamic accommodation is unlikely to play an important role in ball skills. The movement speed of the ball combined with the last possible time at which visual information can be converted to motor action means that accommodation cannot provide useful information on the time to contact of the ball. In addition, we question whether altering accommodation to provide a clear retinal image of an approaching target is necessary for most ball sport skills.",
-        "eprint": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1444-0938.1997.tb04867.x"
+        "pages": "255-260",
+        "publisher": "Elsevier",
+        "abstract": "Our previous research highlighted adverse visual effects after wearing a binocular head-mounted display (HMD) for a 10 min stereoscopic visualization task. We have since proposed a theoretical, explanation based on the conflict between the depth. Such cues presented by image disparity and image focal depth. Such conflict, however, is not evident in all HMD configurations, and we replicated our early trials using a new-generation bi-ocular HMD produced by Virtuality Entertainment Ltd. Using similar, conventional optometric procedures with 50 participants, we observed no problems in the use of this display for immersion periods of to 30 min. This study demonstrates that effective HMDs can be produced through careful design and precision engineering. It also suggests a difference between the presentation of binocular and bi-ocular images and the requirements that they place on the visual system. Factors to …",
+        "eprint": "http://www.academia.edu/download/38171863/Binocular_vision_in_a_bi-ocular_world.pdf"
       },
       {
-        "title": "Hepatitis D virus--how prevalent?",
-        "year": 1997,
-        "url": "https://www.ncbi.nlm.nih.gov/pubmed/9472257",
-        "author": "E van der Ryst and K Cloete and A van Heerden and EJ Smit and MM Williams",
-        "journal": "South African medical journal= Suid-Afrikaanse tydskrif vir geneeskunde",
-        "volume": "87",
-        "number": "10",
-        "pages": "1387; author reply 1388",
-        "abstract": "1. S Afr Med J. 1997 Oct;87(10):1387; author reply 1388. Hepatitis D virus--how\nprevalent? van der Ryst E, Cloete K, van Heerden A, Smit EJ, Williams MM. PMID:\n9472257 [Indexed for MEDLINE]. Publication Types: Letter. MeSH terms. Hepatitis\nD/epidemiology*; Humans; Prevalence; South Africa/epidemiology.\n"
-      },
-      {
-        "title": "A curious illusion suggests complex interactions in depth perception",
-        "year": 1997,
-        "url": "http://scholar.google.com/scholar?cluster=17294026490164517845&hl=en&oi=scholarr",
-        "author": "M Mon-Williams and JR Tresilian",
-        "volume": "26",
-        "number": "10",
-        "pages": "1334-1334",
-        "publisher": "PION LTD"
+        "title": "Ophthalmic factors in developmental coordination disorder",
+        "year": 1994,
+        "url": "https://journals.humankinetics.com/view/journals/apaq/11/2/article-p170.xml",
+        "author": "Mark A Mon-Williams and Eve Pascal and John P Wann",
+        "journal": "Adapted Physical Activity Quarterly",
+        "volume": "11",
+        "number": "2",
+        "pages": "170-178",
+        "abstract": "Developmental coordination disorder (DCD) occurs in a small number of children who present with impaired body/eye coordination. No study of ophthalmic function in DCD exists despite vision’s primary role in perception. Ocular performance was therefore assessed with a battery of tests. Five hundred children aged between 5 and 7 years were involved in the study. Diagnosis of DCD was confirmed for 29 children by the Movement Assessment Battery for Children (ABC); 29 control children were randomly selected. Comprehensive examination with a battery of ophthalmic tests did not reveal any significant difference in visual status between the two groups. Strabismus was found in 5 children from both groups. All 5 children with strabismus from the DCD group showed a similar movement profile with the Motor Competence Checklist. While a causal relationship cannot be discounted, the presence of strabismus …"
       }
     ],
     "2001": [
-      {
-        "title": "The effect of obstacle position on reach-to-grasp movements",
-        "year": 2001,
-        "url": "https://link.springer.com/article/10.1007/s002210100684",
-        "author": "Mark Mon-Williams and James R Tresilian and Vanessa L Coppard and Richard G Carson",
-        "journal": "Experimental brain research",
-        "volume": "137",
-        "number": "3-4",
-        "pages": "497-501",
-        "publisher": "Springer-Verlag",
-        "abstract": "  Numerous everyday tasks require the nervous system to program a prehensile movement towards a target object positioned in a cluttered environment. Adult humans are extremely proficient in avoiding contact with any non-target objects (obstacles) whilst carrying out such movements. A number of recent studies have highlighted the importance of considering the control of reach-to-grasp (prehension) movements in the presence of such obstacles. The current study was constructed with the aim of beginning the task of studying the relative impact on prehension as the position of obstacles is varied within the workspace. The experimental design ensured that the obstacles were positioned within the workspace in locations where they did not interfere physically with the path taken by the hand when no obstacle was present. In all positions, the presence of an obstacle caused the hand to slow down and the …",
-        "eprint": "https://www.researchgate.net/profile/James_Tresilian/publication/226977911_The_effect_of_obstacle_position_on_reach-to-grasp_movements/links/0c96051e54ad0b8416000000/The-effect-of-obstacle-position-on-reach-to-grasp-movements.pdf"
-      },
       {
         "title": "Monocular and binocular distance cues: insights from visual form agnosia I (of III)",
         "year": 2001,
@@ -1128,6 +1115,19 @@
         "publisher": "Springer-Verlag",
         "abstract": "  The human nervous system constructs a Euclidean representation of near (personal) space by combining multiple sources of information (cues). We investigated the cues used for the representation of personal space in a patient with visual form agnosia (DF). Our results indicated that DF relies predominantly on binocular vergence information when determining the distance of a target despite the presence of other (retinal) cues. Notably, DF was able to construct an Euclidean representation of personal space from vergence alone. This finding supports previous assertions that vergence provides the nervous system with veridical information for the construction of personal space. The results from the current study, together with those of others, suggest that: (i) the ventral stream is responsible for extracting depth and distance information from \"monocular\" retinal cues (i.e. from shading, texture, perspective …",
         "eprint": "http://wexler.free.fr/library/files/mon-williams%20%282001%29%20monocular%20and%20binocular%20depth%20cues.%20insights%20from%20visual%20form%20agnosia%20i%20%28of%20iii%29.pdf"
+      },
+      {
+        "title": "The effect of obstacle position on reach-to-grasp movements",
+        "year": 2001,
+        "url": "https://link.springer.com/article/10.1007/s002210100684",
+        "author": "Mark Mon-Williams and James R Tresilian and Vanessa L Coppard and Richard G Carson",
+        "journal": "Experimental brain research",
+        "volume": "137",
+        "number": "3-4",
+        "pages": "497-501",
+        "publisher": "Springer-Verlag",
+        "abstract": "  Numerous everyday tasks require the nervous system to program a prehensile movement towards a target object positioned in a cluttered environment. Adult humans are extremely proficient in avoiding contact with any non-target objects (obstacles) whilst carrying out such movements. A number of recent studies have highlighted the importance of considering the control of reach-to-grasp (prehension) movements in the presence of such obstacles. The current study was constructed with the aim of beginning the task of studying the relative impact on prehension as the position of obstacles is varied within the workspace. The experimental design ensured that the obstacles were positioned within the workspace in locations where they did not interfere physically with the path taken by the hand when no obstacle was present. In all positions, the presence of an obstacle caused the hand to slow down and the …",
+        "eprint": "https://www.researchgate.net/profile/James_Tresilian/publication/226977911_The_effect_of_obstacle_position_on_reach-to-grasp_movements/links/0c96051e54ad0b8416000000/The-effect-of-obstacle-position-on-reach-to-grasp-movements.pdf"
       },
       {
         "title": "A simple rule of thumb for elegant prehension",
@@ -1365,7 +1365,7 @@
       {
         "title": "Measuring the development of motor-control processes in neurodevelopmental disorders",
         "year": 2006,
-        "url": "http://books.google.com/books?hl=en&lr=&id=cOLUEoTUhkwC&oi=fnd&pg=PA329&dq=info:-LWPCD-fZ5EJ:scholar.google.com&ots=-C4hsM3Rhj&sig=S27oXYZa0ePvbrsOxro4G27_tf4",
+        "url": "http://books.google.com/books?hl=en&lr=&id=cOLUEoTUhkwC&oi=fnd&pg=PA329&dq=info:-LWPCD-fZ5EJ:scholar.google.com&ots=-C4llJ5Vqi&sig=xJNJ08zAdYd253tlXJxiaIHaNf8",
         "author": "MARK MON-WILLIAMS and JAMES R TRESILIAN",
         "journal": "Imitation and the Social Mind: Autism and Typical Development",
         "pages": "329",
@@ -2002,19 +2002,6 @@
         "eprint": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0077609"
       },
       {
-        "title": "A system in the wild: deploying a two player arm rehabilitation system for children with cerebral palsy in a school environment",
-        "year": 2013,
-        "url": "https://dl.acm.org/citation.cfm?id=2817922",
-        "author": "Raymond Holt and Andrew Weightman and Justin Gallagher and Nick Preston and Martin Levesley and Mark Mon-Williams and Bipinchandra Bhakta",
-        "journal": "Journal of Usability Studies",
-        "volume": "8",
-        "number": "4",
-        "pages": "111-126",
-        "publisher": "Usability Professionals' Association",
-        "abstract": "This paper outlines a system for arm rehabilitation for children with upper-limb hemiplegia resulting from cerebral palsy. Our research team designed a two-player, interactive (competitive or collaborative) computer play therapy system that provided powered assistance to children while they played specially designed games that promoted arm exercises. We designed the system for a school environment. To assess the feasibility of deploying the system in a school environment, the research team enlisted the help of teachers and staff in nine schools. Once the system was set up, it was used to deliver therapy without supervision from the research team. Ultimately, the system was found to be suitable for use in schools. However, the overriding need for schools to focus on academic activities meant that children could not use the system enough to achieve the amount of use desired for therapeutic benefit. In this paper …",
-        "eprint": "http://eprints.whiterose.ac.uk/88543/1/JUS_Holt_August_2013.pdf"
-      },
-      {
         "title": "Grasping the changes seen in older adults when reaching for objects of varied texture",
         "year": 2013,
         "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0069040",
@@ -2026,6 +2013,19 @@
         "publisher": "Public Library of Science",
         "abstract": "Old age is associated with reduced mobility of the hand. To investigate age related decline when reaching-to-lift an object we used sophisticated kinematic apparatus to record reaches carried out by healthy older and younger participants. Three objects of different widths were placed at three different distances, with objects having either a high or low friction surface (i.e. rough or slippery). Older participants showed quantitative differences to their younger counterparts – movements were slower and peak speed did not scale with object distance. There were also qualitative differences with older adults showing a greater propensity to stop the hand and adjust finger position before lifting objects. The older participants particularly struggled to lift wide slippery objects, apparently due to an inability to manipulate their grasp to provide the level of precision necessary to functionally enclose the object. These data shed light on the nature of age related changes in reaching-to-grasp movements and establish a powerful technique for exploring how different product designs will impact on prehensile behavior.",
         "eprint": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0069040"
+      },
+      {
+        "title": "A system in the wild: deploying a two player arm rehabilitation system for children with cerebral palsy in a school environment",
+        "year": 2013,
+        "url": "https://dl.acm.org/citation.cfm?id=2817922",
+        "author": "Raymond Holt and Andrew Weightman and Justin Gallagher and Nick Preston and Martin Levesley and Mark Mon-Williams and Bipinchandra Bhakta",
+        "journal": "Journal of Usability Studies",
+        "volume": "8",
+        "number": "4",
+        "pages": "111-126",
+        "publisher": "Usability Professionals' Association",
+        "abstract": "This paper outlines a system for arm rehabilitation for children with upper-limb hemiplegia resulting from cerebral palsy. Our research team designed a two-player, interactive (competitive or collaborative) computer play therapy system that provided powered assistance to children while they played specially designed games that promoted arm exercises. We designed the system for a school environment. To assess the feasibility of deploying the system in a school environment, the research team enlisted the help of teachers and staff in nine schools. Once the system was set up, it was used to deliver therapy without supervision from the research team. Ultimately, the system was found to be suitable for use in schools. However, the overriding need for schools to focus on academic activities meant that children could not use the system enough to achieve the amount of use desired for therapeutic benefit. In this paper …",
+        "eprint": "http://eprints.whiterose.ac.uk/88543/1/JUS_Holt_August_2013.pdf"
       },
       {
         "title": "The dynamics of sensorimotor calibration in reaching-to-grasp movements",
@@ -2132,117 +2132,6 @@
         "pages": "489-489",
         "publisher": "The Association for Research in Vision and Ophthalmology",
         "abstract": "Introduction: Children with Developmental Coordination Disorder (DCD) must overcome a ‘catch-22’to achieve sensori-motor learning. They cannot produce movements well enough to improve. Snapp-Childs, Mon-Williams and Bingham (2012) developed a method that supports active movement generation to allow practice with improvement of good compliance control. They showed that the method allowed children with DCD to improve at a 3D tracing task to become as proficient as typically developing children who had also trained. In the present study, we examined the effect of this training on handwriting, specifically figure copying, in 7-8 year olds. Methods: Twenty-three children were tested with the Beery VMI (including tests of Visual Perception (VP) and Motor Coordination (MC)), the 3D tracing task, and a 2D letter-like figure copying task. The children then trained on the 3D tracing task until they all reached …"
-      }
-    ],
-    "2005": [
-      {
-        "title": "The preparation of reach-to-grasp movements in adults, children, and children with movement problems",
-        "year": 2005,
-        "url": "https://www.tandfonline.com/doi/abs/10.1080/02724980443000575",
-        "author": "M Mon-Williams and JR Tresilian and VE Bell and VL Coppard and M Nixdorf and RG Carson*",
-        "journal": "The Quarterly Journal of Experimental Psychology Section A",
-        "volume": "58",
-        "number": "7",
-        "pages": "1249-1263",
-        "publisher": "The Experimental Psychology Society",
-        "abstract": "This study explored the use of advance information in the control of reach-to-grasp movements. The paradigm required participants to reach and grasp illuminated blocks with their right hand. Four target blocks were positioned on a table surface, two each side of the mid-saggital plane. In the complete precue condition, advance information precisely specified target location. In the partial precue condition, advance information indicated target location relative to the midsaggital plane (left or right). In the null condition, the advance information was entirely ambiguous. Participants produced fastest responses in the complete precue condition, intermediate response times in the partial condition, and the slowest responses in the null condition. This result was observed in adults and four groups of children including a group aged 4–6 years. In contrast, children with Developmental Coordination Disorder (DCD, n = 11 …",
-        "eprint": "https://www.researchgate.net/profile/Mark_Mon-Williams/publication/7570030_The_preparation_of_reach-to-grasp_movements_in_adults_children_and_children_with_movement_problems/links/00b7d523b6297853af000000.pdf"
-      },
-      {
-        "title": "Task constraints alter prehension movements qualitatively and quantitatively",
-        "year": 2005,
-        "url": "https://jov.arvojournals.org/article.aspx?articleid=2131844",
-        "author": "Mark Mon-Williams and Geoffrey P Bingham",
-        "journal": "Journal of Vision",
-        "volume": "5",
-        "number": "8",
-        "pages": "124-124",
-        "publisher": "The Association for Research in Vision and Ophthalmology",
-        "abstract": "A fundamental skill in everyday living involves reaching out and picking up an object (prehension). A fundamental issue in cognitive neuroscience is how movements vary in response to task requirements. It is important to address:(i) what lawful relations exist between task constraints and behaviour;(ii) which relations are stable across tasks;(iii) does behaviour change lawfully with task alteration? We asked participants to reach-and-grasp objects under different experimental conditions (n= 6 per condition). The participant's preferred hand moved to objects of different grip surface size (1, 2, 3cm) and object width (3, 5 and 7cm) placed at different distances (20, 30, 40cm). In condition 1, participants were allowed to touch the table off which the target objects were to be lifted. Movements showed the ‘classic’prehension pattern and object distance was the only variable that predicted duration. In condition 2, participants …"
-      },
-      {
-        "title": "'reading’dynamic facial expression in autistic spectrum disorder",
-        "year": 2005,
-        "url": "https://jov.arvojournals.org/article.aspx?articleid=2132205",
-        "author": "Katie Irwin and Benedict C Jones and Lisa M DeBruine and Justin H Williams and Mark Mon-Williams",
-        "journal": "Journal of Vision",
-        "volume": "5",
-        "number": "8",
-        "pages": "45-45",
-        "publisher": "The Association for Research in Vision and Ophthalmology",
-        "abstract": "Autistic Spectrum Disorder (ASD) affects about 1 in 200 individuals and is associated with deficits in social communication and reciprocity. These abilities are highly dependent upon the ability to understand others' intentions and desires by ‘reading’facial expressions and eye gaze direction. Instruments developed to diagnose ASD find that the ability to follow the direction of other's eye gaze, is impaired in ASD and discriminates between these children and those with other disorders. However, experiments have found that children with ASD reduce their reaction times to a two-choice stimulus, by taking advantage of a precue in the form of an eye gaze stimulus. These studies may be problematic as they employed static images of eyes that were removed from the face, and which could be treated as symbolic stimuli. In this study, 10 children with ASD and an age-matched control group were presented with a realistic …"
-      },
-      {
-        "title": "Patterns of developmental advancement in visually-controlled goal directed action",
-        "year": 2005,
-        "url": "https://jov.arvojournals.org/article.aspx?articleid=2131843",
-        "author": "Amy Mulroue and Mark Mon-Williams and Justin H Williams",
-        "journal": "Journal of Vision",
-        "volume": "5",
-        "number": "8",
-        "pages": "123-123",
-        "publisher": "The Association for Research in Vision and Ophthalmology",
-        "abstract": "Through development children become increasingly expert in their ability to modify their motor responses according to changing visual information. An important aspect of this may be the ability to apply learnt rules to modify goal-directed actions operating under direct visual control. We studied development of this ability in four groups of children (n= 10 for each group) aged between 5 and 12 years. Electromagnetic tracking equipment was used to document the kinematic features of aiming movement throughout its course from commencement to interception. The experiment consisted of 20 baseline trials and 60 further trials. For the baseline trials recorded before and after the experimental block, the child was required to move 25cm from a starting location to a stationary target 2cm in diameter (that the child knew would remain constant). A red target turning green was the signal to move. The experimental block …"
-      },
-      {
-        "title": "The visual control of goal directed action in developmental co-ordination disorder",
-        "year": 2005,
-        "url": "https://jov.arvojournals.org/article.aspx?articleid=2132110",
-        "author": "Lydia Henderson and Justin H Williams and Mark Mon-Williams",
-        "journal": "Journal of Vision",
-        "volume": "5",
-        "number": "8",
-        "pages": "364-364",
-        "publisher": "The Association for Research in Vision and Ophthalmology",
-        "abstract": "The aim of this study was to investigate visuo-motor control in children with developmental coordination disorder (DCD). Children with DCD show impairments in a wide range of basic movement skills. This includes the ability to utilise partial (but not complete) advance information to speed up their movement times in a reach-to-grasp paradigm. We hypothesised that children with DCD are impaired in their ability to use visual information in order to rapidly adjust on-going movements (ie they lack ‘on-line’visual control). To test this hypothesis we studied 10 children with DCD with a control group matched on age, and another control group matched on motor ability, on a perturbation paradigm. The task required the children to move a hand held stylus 25cm from a starting location to a target 2cm in diameter on a computer screen. The starting location and the computer screen were embedded within a flat horizontal …"
-      },
-      {
-        "title": "Patterns of developmental advancement in ‘reading’dynamic facial expression",
-        "year": 2005,
-        "url": "https://jov.arvojournals.org/article.aspx?articleid=2132238",
-        "author": "Sarah R White and Justin H Williams and Benedict C Jones and Lisa M DeBruine and Mark Mon-Williams",
-        "journal": "Journal of Vision",
-        "volume": "5",
-        "number": "8",
-        "pages": "48-48",
-        "publisher": "The Association for Research in Vision and Ophthalmology",
-        "abstract": "The ability to predict the intentions of others is a core feature of human social communication. Within the visual domain, information regarding intention is conveyed largely through gesture, facial expression and eye-gaze. Whilst there is evidence that even very young children follow eye gaze and discriminate between different facial expressions, much less effort has been directed to exploring whether children are able to integrate two sources of social-visual information to predict intention. We studied the development of this ability in four groups of children (n= 10 for each group) aged between 5 and 12 years using a facial pre-cue paradigm. The children were presented with a realistic computer generated face (composite of 100 real faces) on a computer screen for 1000ms. After a random delay of 500–3000ms after the face disappeared, a central arrow would appear pointing left or right. The children were required …"
-      },
-      {
-        "title": "Cue use under full cue conditions cannot be inferred from use under controlled conditions",
-        "year": 2005,
-        "url": "https://jov.arvojournals.org/article.aspx?articleid=2132156",
-        "author": "Geoffrey P Bingham and Mark Mon-Williams and Behnez Jarrahi and Roy Vinner",
-        "journal": "Journal of Vision",
-        "volume": "5",
-        "number": "8",
-        "pages": "405-405",
-        "publisher": "The Association for Research in Vision and Ophthalmology",
-        "abstract": "Height-in-the-visual-field (HVF) is the angle between the line of sight and a horizontal when viewing an object. We tested this classic distance cue when it was isolated as information about distance and showed that observers used it reliably to make distance judgments. We then tested the same stimuli with additional information available and observers failed to use the cue at all. This indicates that an inference from cue use in isolated conditions to cue use in full information conditions is not warranted."
-      },
-      {
-        "title": "Interpreting facial expression following alcohol consumption",
-        "year": 2005,
-        "url": "https://jov.arvojournals.org/article.aspx?articleid=2132216",
-        "author": "Peter JR McGinty and Lisa M DeBruine and Justin H Williams and Benedict C Jones and Mark Mon-Williams",
-        "journal": "Journal of Vision",
-        "volume": "5",
-        "number": "8",
-        "pages": "46-46",
-        "publisher": "The Association for Research in Vision and Ophthalmology",
-        "abstract": "Social situations are strongly influenced by the way that individuals respond to others' facial expressions, which convey a wealth of information about a person's mental state such as the mood and intentions. Ethyl alcohol is often involved as a neuropharmacological factor in such situations and alcohol has been shown to alter facial perception to make some faces appear more attractive. It therefore appears that facial expression may influence behaviour to a greater extent under the effects of alcohol. We were interested in whether ethyl alcohol altered the ability to derive intentional cues from facial observation, or inhibit responses to those cues. To explore this issue, we used a simple two choice reaction time task in 8 healthy, right handed non-smoking males of BMI= 18–21 in a double-blind, placebo-controlled crossover design. Blood alcohol levels were raised to about 0.15%. Participants were required to press a …"
-      },
-      {
-        "title": "How would you catch a ball if you had visual form agnosia?",
-        "year": 2005,
-        "url": "https://jov.arvojournals.org/article.aspx?articleid=2132028",
-        "author": "John P Wann and David T Field and Mark A Mon-Williams and David Milner",
-        "journal": "Journal of Vision",
-        "volume": "5",
-        "number": "8",
-        "pages": "290-290",
-        "publisher": "The Association for Research in Vision and Ophthalmology",
-        "abstract": "Visual form agnosia offers a means for exploring the capabilities and, to some degree, the limitations of the human dorsal visual stream. Wann et al (2001) observed that a patient with visual form agnosia (DF) could modify appropriately her reach towards an object if there was a rapid change in its disparity-specified distance but in contrast to control participants a sudden change of optical size did not produce an equivalent modification in reach distance. This raises the question of how sensitive is DF to looming information that ordinarily signals object approach and time to collision (TTC)? We first established that DF has a reasonable ability to catch a ball that is thrown to her in a straightforward fashion. We next presented DF with a range of looming and changing size stimuli. DF was able to report verbally whether an object was approaching or receding when shown a simulation of a looming or contracting ball but …"
       }
     ],
     "2017": [
@@ -2392,6 +2281,117 @@
         "pages": "498-506",
         "abstract": " Purpose One suggested advantage of human binocular vision is the facilitation of sophisticated motor control behaviours via stereopsis – but little empirical evidence exists to support this suggestion. We examined the functional significance of stereopsis by exploring whether stereopsis is used to perform a highly skilled real‐world motor task essential for the occupational practice of dentistry. Methods We used a high fidelity virtual reality simulator to study how dentists’ performance is affected by the removal of horizontal retinal image disparities under direct and indirect (mirror) observation. Thirteen qualified dentists performed a total of four different dental tasks under non‐stereoscopic and stereoscopic vision conditions, with two levels of task complexity (direct and indirect observation) using a virtual reality dental simulator. Results Depth related errors were significantly higher under non‐stereoscopic viewing …",
         "eprint": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/opo.12393"
+      }
+    ],
+    "2005": [
+      {
+        "title": "The preparation of reach-to-grasp movements in adults, children, and children with movement problems",
+        "year": 2005,
+        "url": "https://www.tandfonline.com/doi/abs/10.1080/02724980443000575",
+        "author": "M Mon-Williams and JR Tresilian and VE Bell and VL Coppard and M Nixdorf and RG Carson*",
+        "journal": "The Quarterly Journal of Experimental Psychology Section A",
+        "volume": "58",
+        "number": "7",
+        "pages": "1249-1263",
+        "publisher": "The Experimental Psychology Society",
+        "abstract": "This study explored the use of advance information in the control of reach-to-grasp movements. The paradigm required participants to reach and grasp illuminated blocks with their right hand. Four target blocks were positioned on a table surface, two each side of the mid-saggital plane. In the complete precue condition, advance information precisely specified target location. In the partial precue condition, advance information indicated target location relative to the midsaggital plane (left or right). In the null condition, the advance information was entirely ambiguous. Participants produced fastest responses in the complete precue condition, intermediate response times in the partial condition, and the slowest responses in the null condition. This result was observed in adults and four groups of children including a group aged 4–6 years. In contrast, children with Developmental Coordination Disorder (DCD, n = 11 …",
+        "eprint": "https://www.researchgate.net/profile/Mark_Mon-Williams/publication/7570030_The_preparation_of_reach-to-grasp_movements_in_adults_children_and_children_with_movement_problems/links/00b7d523b6297853af000000.pdf"
+      },
+      {
+        "title": "Task constraints alter prehension movements qualitatively and quantitatively",
+        "year": 2005,
+        "url": "https://jov.arvojournals.org/article.aspx?articleid=2131844",
+        "author": "Mark Mon-Williams and Geoffrey P Bingham",
+        "journal": "Journal of Vision",
+        "volume": "5",
+        "number": "8",
+        "pages": "124-124",
+        "publisher": "The Association for Research in Vision and Ophthalmology",
+        "abstract": "A fundamental skill in everyday living involves reaching out and picking up an object (prehension). A fundamental issue in cognitive neuroscience is how movements vary in response to task requirements. It is important to address:(i) what lawful relations exist between task constraints and behaviour;(ii) which relations are stable across tasks;(iii) does behaviour change lawfully with task alteration? We asked participants to reach-and-grasp objects under different experimental conditions (n= 6 per condition). The participant's preferred hand moved to objects of different grip surface size (1, 2, 3cm) and object width (3, 5 and 7cm) placed at different distances (20, 30, 40cm). In condition 1, participants were allowed to touch the table off which the target objects were to be lifted. Movements showed the ‘classic’prehension pattern and object distance was the only variable that predicted duration. In condition 2, participants …"
+      },
+      {
+        "title": "'reading’dynamic facial expression in autistic spectrum disorder",
+        "year": 2005,
+        "url": "https://jov.arvojournals.org/article.aspx?articleid=2132205",
+        "author": "Katie Irwin and Benedict C Jones and Lisa M DeBruine and Justin H Williams and Mark Mon-Williams",
+        "journal": "Journal of Vision",
+        "volume": "5",
+        "number": "8",
+        "pages": "45-45",
+        "publisher": "The Association for Research in Vision and Ophthalmology",
+        "abstract": "Autistic Spectrum Disorder (ASD) affects about 1 in 200 individuals and is associated with deficits in social communication and reciprocity. These abilities are highly dependent upon the ability to understand others' intentions and desires by ‘reading’facial expressions and eye gaze direction. Instruments developed to diagnose ASD find that the ability to follow the direction of other's eye gaze, is impaired in ASD and discriminates between these children and those with other disorders. However, experiments have found that children with ASD reduce their reaction times to a two-choice stimulus, by taking advantage of a precue in the form of an eye gaze stimulus. These studies may be problematic as they employed static images of eyes that were removed from the face, and which could be treated as symbolic stimuli. In this study, 10 children with ASD and an age-matched control group were presented with a realistic …"
+      },
+      {
+        "title": "Patterns of developmental advancement in visually-controlled goal directed action",
+        "year": 2005,
+        "url": "https://jov.arvojournals.org/article.aspx?articleid=2131843",
+        "author": "Amy Mulroue and Mark Mon-Williams and Justin H Williams",
+        "journal": "Journal of Vision",
+        "volume": "5",
+        "number": "8",
+        "pages": "123-123",
+        "publisher": "The Association for Research in Vision and Ophthalmology",
+        "abstract": "Through development children become increasingly expert in their ability to modify their motor responses according to changing visual information. An important aspect of this may be the ability to apply learnt rules to modify goal-directed actions operating under direct visual control. We studied development of this ability in four groups of children (n= 10 for each group) aged between 5 and 12 years. Electromagnetic tracking equipment was used to document the kinematic features of aiming movement throughout its course from commencement to interception. The experiment consisted of 20 baseline trials and 60 further trials. For the baseline trials recorded before and after the experimental block, the child was required to move 25cm from a starting location to a stationary target 2cm in diameter (that the child knew would remain constant). A red target turning green was the signal to move. The experimental block …"
+      },
+      {
+        "title": "The visual control of goal directed action in developmental co-ordination disorder",
+        "year": 2005,
+        "url": "https://jov.arvojournals.org/article.aspx?articleid=2132110",
+        "author": "Lydia Henderson and Justin H Williams and Mark Mon-Williams",
+        "journal": "Journal of Vision",
+        "volume": "5",
+        "number": "8",
+        "pages": "364-364",
+        "publisher": "The Association for Research in Vision and Ophthalmology",
+        "abstract": "The aim of this study was to investigate visuo-motor control in children with developmental coordination disorder (DCD). Children with DCD show impairments in a wide range of basic movement skills. This includes the ability to utilise partial (but not complete) advance information to speed up their movement times in a reach-to-grasp paradigm. We hypothesised that children with DCD are impaired in their ability to use visual information in order to rapidly adjust on-going movements (ie they lack ‘on-line’visual control). To test this hypothesis we studied 10 children with DCD with a control group matched on age, and another control group matched on motor ability, on a perturbation paradigm. The task required the children to move a hand held stylus 25cm from a starting location to a target 2cm in diameter on a computer screen. The starting location and the computer screen were embedded within a flat horizontal …"
+      },
+      {
+        "title": "Patterns of developmental advancement in ‘reading’dynamic facial expression",
+        "year": 2005,
+        "url": "https://jov.arvojournals.org/article.aspx?articleid=2132238",
+        "author": "Sarah R White and Justin H Williams and Benedict C Jones and Lisa M DeBruine and Mark Mon-Williams",
+        "journal": "Journal of Vision",
+        "volume": "5",
+        "number": "8",
+        "pages": "48-48",
+        "publisher": "The Association for Research in Vision and Ophthalmology",
+        "abstract": "The ability to predict the intentions of others is a core feature of human social communication. Within the visual domain, information regarding intention is conveyed largely through gesture, facial expression and eye-gaze. Whilst there is evidence that even very young children follow eye gaze and discriminate between different facial expressions, much less effort has been directed to exploring whether children are able to integrate two sources of social-visual information to predict intention. We studied the development of this ability in four groups of children (n= 10 for each group) aged between 5 and 12 years using a facial pre-cue paradigm. The children were presented with a realistic computer generated face (composite of 100 real faces) on a computer screen for 1000ms. After a random delay of 500–3000ms after the face disappeared, a central arrow would appear pointing left or right. The children were required …"
+      },
+      {
+        "title": "Cue use under full cue conditions cannot be inferred from use under controlled conditions",
+        "year": 2005,
+        "url": "https://jov.arvojournals.org/article.aspx?articleid=2132156",
+        "author": "Geoffrey P Bingham and Mark Mon-Williams and Behnez Jarrahi and Roy Vinner",
+        "journal": "Journal of Vision",
+        "volume": "5",
+        "number": "8",
+        "pages": "405-405",
+        "publisher": "The Association for Research in Vision and Ophthalmology",
+        "abstract": "Height-in-the-visual-field (HVF) is the angle between the line of sight and a horizontal when viewing an object. We tested this classic distance cue when it was isolated as information about distance and showed that observers used it reliably to make distance judgments. We then tested the same stimuli with additional information available and observers failed to use the cue at all. This indicates that an inference from cue use in isolated conditions to cue use in full information conditions is not warranted."
+      },
+      {
+        "title": "Interpreting facial expression following alcohol consumption",
+        "year": 2005,
+        "url": "https://jov.arvojournals.org/article.aspx?articleid=2132216",
+        "author": "Peter JR McGinty and Lisa M DeBruine and Justin H Williams and Benedict C Jones and Mark Mon-Williams",
+        "journal": "Journal of Vision",
+        "volume": "5",
+        "number": "8",
+        "pages": "46-46",
+        "publisher": "The Association for Research in Vision and Ophthalmology",
+        "abstract": "Social situations are strongly influenced by the way that individuals respond to others' facial expressions, which convey a wealth of information about a person's mental state such as the mood and intentions. Ethyl alcohol is often involved as a neuropharmacological factor in such situations and alcohol has been shown to alter facial perception to make some faces appear more attractive. It therefore appears that facial expression may influence behaviour to a greater extent under the effects of alcohol. We were interested in whether ethyl alcohol altered the ability to derive intentional cues from facial observation, or inhibit responses to those cues. To explore this issue, we used a simple two choice reaction time task in 8 healthy, right handed non-smoking males of BMI= 18–21 in a double-blind, placebo-controlled crossover design. Blood alcohol levels were raised to about 0.15%. Participants were required to press a …"
+      },
+      {
+        "title": "How would you catch a ball if you had visual form agnosia?",
+        "year": 2005,
+        "url": "https://jov.arvojournals.org/article.aspx?articleid=2132028",
+        "author": "John P Wann and David T Field and Mark A Mon-Williams and David Milner",
+        "journal": "Journal of Vision",
+        "volume": "5",
+        "number": "8",
+        "pages": "290-290",
+        "publisher": "The Association for Research in Vision and Ophthalmology",
+        "abstract": "Visual form agnosia offers a means for exploring the capabilities and, to some degree, the limitations of the human dorsal visual stream. Wann et al (2001) observed that a patient with visual form agnosia (DF) could modify appropriately her reach towards an object if there was a rapid change in its disparity-specified distance but in contrast to control participants a sudden change of optical size did not produce an equivalent modification in reach distance. This raises the question of how sensitive is DF to looming information that ordinarily signals object approach and time to collision (TTC)? We first established that DF has a reasonable ability to catch a ball that is thrown to her in a straightforward fashion. We next presented DF with a range of looming and changing size stimuli. DF was able to report verbally whether an object was approaching or receding when shown a simulation of a looming or contracting ball but …"
       }
     ],
     "2015": [
@@ -2803,7 +2803,7 @@
       {
         "title": "Ophthalmic Factors in Down Syndrome: A Motoric Perspective",
         "year": 0,
-        "url": "http://books.google.com/books?hl=en&lr=&id=gZ9JWYumJHwC&oi=fnd&pg=PA99&dq=info:3gjk4CgHbIsJ:scholar.google.com&ots=L26iT_PORr&sig=LQOE0sf8dnOzODkO5RBwgNDosAo",
+        "url": "http://books.google.com/books?hl=en&lr=&id=gZ9JWYumJHwC&oi=fnd&pg=PA99&dq=info:3gjk4CgHbIsJ:scholar.google.com&ots=L26mMYOSXt&sig=PYD30oNRqrDCdsy4diuybvcRs1Q",
         "author": "John P Wann",
         "journal": "Perceptual-motor Behavior in Down Syndrome",
         "pages": "99",
@@ -2881,238 +2881,6 @@
         "url": "http://scholar.google.com/scholar?cluster=420190439842992298&hl=en&oi=scholarr",
         "author": "Naomi Tickhill and Catherine Potter and Andrew Keeling and Mark A Mon-Williams and Michael Manogue",
         "abstract": "Virtual reality simulators are becoming increasingly popular in dental schools across the world. But to what extent do these systems reflect actual dental ability? Addressing this question of construct validity is a fundamental step that is necessary before these systems can be fully integrated into a dental school’s curriculum. In this study, we examined the sensitivity of the Simodont (a haptic virtual reality dental simulator) to differences in dental training experience. Two hundred and eighty-nine participants, with 1 (n= 92), 3 (n= 79), 4 (n= 57) and 5 (n= 61) years of dental training, performed a series of tasks upon their first exposure to the simulator. We found statistically significant differences between novice (Year 1) and experienced dental trainees (operationalised as 3 or more years of training), but no differences between performance of experienced trainees with varying levels of experience. This work represents a crucial first-step in understanding the value of haptic virtual reality simulators in dental education."
-      }
-    ],
-    "2016": [
-      {
-        "title": "Randomised prior feedback modulates neural signals of outcome monitoring",
-        "year": 2016,
-        "url": "https://www.sciencedirect.com/science/article/pii/S105381191500957X",
-        "author": "Faisal Mushtaq and Richard M Wilkie and Mark A Mon-Williams and Alexandre Schaefer",
-        "journal": "NeuroImage",
-        "volume": "125",
-        "pages": "868-879",
-        "publisher": "Academic Press",
-        "abstract": "Substantial evidence indicates that decision outcomes are typically evaluated relative to expectations learned from relatively long sequences of previous outcomes. This mechanism is thought to play a key role in general learning and adaptation processes but relatively little is known about the determinants of outcome evaluation when the capacity to learn from series of prior events is difficult or impossible. To investigate this issue, we examined how the feedback-related negativity (FRN) is modulated by information briefly presented before outcome evaluation. The FRN is a brain potential time-locked to the delivery of decision feedback and it is widely thought to be sensitive to prior expectations. We conducted a multi-trial gambling task in which outcomes at each trial were fully randomised to minimise the capacity to learn from long sequences of prior outcomes. Event-related potentials for outcomes (Win/Loss) in the …",
-        "eprint": "https://www.sciencedirect.com/science/article/pii/S105381191500957X"
-      },
-      {
-        "title": "The relationship between manual coordination and mental health",
-        "year": 2016,
-        "url": "https://link.springer.com/article/10.1007/s00787-015-0732-2",
-        "author": "Liam JB Hill and Faisal Mushtaq and Lucy O’Neill and Ian Flatters and Justin HG Williams and Mark Mon-Williams",
-        "journal": "European child & adolescent psychiatry",
-        "volume": "25",
-        "number": "3",
-        "pages": "283-295",
-        "publisher": "Springer Berlin Heidelberg",
-        "abstract": " Motor coordination impairments frequently co-occur with other developmental disorders and mental health problems in clinically referred populations. But does this reflect a broader dimensional relationship within the general population? A clearer understanding of this relationship might inform improvements in mental health service provision. However, ascertainment and referral bias means that there is limited value in conducting further research with clinically referred samples. We, therefore, conducted a cross-sectional population-based study investigating children’s manual coordination using an objective computerised test. These measures were related to teacher-completed responses on a behavioural screening questionnaire [the Strength and Difficulties Questionnaire (SDQ)]. We sampled 298 children (4–11 years old; 136 males) recruited from the general population. Hierarchical (logistic and linear …",
-        "eprint": "https://link.springer.com/article/10.1007/s00787-015-0732-2"
-      },
-      {
-        "title": "Feasibility of school-based computer-assisted robotic gaming technology for upper limb rehabilitation of children with cerebral palsy",
-        "year": 2016,
-        "url": "https://www.tandfonline.com/doi/abs/10.3109/17483107.2014.932020",
-        "author": "Nick Preston and Andrew Weightman and Justin Gallagher and Raymond Holt and Michael Clarke and Mark Mon-Williams and Martin Levesley and Bipinchandra Bhakta",
-        "journal": "Disability and Rehabilitation: Assistive Technology",
-        "volume": "11",
-        "number": "4",
-        "pages": "281-288",
-        "publisher": "Taylor & Francis",
-        "abstract": "Introduction: We investigated the feasibility of using computer-assisted arm rehabilitation (CAAR) computer games in schools. Outcomes were children's preference for single player or dual player mode, and changes in arm activity and kinematics. Method: Nine boys and two girls with cerebral palsy (6–12 years, mean 9 years) played assistive technology computer games in single-user mode or with school friends in an AB–BA design. Preference was determined by recording the time spent playing each mode and by qualitative feedback. We used the ABILHAND-kids and Canadian Occupational Performance Measure to evaluate activity limitation, and a portable laptop-based device to capture arm kinematics. Results: No difference was recorded between single-user and dual-user modes (median daily use 9.27 versus 11.2 min, p = 0.214). Children reported dual-user mode was preferable. There were no …",
-        "eprint": "http://eprints.whiterose.ac.uk/91299/1/Preston.pdf"
-      },
-      {
-        "title": "A pilot single-blind multicentre randomized controlled trial to evaluate the potential benefits of computer-assisted arm rehabilitation gaming technology on the arm function of …",
-        "year": 2016,
-        "url": "https://journals.sagepub.com/doi/abs/10.1177/0269215515604699",
-        "author": "Nick Preston and Andrew Weightman and Justin Gallagher and Martin Levesley and Mark Mon-Williams and Mike Clarke and Rory J O’Connor",
-        "journal": "Clinical rehabilitation",
-        "volume": "30",
-        "number": "10",
-        "pages": "1004-1015",
-        "publisher": "SAGE Publications",
-        "abstract": "Objective:To evaluate the potential benefits of computer-assisted arm rehabilitation gaming technology on arm function of children with spastic cerebral palsy.Design:A single-blind randomized controlled trial design. Power calculations indicated that 58 children would be required to demonstrate a clinically important difference.Setting:Intervention was home-based; recruitment took place in regional spasticity clinics.Participants:A total of 15 children with cerebral palsy aged five to 12 years were recruited; eight to the device group.Interventions:Both study groups received ‘usual follow-up treatment’ following spasticity treatment with botulinum toxin; the intervention group also received a rehabilitation gaming device.Main measures:ABILHAND-kids and Canadian Occupational Performance Measure were performed by blinded assessors at baseline, six and 12 weeks.Results:An analysis of covariance showed no …",
-        "eprint": "http://eprints.whiterose.ac.uk/91295/1/Clin%20Rehabil-2015-Preston.pdf"
-      },
-      {
-        "title": "The problem with big data: operating on smaller datasets to bridge the implementation gap",
-        "year": 2016,
-        "url": "https://www.frontiersin.org/articles/10.3389/fpubh.2016.00248",
-        "author": "Richard P Mann and Faisal Mushtaq and Alan D White and Gabriel Mata-Cervantes and Tom Pike and Dalton Coker and Stuart Murdoch and Tim Hiles and Clare Smith and David Berridge and Suzanne Hinchliffe and Geoff Hall and Stephen Smye and Richard M Wilkie and J Peter A Lodge and Mark Mon-Williams",
-        "journal": "Frontiers in public health",
-        "volume": "4",
-        "pages": "248",
-        "publisher": "Frontiers",
-        "abstract": "Big datasets have the potential to revolutionize public health. However, there is a mismatch between the political and scientific optimism surrounding big data and the public’s perception of its benefit. We suggest a systematic and concerted emphasis on developing models derived from smaller datasets to illustrate to the public how big data can produce tangible benefits in the long-term. In order to highlight the immediate value of a small data approach, we produced a proof-of-concept model predicting hospital length of stay. The results demonstrate that existing small datasets can be used to create models that generate a reasonable prediction, facilitating healthcare delivery. We propose that greater attention (and funding) needs to be directed toward the utilization of existing information resources in parallel with current efforts to create and exploit ‘big data’.",
-        "eprint": "https://www.frontiersin.org/articles/10.3389/fpubh.2016.00248"
-      },
-      {
-        "title": "Motor sequence learning in healthy older adults is not necessarily facilitated by transcranial direct current stimulation (tDCS)",
-        "year": 2016,
-        "url": "https://www.mdpi.com/2308-3417/1/4/32",
-        "author": "Rachael Raw and Richard Allen and Mark Mon-Williams and Richard Wilkie",
-        "journal": "Geriatrics",
-        "volume": "1",
-        "number": "4",
-        "pages": "32",
-        "publisher": "Multidisciplinary Digital Publishing Institute",
-        "abstract": "Background: Transcranial Direct Current Stimulation (tDCS) of the primary motor cortex (M1) can modulate neuronal activity, and improve performance of basic motor tasks. The possibility that tDCS could assist in rehabilitation (eg, for paresis post-stroke) offers hope but the evidence base is incomplete, with some behavioural studies reporting no effect of tDCS on complex motor learning. Older adults who show age-related decline in movement and learning (skills which tDCS could potentially facilitate), are also under-represented within tDCS literature. To address these issues, we examined whether tDCS would improve motor sequence learning in healthy young and older adults. Methods: In Experiment One, young participants learned 32 aiming movements using their preferred (right) hand whilst receiving:(i) 30 min Anodal Stimulation of left M1;(ii) 30 min Cathodal Stimulation of right M1; or (iii) 30 min Sham. Experiment Two used a similar task, but with older adults receiving Anodal Stimulation or Sham. Results: Whilst motor learning occurred in all participants, tDCS did not improve the rate or accuracy of motor learning for either age group. Conclusion: Our results suggest that the effects of tDCS may be limited to motor performance with no clear beneficial effects for motor learning. View Full-Text",
-        "eprint": "https://www.mdpi.com/2308-3417/1/4/32/pdf"
-      },
-      {
-        "title": "Should prospective dental students be screened for colour vision deficits?",
-        "year": 2016,
-        "url": "https://www.nature.com/articles/sj.bdj.2016.633.pdf?origin=ppub",
-        "author": "Faisal Mushtaq and RC Baraas and Loulwa M Al-Saud and Isra’a Mirghani and Carrie van der Zee and Erica Yates and Andrew Keeling and Mark A Mon-Williams and Michael Manogue",
-        "journal": "British dental journal",
-        "volume": "221",
-        "number": "5",
-        "pages": "227",
-        "publisher": "Nature Publishing Group",
-        "abstract": "F. Mushtaq, 1 RC Baraas, 2 LM Al-Saud, 3 I. Mirghani, 3 C. van der Zee, 3 E. Yates, 5 A. Keeling, 3 MA Mon-Williams* 1, 2, 4 and M. Manogue3 motor deficits become a barrier to achieving an acceptable skill level. These issues require empirical examination and this is a major component of our current research, and one reason why we assess the motor skills of all dental applicants to the University of Leeds. Our assessment of motor skill in dental applicants recently raised another issue regarding the entrance requirements of prospective students–viz., the minimum thresholds for visual perception. In the same way that gross physical disability prevents access to the dental profession, the gross perceptual disability caused by blindness precludes an individual from practising dentistry (for obvious reasons). Once more an extreme example highlights the difficulty in identifying minimum acceptable functional levels of …",
-        "eprint": "http://eprints.whiterose.ac.uk/102065/1/CVD_Opinion_Article_Revised_220616.pdf"
-      },
-      {
-        "title": "The Cerebral Palsy Kinematic Assessment Tool (CPKAT): feasibility testing of a new portable tool for the objective evaluation of upper limb kinematics in children with cerebral …",
-        "year": 2016,
-        "url": "https://www.tandfonline.com/doi/abs/10.3109/17483107.2014.951974",
-        "author": "Nick Preston and Andrew Weightman and Peter Culmer and Martin Levesley and Bipin Bhakta and Mark Mon-Williams",
-        "journal": "Disability and Rehabilitation: Assistive Technology",
-        "volume": "11",
-        "number": "4",
-        "pages": "339-344",
-        "publisher": "Taylor & Francis",
-        "abstract": "Purpose: Efficacy of treatment to improve upper-limb activity of children with cerebral palsy (CP) is typically evaluated outside clinical/laboratory environments through functional outcome measures (e.g. ABILHAND kids). This study evaluates CPKAT, a new portable laptop-based tool designed to objectively measure upper-limb kinematics in children with CP. Methods: Seven children with unilateral CP (2 females; mean age 10 years 2 months (SD 2 years 3 months), median age 9 years 6 months, range 6 years 5 months, MACS II–IV) were evaluated on copying, tracking and tracing tasks at their homes using CPKAT. CPKAT recorded parameters relating to spatiotemporal hand movement: path length, movement time, smoothness, path accuracy and root mean square error. The Wilcoxon signed ranks test explored whether CPKAT could detect differences between the affected and less-affected limb. Results: CPKAT …",
-        "eprint": "http://eprints.whiterose.ac.uk/87932/1/CPKAT%20Preston%20manuscript%20complete.pdf"
-      },
-      {
-        "title": "Cognitive control of saccadic eye movements in children with developmental coordination disorder",
-        "year": 2016,
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0165380",
-        "author": "Claudia C Gonzalez and Mark Mon-Williams and Siobhan Burke and Melanie R Burke",
-        "journal": "PloS one",
-        "volume": "11",
-        "number": "11",
-        "pages": "e0165380",
-        "publisher": "Public Library of Science",
-        "abstract": "The ability to use advance information to prepare and execute a movement requires cognitive control of behaviour (e.g., anticipation and inhibition). Our aim was to explore the integrity of saccadic eye movement control in developmental coordination disorder (DCD) and typically developing (TD) children (8–12 years) and assess how these children plan and inhibit saccadic responses, the principal mechanisms within visual attention control. Eye movements and touch responses were measured (separately and concurrently) in Cued and Non-Cued conditions. We found that children with DCD had similar saccade kinematics to the TD group during saccade initiation. Advance information decreased hand movement duration in both groups during Cued trials, but decrements in accuracy were significantly worse in the DCD group. In addition, children with DCD exhibited greater inhibitory errors and inaccurate fixation during the Cued trials. Thus, children with DCD were reasonably proficient in executing saccades during reflexive (Non-Cued) conditions, but showed deficits in more complex control processes involving prediction and inhibition. These findings have implications for our understanding of motor control in children with DCD.",
-        "eprint": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0165380"
-      },
-      {
-        "title": "Robot Guided ‘Pen Skill’Training in Children with Motor Difficulties",
-        "year": 2016,
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0151354",
-        "author": "Katy A Shire and Liam JB Hill and Winona Snapp-Childs and Geoffrey P Bingham and Georgios K Kountouriotis and Sally Barber and Mark Mon-Williams",
-        "journal": "PloS one",
-        "volume": "11",
-        "number": "3",
-        "pages": "e0151354",
-        "publisher": "Public Library of Science",
-        "abstract": "Motor deficits are linked to a range of negative physical, social and academic consequences. Haptic robotic interventions, based on the principles of sensorimotor learning, have been shown previously to help children with motor problems learn new movements. We therefore examined whether the training benefits of a robotic system would generalise to a standardised test of ‘pen-skills’, assessed using objective kinematic measures [via the Clinical Kinematic Assessment Tool, CKAT]. A counterbalanced, cross-over design was used in a group of 51 children (37 male, aged 5–11 years) with manual control difficulties. Improved performance on a novel task using the robotic device could be attributed to the intervention but there was no evidence of generalisation to any of the CKAT tasks. The robotic system appears to have the potential to support motor learning, with the technology affording numerous advantages. However, the training regime may need to target particular manual skills (e.g. letter formation) in order to obtain clinically significant improvements in specific skills such as handwriting.",
-        "eprint": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0151354"
-      },
-      {
-        "title": "Training compliance control yields improved drawing in 5–11 year old children with motor difficulties",
-        "year": 2016,
-        "url": "https://www.sciencedirect.com/science/article/pii/S0167945716300653",
-        "author": "Winona Snapp-Childs and Katy Shire and Liam Hill and Mark Mon-Williams and Geoffrey P Bingham",
-        "journal": "Human movement science",
-        "volume": "48",
-        "pages": "171-183",
-        "publisher": "North-Holland",
-        "abstract": "There are a large number of children with motor difficulties including those that have difficulty producing movements qualitatively well enough to improve in perceptuo-motor learning without intervention. We have developed a training method that supports active movement generation to allow improvement in a 3D tracing task requiring good compliance control. Previously, we tested a limited age range of children and found that training improved performance on the 3D tracing task and that the training transferred to a 2D drawing test. In the present study, school children (5–11 years old) with motor difficulties were trained in the 3D tracing task and transfer to a 2D drawing task was tested. We used a cross-over design where half of the children received training on the 3D tracing task during the first training period and the other half of the children received training during the second training period. Given previous …",
-        "eprint": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4919902/"
-      },
-      {
-        "title": "Feedback-related potentials in a gambling task with randomised reward",
-        "year": 2016,
-        "url": "https://www.sciencedirect.com/science/article/pii/S2352340915003558",
-        "author": "Faisal Mushtaq and Pablo Puente Guillen and Richard M Wilkie and Mark A Mon-Williams and Alexandre Schaefer",
-        "journal": "Data in brief",
-        "volume": "6",
-        "pages": "378-385",
-        "publisher": "Elsevier",
-        "abstract": "Event-related potentials (ERPs) time-locked to decision outcomes are reported. Participants engaged in a gambling task (see [1] for details) in which they decided between a risky and a safe option (presented as different coloured shapes) on each trial (416 in total). Each decision was associated with (fully randomised) feedback about the reward outcome (Win/Loss) and its magnitude (varying as a function of decision response; 5–9 points for Risky decisions and 1–4 points for Safe decisions). Here, we show data demonstrating: (a) the influence of Win feedback in the preceding outcome (Outcomet−1) on activity related to the current outcome (Outcomet); (b) difference wave analysis for outcome expectancy- separating Expected Outcomes (consecutive Loss trials subtracted from consecutive reward) from Unexpected Outcomes (subtracting Losst−1Wint trials from Wint−1Losst trials); (c) difference waves separating …",
-        "eprint": "https://www.sciencedirect.com/science/article/pii/S2352340915003558"
-      },
-      {
-        "title": "Laparoscopic motor learning and workspace exploration",
-        "year": 2016,
-        "url": "https://www.sciencedirect.com/science/article/pii/S1931720416300393",
-        "author": "Alan D White and Faisal Mushtaq and Oscar Giles and Megan L Wood and Callum Mole and Peter R Culmer and Richard M Wilkie and Mark Mon-Williams and J Peter A Lodge",
-        "journal": "Journal of surgical education",
-        "volume": "73",
-        "number": "6",
-        "pages": "992-998",
-        "publisher": "Elsevier",
-        "abstract": "BackgroundLaparoscopic surgery requires operators to learn novel complex movement patterns. However, our understanding of how best to train surgeons’ motor skills is inadequate, and research is needed to determine optimal laparoscopic training regimes. This difficulty is confounded by variables inherent in surgical practice, for example, the increasing prevalence of morbidly obese patients presents additional challenges related to restriction of movement because of abdominal wall resistance and reduced intra-abdominal space. The aim of this study was to assess learning of a surgery-related task in constrained and unconstrained conditions using a novel system linking a commercially available robotic arm with specialised software creating the novel kinematic assessment tool (Omni-KAT).MethodsWe created an experimental tool that records motor performance by linking a commercially available robotic arm …",
-        "eprint": "https://www.sciencedirect.com/science/article/pii/S1931720416300393"
-      },
-      {
-        "title": "Does monitor position influence visual-motor performance during minimally invasive surgery?",
-        "year": 2016,
-        "url": "http://eprints.whiterose.ac.uk/96144/",
-        "author": "Alan D White and Faisal Mushtaq and Rachael K Raw and Oscar T Giles and Imogen C Crook and James Tomlinson and Danilo Miskovic and J Peter A Lodge and RM Wilkie and M Mon-Williams",
-        "journal": "Journal of Surgical Simulation",
-        "volume": "3",
-        "pages": "1-7",
-        "publisher": "Journal of Surgical Simulation, UK",
-        "abstract": "Background: In minimally invasive surgery (MIS), the natural relationship between hand and eye is disrupted, i.e. surgeons typically control tools inserted through the patient’s abdomen while viewing the workspace on a remote monitor, which can be located in a variety of positions. This separates the location of visual feedback from the area in which a motor action is executed. Previous studies suggest that the visual display should be placed directly ahead of the surgeon (i.e. to preserve visual-motor mapping). However, the extent of the impact of this rotation on surgical performance is unknown. Methods: Eighteen participants completed an aiming task on a tablet PC within a surgical box trainer using a laparoscopic tool in a controlled simulated environment. Visual feedback was presented on a remote monitor located at 0°, ±45° and ±90°, with order randomised using the Latin Square method. Results: Movements were significantly slower when the monitor was 90° relative to midline, but spatial accuracy was unaffected by monitor position. Interestingly, the effect of reduced speed in the 90° condition was transient, decreasing over time, suggesting rapid adaptation to the rotation. Conclusions: We conclude that the angle of the visual display in the context of MIS may require a surgeon to adapt to a changed mapping between visual inputs and motor outputs. While this adaptation occurs relatively quickly, it may interfere with skilled actions (e.g. intracorporeal suturing) in complex surgical procedures.",
-        "eprint": "http://eprints.whiterose.ac.uk/96144/8/JSS2016160001.pdf"
-      },
-      {
-        "title": "Moving ahead through time?",
-        "year": 2016,
-        "url": "https://psyarxiv.com/9v5ny/",
-        "author": "Rachael Raw",
-        "publisher": "PsyArXiv",
-        "abstract": "To whom it may concern, Please find out manuscript titled\" Moving ahead through time?\" attached. Abstract below: Miles, Nind and Macrae (2010) reported findings to suggest that our ability to mentally represent the past and future might be represented in the sensorimotor systems that govern human motor control. They ran an experiment showed participants to lean forward when thinking of the future and lean backward when thinking of the past. We aimed to explore this phenomenon further; firstly by exploring whether the knee would move in the opposite direction to the head when participants were standing (ie an automatic counterbalancing movement to avoid instability). We also applied the same methodology as reported by Miles et al.(2010) in an attempt to replicate their results. Findings demonstrated that found that the head does indeed move in the opposite direction to the knee, but more interestingly, our second experiment actually failed replicate Miles et al's (2010) original findings. Our data strongly suggest that the sensorimotor system prioritises the maintaining of postural control postural maintenance even when a standing individual is engaged in abstract thought processes. This strategy seems the most conducive to survival, given that this approach reduces the likelihood of falls.",
-        "eprint": "https://psyarxiv.com/9v5ny/download?format=pdf"
-      },
-      {
-        "title": "Turning down the noise in interceptive timing",
-        "year": 2016,
-        "url": "http://scholar.google.com/scholar?cluster=4163998829497841860&hl=en&oi=scholarr",
-        "author": "Oscar T Giles and Richard Wilkie and Peter Culmer and Ray Hold and James Tresilian and Mark Mon-Williams",
-        "volume": "45",
-        "pages": "244-245",
-        "publisher": "SAGE PUBLICATIONS LTD"
-      },
-      {
-        "title": "Moving to Capture Children’s Attention: Developing a Methodology for Measuring Visuomotor Attention",
-        "year": 2016,
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0159543",
-        "author": "Liam JB Hill and Rachel O Coats and Faisal Mushtaq and Justin HG Williams and Lorna S Aucott and Mark Mon-Williams",
-        "journal": "PLoS one",
-        "volume": "11",
-        "number": "7",
-        "pages": "e0159543",
-        "publisher": "Public Library of Science",
-        "abstract": "Attention underpins many activities integral to a child’s development. However, methodological limitations currently make large-scale assessment of children’s attentional skill impractical, costly and lacking in ecological validity. Consequently we developed a measure of ‘Visual Motor Attention’ (VMA)—a construct defined as the ability to sustain and adapt visuomotor behaviour in response to task-relevant visual information. In a series of experiments, we evaluated the capability of our method to measure attentional processes and their contributions in guiding visuomotor behaviour. Experiment 1 established the method’s core features (ability to track stimuli moving on a tablet-computer screen with a hand-held stylus) and demonstrated its sensitivity to principled manipulations in adults’ attentional load. Experiment 2 standardised a format suitable for use with children and showed construct validity by capturing developmental changes in executive attention processes. Experiment 3 tested the hypothesis that children with and without coordination difficulties would show qualitatively different response patterns, finding an interaction between the cognitive and motor factors underpinning responses. Experiment 4 identified associations between VMA performance and existing standardised attention assessments and thereby confirmed convergent validity. These results establish a novel approach to measuring childhood attention that can produce meaningful functional assessments that capture how attention operates in an ecologically valid context (i.e. attention's specific contribution to visuomanual action).",
-        "eprint": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0159543"
-      },
-      {
-        "title": "A direction for contrastive analysis: the comparative study of developmental sequences",
-        "year": 2016,
-        "url": "http://scholar.google.com/scholar?cluster=8718064347363366439&hl=en&oi=scholarr",
-        "author": "Michael H Long and M Albert and R Allwright and M Burt and H Dulay and R Allwright and KM Bailey and RW Andersen and SM Gass and C Madden and D Preston and L Selinker and P Avrich and D Ayoun and D Ayoun and LF Bachman and LF Bachman and AD Cohen and CL Baker and ND Baker and KE Nelson and K Bardovi-Harlig and R Barsky and NJD Bartlett and MH Long and E Bates and B MacWhinney and B MacWhinney and E Bates and Z Bauman and M Beck and L Eubank and L Beebe and H Giles and A Beretta and E Bialystok and E Bialystok and E Bialystok and K Hakuta and D Birdsong and E Bialystok and B Miller and D Bickerton and D Birdsong and D Birdsong and D Birdsong and D Birdsong and M Molis and EK Blau and EK Blau and EK Blau and R Bley-Vroman and SM Gass and J Schachter and R Bley-Vroman and R Bley-Vroman and D Block and D Block and JNM Bohannon and B MacWhinney and C Snow and JN Bohannon and RJ Padgett and KE Nelson and M Mark and T Bongaerts and D Birdsong and T Bongaerts and S Mennen and R van der Slik and T Bongaerts and B Planken and E Schils and D Singleton and Z Lengyel and T Bongaerts and C van Summeren and B Planken and E Schils and R Boom and G Borden and A Gerber and G Milsark and MH Bornstein and SM Braidi and SM Braidi and C Brock and G Crookes and RR Day and MH Long and RR Day and HD Brown and R Brown and C Brumfit and A Mauranen and K Sajavaara and P Calvé and S Carroll and L Eubank and L Selinker and M Sharwood-Smith and S Carroll and M Swain and S Carroll and M Swain and Y Roberge and JK Chambers and C Chaudron and C Chaudron and C Chaudron and C Chaudron and B Das and C Chaudron and C Doughty and Y Kim and D Kong and J Lee and Y Lee and MH Long and R Rivers and K Urano and MH Long and C Chaudron and JC Richards and CS Chiang and P Dunkel and M-Y Choi and H Chung and H Clahsen and P Muysken and M Clyne and BP Cochran and JL McDonald and SJ Parault and R Collins and R Coppieters and G Corvalis and G Crookes and G Crookes and G Crookes and RE Culp and RV Watkins and H Lawrence and D Letts and DJ Kelly and ML Rice and J Cummins and E Bilaystok and S Curtiss and JT Cushing",
-        "volume": "85",
-        "number": "2",
-        "pages": "1-2",
-        "publisher": "Oxford University Press",
-        "abstract": "This chapter identifies some structural problems that weaken Second language acquisition (SLA) as an embryonic discipline, as shown not so much by the charges themselves as by the reception they have been given in some quarters. It summarizes two representative critics' arguments in each case as fairly as possible, letting their own words speak for them, and then shows that most of the accusations are themselves naive and irrelevant, albeit potentially very damaging, nonetheless, which means that they need to be addressed. Theories of SLA differ, of course, in the significance of the role they attribute to the linguistic—let alone the social and sociolinguistic—environment, and researchers also differ in their interpretations of the empirical findings to date. Dating from the late 18-century Enlightenment, modernism is associated with beliefs in the self-motivated, rational subject, individual freedom, self …"
-      },
-      {
-        "title": "Robotic Surgery in the Management of Endometrial Cancer",
-        "year": 2016,
-        "url": "http://books.google.com/books?hl=en&lr=&id=YmqQDwAAQBAJ&oi=fnd&pg=PA253&dq=info:J6HKRfdNCd4J:scholar.google.com&ots=K2kWOsZBkJ&sig=AoJTKSvt5B6IWIK1X54yccpZMts",
-        "author": "Mark Williams and John Villeneuve and Bernice Robinson-Bennett",
-        "journal": "Gynecologic Cancers: Basic Sciences, Clinical and Therapeutic Perspectives",
-        "pages": "253",
-        "publisher": "BoD–Books on Demand",
-        "abstract": "Endometrial cancer remains the most common gynecologic malignancy in the Unites States and Western Europe. It has been estimated that in 2014, about 52,630 new cases of endometrial cancer was diagnosed and about 8,590 died from the disease. Prior to 1988, endometrial cancer was staged clinically. Since that time surgical staging has been adopted. With the advancement in technology, the vast majority of cases are being staged and treated surgically via minimally invasive approaches. Conventional laparoscopy has been a major advancement in staging and treatment of uterine cancers. However, technical challenges such as 2–D imaging, rigid instruments, and lack of precision and surgeon fatigue did not translate into widespread adoption of this technique. With the advent of computer–enhanced robotic telesurgery, this has dramatically changed the surgical management and staging of endometrial cancer.",
-        "eprint": "https://www.intechopen.com/download/pdf/48598"
       }
     ],
     "2018": [
@@ -3233,6 +3001,238 @@
         "publisher": "WILEY"
       }
     ],
+    "2016": [
+      {
+        "title": "Randomised prior feedback modulates neural signals of outcome monitoring",
+        "year": 2016,
+        "url": "https://www.sciencedirect.com/science/article/pii/S105381191500957X",
+        "author": "Faisal Mushtaq and Richard M Wilkie and Mark A Mon-Williams and Alexandre Schaefer",
+        "journal": "NeuroImage",
+        "volume": "125",
+        "pages": "868-879",
+        "publisher": "Academic Press",
+        "abstract": "Substantial evidence indicates that decision outcomes are typically evaluated relative to expectations learned from relatively long sequences of previous outcomes. This mechanism is thought to play a key role in general learning and adaptation processes but relatively little is known about the determinants of outcome evaluation when the capacity to learn from series of prior events is difficult or impossible. To investigate this issue, we examined how the feedback-related negativity (FRN) is modulated by information briefly presented before outcome evaluation. The FRN is a brain potential time-locked to the delivery of decision feedback and it is widely thought to be sensitive to prior expectations. We conducted a multi-trial gambling task in which outcomes at each trial were fully randomised to minimise the capacity to learn from long sequences of prior outcomes. Event-related potentials for outcomes (Win/Loss) in the …",
+        "eprint": "https://www.sciencedirect.com/science/article/pii/S105381191500957X"
+      },
+      {
+        "title": "The relationship between manual coordination and mental health",
+        "year": 2016,
+        "url": "https://link.springer.com/article/10.1007/s00787-015-0732-2",
+        "author": "Liam JB Hill and Faisal Mushtaq and Lucy O’Neill and Ian Flatters and Justin HG Williams and Mark Mon-Williams",
+        "journal": "European child & adolescent psychiatry",
+        "volume": "25",
+        "number": "3",
+        "pages": "283-295",
+        "publisher": "Springer Berlin Heidelberg",
+        "abstract": " Motor coordination impairments frequently co-occur with other developmental disorders and mental health problems in clinically referred populations. But does this reflect a broader dimensional relationship within the general population? A clearer understanding of this relationship might inform improvements in mental health service provision. However, ascertainment and referral bias means that there is limited value in conducting further research with clinically referred samples. We, therefore, conducted a cross-sectional population-based study investigating children’s manual coordination using an objective computerised test. These measures were related to teacher-completed responses on a behavioural screening questionnaire [the Strength and Difficulties Questionnaire (SDQ)]. We sampled 298 children (4–11 years old; 136 males) recruited from the general population. Hierarchical (logistic and linear …",
+        "eprint": "https://link.springer.com/article/10.1007/s00787-015-0732-2"
+      },
+      {
+        "title": "Feasibility of school-based computer-assisted robotic gaming technology for upper limb rehabilitation of children with cerebral palsy",
+        "year": 2016,
+        "url": "https://www.tandfonline.com/doi/abs/10.3109/17483107.2014.932020",
+        "author": "Nick Preston and Andrew Weightman and Justin Gallagher and Raymond Holt and Michael Clarke and Mark Mon-Williams and Martin Levesley and Bipinchandra Bhakta",
+        "journal": "Disability and Rehabilitation: Assistive Technology",
+        "volume": "11",
+        "number": "4",
+        "pages": "281-288",
+        "publisher": "Taylor & Francis",
+        "abstract": "Introduction: We investigated the feasibility of using computer-assisted arm rehabilitation (CAAR) computer games in schools. Outcomes were children's preference for single player or dual player mode, and changes in arm activity and kinematics. Method: Nine boys and two girls with cerebral palsy (6–12 years, mean 9 years) played assistive technology computer games in single-user mode or with school friends in an AB–BA design. Preference was determined by recording the time spent playing each mode and by qualitative feedback. We used the ABILHAND-kids and Canadian Occupational Performance Measure to evaluate activity limitation, and a portable laptop-based device to capture arm kinematics. Results: No difference was recorded between single-user and dual-user modes (median daily use 9.27 versus 11.2 min, p = 0.214). Children reported dual-user mode was preferable. There were no …",
+        "eprint": "http://eprints.whiterose.ac.uk/91299/1/Preston.pdf"
+      },
+      {
+        "title": "A pilot single-blind multicentre randomized controlled trial to evaluate the potential benefits of computer-assisted arm rehabilitation gaming technology on the arm function of …",
+        "year": 2016,
+        "url": "https://journals.sagepub.com/doi/abs/10.1177/0269215515604699",
+        "author": "Nick Preston and Andrew Weightman and Justin Gallagher and Martin Levesley and Mark Mon-Williams and Mike Clarke and Rory J O’Connor",
+        "journal": "Clinical rehabilitation",
+        "volume": "30",
+        "number": "10",
+        "pages": "1004-1015",
+        "publisher": "SAGE Publications",
+        "abstract": "Objective:To evaluate the potential benefits of computer-assisted arm rehabilitation gaming technology on arm function of children with spastic cerebral palsy.Design:A single-blind randomized controlled trial design. Power calculations indicated that 58 children would be required to demonstrate a clinically important difference.Setting:Intervention was home-based; recruitment took place in regional spasticity clinics.Participants:A total of 15 children with cerebral palsy aged five to 12 years were recruited; eight to the device group.Interventions:Both study groups received ‘usual follow-up treatment’ following spasticity treatment with botulinum toxin; the intervention group also received a rehabilitation gaming device.Main measures:ABILHAND-kids and Canadian Occupational Performance Measure were performed by blinded assessors at baseline, six and 12 weeks.Results:An analysis of covariance showed no …",
+        "eprint": "http://eprints.whiterose.ac.uk/91295/1/Clin%20Rehabil-2015-Preston.pdf"
+      },
+      {
+        "title": "The problem with big data: operating on smaller datasets to bridge the implementation gap",
+        "year": 2016,
+        "url": "https://www.frontiersin.org/articles/10.3389/fpubh.2016.00248",
+        "author": "Richard P Mann and Faisal Mushtaq and Alan D White and Gabriel Mata-Cervantes and Tom Pike and Dalton Coker and Stuart Murdoch and Tim Hiles and Clare Smith and David Berridge and Suzanne Hinchliffe and Geoff Hall and Stephen Smye and Richard M Wilkie and J Peter A Lodge and Mark Mon-Williams",
+        "journal": "Frontiers in public health",
+        "volume": "4",
+        "pages": "248",
+        "publisher": "Frontiers",
+        "abstract": "Big datasets have the potential to revolutionize public health. However, there is a mismatch between the political and scientific optimism surrounding big data and the public’s perception of its benefit. We suggest a systematic and concerted emphasis on developing models derived from smaller datasets to illustrate to the public how big data can produce tangible benefits in the long-term. In order to highlight the immediate value of a small data approach, we produced a proof-of-concept model predicting hospital length of stay. The results demonstrate that existing small datasets can be used to create models that generate a reasonable prediction, facilitating healthcare delivery. We propose that greater attention (and funding) needs to be directed toward the utilization of existing information resources in parallel with current efforts to create and exploit ‘big data’.",
+        "eprint": "https://www.frontiersin.org/articles/10.3389/fpubh.2016.00248"
+      },
+      {
+        "title": "Motor sequence learning in healthy older adults is not necessarily facilitated by transcranial direct current stimulation (tDCS)",
+        "year": 2016,
+        "url": "https://www.mdpi.com/2308-3417/1/4/32",
+        "author": "Rachael Raw and Richard Allen and Mark Mon-Williams and Richard Wilkie",
+        "journal": "Geriatrics",
+        "volume": "1",
+        "number": "4",
+        "pages": "32",
+        "publisher": "Multidisciplinary Digital Publishing Institute",
+        "abstract": "Background: Transcranial Direct Current Stimulation (tDCS) of the primary motor cortex (M1) can modulate neuronal activity, and improve performance of basic motor tasks. The possibility that tDCS could assist in rehabilitation (eg, for paresis post-stroke) offers hope but the evidence base is incomplete, with some behavioural studies reporting no effect of tDCS on complex motor learning. Older adults who show age-related decline in movement and learning (skills which tDCS could potentially facilitate), are also under-represented within tDCS literature. To address these issues, we examined whether tDCS would improve motor sequence learning in healthy young and older adults. Methods: In Experiment One, young participants learned 32 aiming movements using their preferred (right) hand whilst receiving:(i) 30 min Anodal Stimulation of left M1;(ii) 30 min Cathodal Stimulation of right M1; or (iii) 30 min Sham. Experiment Two used a similar task, but with older adults receiving Anodal Stimulation or Sham. Results: Whilst motor learning occurred in all participants, tDCS did not improve the rate or accuracy of motor learning for either age group. Conclusion: Our results suggest that the effects of tDCS may be limited to motor performance with no clear beneficial effects for motor learning. View Full-Text",
+        "eprint": "https://www.mdpi.com/2308-3417/1/4/32/pdf"
+      },
+      {
+        "title": "Should prospective dental students be screened for colour vision deficits?",
+        "year": 2016,
+        "url": "https://www.nature.com/articles/sj.bdj.2016.633.pdf?origin=ppub",
+        "author": "Faisal Mushtaq and RC Baraas and Loulwa M Al-Saud and Isra’a Mirghani and Carrie van der Zee and Erica Yates and Andrew Keeling and Mark A Mon-Williams and Michael Manogue",
+        "journal": "British dental journal",
+        "volume": "221",
+        "number": "5",
+        "pages": "227",
+        "publisher": "Nature Publishing Group",
+        "abstract": "F. Mushtaq, 1 RC Baraas, 2 LM Al-Saud, 3 I. Mirghani, 3 C. van der Zee, 3 E. Yates, 5 A. Keeling, 3 MA Mon-Williams* 1, 2, 4 and M. Manogue3 motor deficits become a barrier to achieving an acceptable skill level. These issues require empirical examination and this is a major component of our current research, and one reason why we assess the motor skills of all dental applicants to the University of Leeds. Our assessment of motor skill in dental applicants recently raised another issue regarding the entrance requirements of prospective students–viz., the minimum thresholds for visual perception. In the same way that gross physical disability prevents access to the dental profession, the gross perceptual disability caused by blindness precludes an individual from practising dentistry (for obvious reasons). Once more an extreme example highlights the difficulty in identifying minimum acceptable functional levels of …",
+        "eprint": "http://eprints.whiterose.ac.uk/102065/1/CVD_Opinion_Article_Revised_220616.pdf"
+      },
+      {
+        "title": "Cognitive control of saccadic eye movements in children with developmental coordination disorder",
+        "year": 2016,
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0165380",
+        "author": "Claudia C Gonzalez and Mark Mon-Williams and Siobhan Burke and Melanie R Burke",
+        "journal": "PloS one",
+        "volume": "11",
+        "number": "11",
+        "pages": "e0165380",
+        "publisher": "Public Library of Science",
+        "abstract": "The ability to use advance information to prepare and execute a movement requires cognitive control of behaviour (e.g., anticipation and inhibition). Our aim was to explore the integrity of saccadic eye movement control in developmental coordination disorder (DCD) and typically developing (TD) children (8–12 years) and assess how these children plan and inhibit saccadic responses, the principal mechanisms within visual attention control. Eye movements and touch responses were measured (separately and concurrently) in Cued and Non-Cued conditions. We found that children with DCD had similar saccade kinematics to the TD group during saccade initiation. Advance information decreased hand movement duration in both groups during Cued trials, but decrements in accuracy were significantly worse in the DCD group. In addition, children with DCD exhibited greater inhibitory errors and inaccurate fixation during the Cued trials. Thus, children with DCD were reasonably proficient in executing saccades during reflexive (Non-Cued) conditions, but showed deficits in more complex control processes involving prediction and inhibition. These findings have implications for our understanding of motor control in children with DCD.",
+        "eprint": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0165380"
+      },
+      {
+        "title": "The Cerebral Palsy Kinematic Assessment Tool (CPKAT): feasibility testing of a new portable tool for the objective evaluation of upper limb kinematics in children with cerebral …",
+        "year": 2016,
+        "url": "https://www.tandfonline.com/doi/abs/10.3109/17483107.2014.951974",
+        "author": "Nick Preston and Andrew Weightman and Peter Culmer and Martin Levesley and Bipin Bhakta and Mark Mon-Williams",
+        "journal": "Disability and Rehabilitation: Assistive Technology",
+        "volume": "11",
+        "number": "4",
+        "pages": "339-344",
+        "publisher": "Taylor & Francis",
+        "abstract": "Purpose: Efficacy of treatment to improve upper-limb activity of children with cerebral palsy (CP) is typically evaluated outside clinical/laboratory environments through functional outcome measures (e.g. ABILHAND kids). This study evaluates CPKAT, a new portable laptop-based tool designed to objectively measure upper-limb kinematics in children with CP. Methods: Seven children with unilateral CP (2 females; mean age 10 years 2 months (SD 2 years 3 months), median age 9 years 6 months, range 6 years 5 months, MACS II–IV) were evaluated on copying, tracking and tracing tasks at their homes using CPKAT. CPKAT recorded parameters relating to spatiotemporal hand movement: path length, movement time, smoothness, path accuracy and root mean square error. The Wilcoxon signed ranks test explored whether CPKAT could detect differences between the affected and less-affected limb. Results: CPKAT …",
+        "eprint": "http://eprints.whiterose.ac.uk/87932/1/CPKAT%20Preston%20manuscript%20complete.pdf"
+      },
+      {
+        "title": "Robot Guided ‘Pen Skill’Training in Children with Motor Difficulties",
+        "year": 2016,
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0151354",
+        "author": "Katy A Shire and Liam JB Hill and Winona Snapp-Childs and Geoffrey P Bingham and Georgios K Kountouriotis and Sally Barber and Mark Mon-Williams",
+        "journal": "PloS one",
+        "volume": "11",
+        "number": "3",
+        "pages": "e0151354",
+        "publisher": "Public Library of Science",
+        "abstract": "Motor deficits are linked to a range of negative physical, social and academic consequences. Haptic robotic interventions, based on the principles of sensorimotor learning, have been shown previously to help children with motor problems learn new movements. We therefore examined whether the training benefits of a robotic system would generalise to a standardised test of ‘pen-skills’, assessed using objective kinematic measures [via the Clinical Kinematic Assessment Tool, CKAT]. A counterbalanced, cross-over design was used in a group of 51 children (37 male, aged 5–11 years) with manual control difficulties. Improved performance on a novel task using the robotic device could be attributed to the intervention but there was no evidence of generalisation to any of the CKAT tasks. The robotic system appears to have the potential to support motor learning, with the technology affording numerous advantages. However, the training regime may need to target particular manual skills (e.g. letter formation) in order to obtain clinically significant improvements in specific skills such as handwriting.",
+        "eprint": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0151354"
+      },
+      {
+        "title": "Training compliance control yields improved drawing in 5–11 year old children with motor difficulties",
+        "year": 2016,
+        "url": "https://www.sciencedirect.com/science/article/pii/S0167945716300653",
+        "author": "Winona Snapp-Childs and Katy Shire and Liam Hill and Mark Mon-Williams and Geoffrey P Bingham",
+        "journal": "Human movement science",
+        "volume": "48",
+        "pages": "171-183",
+        "publisher": "North-Holland",
+        "abstract": "There are a large number of children with motor difficulties including those that have difficulty producing movements qualitatively well enough to improve in perceptuo-motor learning without intervention. We have developed a training method that supports active movement generation to allow improvement in a 3D tracing task requiring good compliance control. Previously, we tested a limited age range of children and found that training improved performance on the 3D tracing task and that the training transferred to a 2D drawing test. In the present study, school children (5–11 years old) with motor difficulties were trained in the 3D tracing task and transfer to a 2D drawing task was tested. We used a cross-over design where half of the children received training on the 3D tracing task during the first training period and the other half of the children received training during the second training period. Given previous …",
+        "eprint": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4919902/"
+      },
+      {
+        "title": "Feedback-related potentials in a gambling task with randomised reward",
+        "year": 2016,
+        "url": "https://www.sciencedirect.com/science/article/pii/S2352340915003558",
+        "author": "Faisal Mushtaq and Pablo Puente Guillen and Richard M Wilkie and Mark A Mon-Williams and Alexandre Schaefer",
+        "journal": "Data in brief",
+        "volume": "6",
+        "pages": "378-385",
+        "publisher": "Elsevier",
+        "abstract": "Event-related potentials (ERPs) time-locked to decision outcomes are reported. Participants engaged in a gambling task (see [1] for details) in which they decided between a risky and a safe option (presented as different coloured shapes) on each trial (416 in total). Each decision was associated with (fully randomised) feedback about the reward outcome (Win/Loss) and its magnitude (varying as a function of decision response; 5–9 points for Risky decisions and 1–4 points for Safe decisions). Here, we show data demonstrating: (a) the influence of Win feedback in the preceding outcome (Outcomet−1) on activity related to the current outcome (Outcomet); (b) difference wave analysis for outcome expectancy- separating Expected Outcomes (consecutive Loss trials subtracted from consecutive reward) from Unexpected Outcomes (subtracting Losst−1Wint trials from Wint−1Losst trials); (c) difference waves separating …",
+        "eprint": "https://www.sciencedirect.com/science/article/pii/S2352340915003558"
+      },
+      {
+        "title": "Laparoscopic motor learning and workspace exploration",
+        "year": 2016,
+        "url": "https://www.sciencedirect.com/science/article/pii/S1931720416300393",
+        "author": "Alan D White and Faisal Mushtaq and Oscar Giles and Megan L Wood and Callum Mole and Peter R Culmer and Richard M Wilkie and Mark Mon-Williams and J Peter A Lodge",
+        "journal": "Journal of surgical education",
+        "volume": "73",
+        "number": "6",
+        "pages": "992-998",
+        "publisher": "Elsevier",
+        "abstract": "BackgroundLaparoscopic surgery requires operators to learn novel complex movement patterns. However, our understanding of how best to train surgeons’ motor skills is inadequate, and research is needed to determine optimal laparoscopic training regimes. This difficulty is confounded by variables inherent in surgical practice, for example, the increasing prevalence of morbidly obese patients presents additional challenges related to restriction of movement because of abdominal wall resistance and reduced intra-abdominal space. The aim of this study was to assess learning of a surgery-related task in constrained and unconstrained conditions using a novel system linking a commercially available robotic arm with specialised software creating the novel kinematic assessment tool (Omni-KAT).MethodsWe created an experimental tool that records motor performance by linking a commercially available robotic arm …",
+        "eprint": "https://www.sciencedirect.com/science/article/pii/S1931720416300393"
+      },
+      {
+        "title": "Does monitor position influence visual-motor performance during minimally invasive surgery?",
+        "year": 2016,
+        "url": "http://eprints.whiterose.ac.uk/96144/",
+        "author": "Alan D White and Faisal Mushtaq and Rachael K Raw and Oscar T Giles and Imogen C Crook and James Tomlinson and Danilo Miskovic and J Peter A Lodge and RM Wilkie and M Mon-Williams",
+        "journal": "Journal of Surgical Simulation",
+        "volume": "3",
+        "pages": "1-7",
+        "publisher": "Journal of Surgical Simulation, UK",
+        "abstract": "Background: In minimally invasive surgery (MIS), the natural relationship between hand and eye is disrupted, i.e. surgeons typically control tools inserted through the patient’s abdomen while viewing the workspace on a remote monitor, which can be located in a variety of positions. This separates the location of visual feedback from the area in which a motor action is executed. Previous studies suggest that the visual display should be placed directly ahead of the surgeon (i.e. to preserve visual-motor mapping). However, the extent of the impact of this rotation on surgical performance is unknown. Methods: Eighteen participants completed an aiming task on a tablet PC within a surgical box trainer using a laparoscopic tool in a controlled simulated environment. Visual feedback was presented on a remote monitor located at 0°, ±45° and ±90°, with order randomised using the Latin Square method. Results: Movements were significantly slower when the monitor was 90° relative to midline, but spatial accuracy was unaffected by monitor position. Interestingly, the effect of reduced speed in the 90° condition was transient, decreasing over time, suggesting rapid adaptation to the rotation. Conclusions: We conclude that the angle of the visual display in the context of MIS may require a surgeon to adapt to a changed mapping between visual inputs and motor outputs. While this adaptation occurs relatively quickly, it may interfere with skilled actions (e.g. intracorporeal suturing) in complex surgical procedures.",
+        "eprint": "http://eprints.whiterose.ac.uk/96144/8/JSS2016160001.pdf"
+      },
+      {
+        "title": "Moving ahead through time?",
+        "year": 2016,
+        "url": "https://psyarxiv.com/9v5ny/download?format=pdf",
+        "author": "Rachael Raw",
+        "publisher": "PsyArXiv",
+        "abstract": "Miles, Nind and Macrae (2010) reported findings to suggest that our ability to mentally represent the past and future might be represented in the sensorimotor systems that govern human motor control. They ran an experiment showed participants to lean forward when thinking of the future and lean backward when thinking of the past. We aimed to explore this phenomenon further; firstly by exploring whether the knee would move in the opposite direction to the head when participants were standing (ie an automatic counterbalancing movement to avoid instability). We also applied the same methodology as reported by Miles et al.(2010) in an attempt to replicate their results. Findings demonstrated that found that the head does indeed move in the opposite direction to the knee, but more interestingly, our second experiment actually failed replicate Miles et al’s (2010) original findings. Our data strongly suggest that the sensorimotor system prioritises the maintaining of postural control postural maintenance even when a standing individual is engaged in abstract thought processes. This strategy seems the most conducive to survival, given that this approach reduces the likelihood of falls.",
+        "eprint": "https://psyarxiv.com/9v5ny/download?format=pdf"
+      },
+      {
+        "title": "Turning down the noise in interceptive timing",
+        "year": 2016,
+        "url": "http://scholar.google.com/scholar?cluster=4163998829497841860&hl=en&oi=scholarr",
+        "author": "Oscar T Giles and Richard Wilkie and Peter Culmer and Ray Hold and James Tresilian and Mark Mon-Williams",
+        "volume": "45",
+        "pages": "244-245",
+        "publisher": "SAGE PUBLICATIONS LTD"
+      },
+      {
+        "title": "Moving to Capture Children’s Attention: Developing a Methodology for Measuring Visuomotor Attention",
+        "year": 2016,
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0159543",
+        "author": "Liam JB Hill and Rachel O Coats and Faisal Mushtaq and Justin HG Williams and Lorna S Aucott and Mark Mon-Williams",
+        "journal": "PLoS one",
+        "volume": "11",
+        "number": "7",
+        "pages": "e0159543",
+        "publisher": "Public Library of Science",
+        "abstract": "Attention underpins many activities integral to a child’s development. However, methodological limitations currently make large-scale assessment of children’s attentional skill impractical, costly and lacking in ecological validity. Consequently we developed a measure of ‘Visual Motor Attention’ (VMA)—a construct defined as the ability to sustain and adapt visuomotor behaviour in response to task-relevant visual information. In a series of experiments, we evaluated the capability of our method to measure attentional processes and their contributions in guiding visuomotor behaviour. Experiment 1 established the method’s core features (ability to track stimuli moving on a tablet-computer screen with a hand-held stylus) and demonstrated its sensitivity to principled manipulations in adults’ attentional load. Experiment 2 standardised a format suitable for use with children and showed construct validity by capturing developmental changes in executive attention processes. Experiment 3 tested the hypothesis that children with and without coordination difficulties would show qualitatively different response patterns, finding an interaction between the cognitive and motor factors underpinning responses. Experiment 4 identified associations between VMA performance and existing standardised attention assessments and thereby confirmed convergent validity. These results establish a novel approach to measuring childhood attention that can produce meaningful functional assessments that capture how attention operates in an ecologically valid context (i.e. attention's specific contribution to visuomanual action).",
+        "eprint": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0159543"
+      },
+      {
+        "title": "A direction for contrastive analysis: the comparative study of developmental sequences",
+        "year": 2016,
+        "url": "http://scholar.google.com/scholar?cluster=8718064347363366439&hl=en&oi=scholarr",
+        "author": "Michael H Long and M Albert and R Allwright and M Burt and H Dulay and R Allwright and KM Bailey and RW Andersen and SM Gass and C Madden and D Preston and L Selinker and P Avrich and D Ayoun and D Ayoun and LF Bachman and LF Bachman and AD Cohen and CL Baker and ND Baker and KE Nelson and K Bardovi-Harlig and R Barsky and NJD Bartlett and MH Long and E Bates and B MacWhinney and B MacWhinney and E Bates and Z Bauman and M Beck and L Eubank and L Beebe and H Giles and A Beretta and E Bialystok and E Bialystok and E Bialystok and K Hakuta and D Birdsong and E Bialystok and B Miller and D Bickerton and D Birdsong and D Birdsong and D Birdsong and D Birdsong and M Molis and EK Blau and EK Blau and EK Blau and R Bley-Vroman and SM Gass and J Schachter and R Bley-Vroman and R Bley-Vroman and D Block and D Block and JNM Bohannon and B MacWhinney and C Snow and JN Bohannon and RJ Padgett and KE Nelson and M Mark and T Bongaerts and D Birdsong and T Bongaerts and S Mennen and R van der Slik and T Bongaerts and B Planken and E Schils and D Singleton and Z Lengyel and T Bongaerts and C van Summeren and B Planken and E Schils and R Boom and G Borden and A Gerber and G Milsark and MH Bornstein and SM Braidi and SM Braidi and C Brock and G Crookes and RR Day and MH Long and RR Day and HD Brown and R Brown and C Brumfit and A Mauranen and K Sajavaara and P Calvé and S Carroll and L Eubank and L Selinker and M Sharwood-Smith and S Carroll and M Swain and S Carroll and M Swain and Y Roberge and JK Chambers and C Chaudron and C Chaudron and C Chaudron and C Chaudron and B Das and C Chaudron and C Doughty and Y Kim and D Kong and J Lee and Y Lee and MH Long and R Rivers and K Urano and MH Long and C Chaudron and JC Richards and CS Chiang and P Dunkel and M-Y Choi and H Chung and H Clahsen and P Muysken and M Clyne and BP Cochran and JL McDonald and SJ Parault and R Collins and R Coppieters and G Corvalis and G Crookes and G Crookes and G Crookes and RE Culp and RV Watkins and H Lawrence and D Letts and DJ Kelly and ML Rice and J Cummins and E Bilaystok and S Curtiss and JT Cushing",
+        "volume": "85",
+        "number": "2",
+        "pages": "1-2",
+        "publisher": "Oxford University Press",
+        "abstract": "This chapter identifies some structural problems that weaken Second language acquisition (SLA) as an embryonic discipline, as shown not so much by the charges themselves as by the reception they have been given in some quarters. It summarizes two representative critics' arguments in each case as fairly as possible, letting their own words speak for them, and then shows that most of the accusations are themselves naive and irrelevant, albeit potentially very damaging, nonetheless, which means that they need to be addressed. Theories of SLA differ, of course, in the significance of the role they attribute to the linguistic—let alone the social and sociolinguistic—environment, and researchers also differ in their interpretations of the empirical findings to date. Dating from the late 18-century Enlightenment, modernism is associated with beliefs in the self-motivated, rational subject, individual freedom, self …"
+      },
+      {
+        "title": "Robotic Surgery in the Management of Endometrial Cancer",
+        "year": 2016,
+        "url": "http://books.google.com/books?hl=en&lr=&id=YmqQDwAAQBAJ&oi=fnd&pg=PA253&dq=info:J6HKRfdNCd4J:scholar.google.com&ots=K2k_HqYDsH&sig=tF5TALTQS7Jfv0R_Qt_LixS0xYY",
+        "author": "Mark Williams and John Villeneuve and Bernice Robinson-Bennett",
+        "journal": "Gynecologic Cancers: Basic Sciences, Clinical and Therapeutic Perspectives",
+        "pages": "253",
+        "publisher": "BoD–Books on Demand",
+        "abstract": "Endometrial cancer remains the most common gynecologic malignancy in the Unites States and Western Europe. It has been estimated that in 2014, about 52,630 new cases of endometrial cancer was diagnosed and about 8,590 died from the disease. Prior to 1988, endometrial cancer was staged clinically. Since that time surgical staging has been adopted. With the advancement in technology, the vast majority of cases are being staged and treated surgically via minimally invasive approaches. Conventional laparoscopy has been a major advancement in staging and treatment of uterine cancers. However, technical challenges such as 2–D imaging, rigid instruments, and lack of precision and surgeon fatigue did not translate into widespread adoption of this technique. With the advent of computer–enhanced robotic telesurgery, this has dramatically changed the surgical management and staging of endometrial cancer.",
+        "eprint": "https://www.intechopen.com/download/pdf/48598"
+      }
+    ],
     "2019": [
       {
         "title": "The association between socioeconomic status and autism diagnosis in the United Kingdom for children aged 5–8 years of age: Findings from the Born in Bradford cohort",
@@ -3256,7 +3256,7 @@
         "pages": "1-23",
         "publisher": "Routledge",
         "abstract": "Research has shown that adults are skilled at learning new words and meanings. We examined whether learning new meanings for familiar words affects the processing of their existing meanings. Adults learnt fictitious meanings for previously unambiguous words over four consecutive days. We tested comprehension of existing meanings using a semantic relatedness decision task in which the probe word was related to the existing but not the new meaning. Following the training, responses were slower to the trained, but not to the untrained, words, indicating competition between newly-acquired and well-established meanings. This effect was smaller for meanings that were semantically related to existing meanings than for the unrelated counterparts, demonstrating that meaning relatedness modulates the degree of competition. Overall, the findings confirm that new meanings can be integrated into the mental …",
-        "eprint": "https://osf.io/7ydkw/download"
+        "eprint": "https://jennirodd.com/category/publications/"
       },
       {
         "title": "Growing up in Bradford: protocol for the age 7–11 follow up of the Born in Bradford birth cohort",
@@ -3289,7 +3289,7 @@
         "year": 2019,
         "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/cogs.12770",
         "author": "Ed DJ Berry and Richard J Allen and Mark Mon‐Williams and Amanda H Waterman",
-        "journal": "Cognitive Science",
+        "journal": "Cognitive science",
         "volume": "43",
         "number": "8",
         "pages": "e12770",
@@ -3307,21 +3307,24 @@
         "abstract": "The present study investigated hemispheric processing of puns involving decomposable idioms (e.g. Old skiers never die, they just go downhill) and non-decomposable ones (e.g., Old cleaners never die, they just bite the dust) using a divided visual field paradigm. In two cross-modal priming experiments, participants listened to puns and made lexical decisions for targets presented either in the left or right visual fields. To investigate hemispheric asymmetries at different processing stages (early vs. late), the prime-target inter-stimulus interval was 0 ms in Experiment 1 and was increased to 750 ms in Experiment 2. The results from both experiments demonstrated a left hemisphere advantage for processing puns triggered by non-decomposable idioms; puns motivated by decomposable idioms were processed equally fast in both hemispheres, suggesting that this type of pun induced right hemisphere involvement …"
       },
       {
-        "title": "A systematic review of randomised and case‐controlled trials investigating the effectiveness of school‐based motor‐skill interventions in 3‐12‐year‐old children",
+        "title": "A systematic review of randomized and case‐controlled trials investigating the effectiveness of school‐based motor skill interventions in 3‐to 12‐year‐old children",
         "year": 2019,
         "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/cch.12712",
         "author": "Lucy H Eddy and Megan L Wood and Katy A Shire and Daniel D Bingham and Emma Bonnick and Amy Creaser and Mark Mon‐Williams and Liam JB Hill",
         "journal": "Child: care, health and development",
-        "abstract": " Background Research suggests that children identified with impaired motor skills can respond well to intensive therapeutic interventions delivered via occupational and physical therapy services. There is, however, a need to explore alternative approaches to delivering interventions outside traditional referral‐based clinic settings because limited resources mean such health services often struggle to meet demand. This review sets out to systematically assess the evidence for and against school‐based interventions targeted at improving the motor skills of children aged between 3‐12 years old. Method Five electronic databases were searched systematically (AMED, CINAHL, Cochrane, Medline & PsycINFO) for peer‐reviewed articles published between January 2012 and July 2018. Studies were eligible if they implemented a school‐based motor skill intervention with a randomised or case‐controlled trial design …"
+        "abstract": " Background Research suggests that children identified with impaired motor skills can respond well to intensive therapeutic interventions delivered via occupational and physical therapy services. There is, however, a need to explore alternative approaches to delivering interventions outside traditional referral‐based clinic settings because limited resources mean such health services often struggle to meet demand. This review sets out to systematically assess the evidence for and against school‐based interventions targeted at improving the motor skills of children aged between 3 and 12 years old. Method Five electronic databases were searched systematically (AMED, CINAHL, Cochrane, Medline, and PsycINFO) for peer‐reviewed articles published between January 2012 and July 2018. Studies were eligible if they implemented a school‐based motor skill intervention with a randomized or case‐controlled trial …",
+        "eprint": "https://www.researchgate.net/profile/Mark_Mon-Williams/publication/334537116_A_systematic_review_of_randomised_and_case-controlled_trials_investigating_the_effectiveness_of_school-based_motor-skill_interventions_in_3-12_year-old_children/links/5d56e90fa6fdccb7dc426959/A-systematic-review-of-randomised-and-case-controlled-trials-investigating-the-effectiveness-of-school-based-motor-skill-interventions-in-3-12-year-old-children.pdf"
       },
       {
-        "title": "Starting School: Educational Development as a Function of Age of Entry and Prematurity",
+        "title": "Starting school: educational development as a function of age of entry and prematurity",
         "year": 2019,
-        "url": "http://eprints.whiterose.ac.uk/147876/",
-        "author": "KJ Pettinger and B Kelly and TA Sheldon and M Mon-Williams and J Wright and L Hill",
-        "journal": "Archives of Disease in Childhood",
-        "publisher": "BMJ Publishing Group",
-        "abstract": "Objective: To estimate the impact on early development of prematurity and summer birth and the potential ‘double disadvantage’ created by starting school a year earlier than anticipated during pregnancy, due to being born preterm.  Design, setting and patients: We investigated the impact of gestational and school-entry age on the likelihood of failing to achieve a ‘Good Level of Development’ (GLD) on the Early Years Foundation Stage Profile in 5-year-old children born moderate-to-late preterm using data from the Born in Bradford longitudinal birth cohort. We used hierarchical logistic regression to control for chronological maturity, perinatal and socio-economic factors.   Results:  Gestational age and school-entry age were significant predictors of attaining a GLD in the 10,337 children who entered school in the correct academic year given their estimated date of delivery.  The odds of not attaining a GLD increased by 1.09 (95% CI: 1.06-1.11) for each successive week born early and by 1.17 for each month younger within the year group (95% CI: 1.16-1.18). There was no interaction between these two effects. Children starting school a year earlier than anticipated during pregnancy were less likely to achieve a GLD compared to: (i) other children born preterm (fully adjusted odds ratio (OR) 5.51 [2.85-14.25]) (ii) term summer births (3.02 [1.49-6.79]), (iii) preterm summer births who remained within their anticipated school-entry year (3.64 [1.27-11.48]).  Conclusions: These results confirm the developmental risks faced by children born moderate to late preterm and - for the first time - illustrate the increased risk associated with this ‘double disadvantage’."
+        "url": "https://adc.bmj.com/content/early/2019/07/18/archdischild-2019-317124.abstract",
+        "author": "Katherine J Pettinger and Brian Kelly and Trevor A Sheldon and Mark Mon-Williams and John Wright and Liam JB Hill",
+        "journal": "Archives of disease in childhood",
+        "pages": "archdischild-2019-317124",
+        "publisher": "BMJ Publishing Group Ltd",
+        "abstract": "Objective To estimate the impact on early development of prematurity and summer birth and the potential ‘double disadvantage’ created by starting school a year earlier than anticipated during pregnancy, due to being born preterm.Design, setting and patients We investigated the impact of gestational and school-entry age on the likelihood of failing to achieve a ‘Good Level of Development’ (GLD) on the Early Years Foundation Stage Profile in 5-year-old children born moderate-to-late preterm using data from the Born in Bradford longitudinal birth cohort. We used hierarchical logistic regression to control for chronological maturity, and perinatal and socioeconomic factors.Results Gestational age and school-entry age were significant predictors of attaining a GLD in the 10 337 children who entered school in the correct academic year given their estimated date of delivery. The odds of not attaining a GLD increased …",
+        "eprint": "https://adc.bmj.com/content/early/2019/07/18/archdischild-2019-317124.abstract"
       },
       {
         "title": "Testing the fidelity and validity of a virtual reality golf putting simulator",
@@ -3373,6 +3376,34 @@
         "pages": "417",
         "publisher": "Nature Publishing Group",
         "abstract": "Introduction Dental schools across the world are increasingly adopting'multiple mini interview'(MMI) approaches to evaluate prospective students. But what skills and abilities are being assessed within these short, structured'interview'stations and do they map on to the requirements of dental practice? Understanding the fundamental processes being measured is important if these assessments are to serve the purpose of identifying the students with the greatest potential to succeed in dental practice.Materials and methods To this end, we performed factor analysis on data from 239 participants on ten MMI stations used for undergraduate selection at a UK dental school.Results The analysis revealed that this assessment approach captured two fundamental underlying traits. The first factor captured scores on six stations that could be labelled usefully as a'soft skill'factor. The second captured scores on four stations that …"
+      },
+      {
+        "title": "Skill acquisition as a function of age, hand and task difficulty: Interactions between cognition and action",
+        "year": 2019,
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0211706",
+        "author": "Rachael K Raw and Richard M Wilkie and Richard J Allen and Matthew Warburton and Matteo Leonetti and Justin HG Williams and Mark Mon-Williams",
+        "journal": "PloS one",
+        "volume": "14",
+        "number": "2",
+        "pages": "e0211706",
+        "publisher": "Public Library of Science",
+        "abstract": "Some activities can be meaningfully dichotomised as ‘cognitive’ or ‘sensorimotor’ in nature—but many cannot. This has radical implications for understanding activity limitation in disability. For example, older adults take longer to learn the serial order of a complex sequence but also exhibit slower, more variable and inaccurate motor performance. So is their impaired skill acquisition a cognitive or motor deficit? We modelled sequence learning as a process involving a limited capacity buffer (working memory), where reduced performance restricts the number of elements that can be stored. To test this model, we examined the relationship between motor performance and sequence learning. Experiment 1 established that older adults were worse at learning the serial order of a complex sequence. Experiment 2 found that participants showed impaired sequence learning when the non-preferred hand was used. Experiment 3 confirmed that serial order learning is impaired when motor demands increase (as the model predicted). These results can be captured by reinforcement learning frameworks which suggest sequence learning will be constrained both by an individual’s sensorimotor ability and cognitive capacity.",
+        "eprint": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0211706"
+      }
+    ]
+  },
+  "zQa8nTgAAAAJ": {
+    "2019": [
+      {
+        "title": "Studying human behavior with virtual reality: The Unity Experiment Framework",
+        "year": 2019,
+        "url": "https://link.springer.com/article/10.3758/s13428-019-01242-0",
+        "author": "Jack Brookes and Matthew Warburton and Mshari Alghadier and Mark Mon-Williams and Faisal Mushtaq",
+        "journal": "Behavior research methods",
+        "pages": "1-9",
+        "publisher": "Springer US",
+        "abstract": "Virtual reality (VR) systems offer a powerful tool for human behavior research. The ability to create three-dimensional visual scenes and to measure responses to the visual stimuli enables the behavioral researcher to test hypotheses in a manner and scale that were previously unfeasible. For example, a researcher wanting to understand interceptive timing behavior might wish to violate Newtonian mechanics so that objects can move in novel 3-D trajectories. The same researcher might wish to collect such data with hundreds of participants outside the laboratory, and the use of a VR headset makes this a realistic proposition. The difficulty facing the researcher is that sophisticated 3-D graphics engines (eg, Unity) have been created for game designers rather than behavioral scientists. To overcome this barrier, we have created a set of tools and programming syntaxes that allow logical encoding of the common …",
+        "eprint": "https://link.springer.com/article/10.3758/s13428-019-01242-0"
       },
       {
         "title": "Skill acquisition as a function of age, hand and task difficulty: Interactions between cognition and action",
@@ -3498,21 +3529,6 @@
         "eprint": "http://www.academia.edu/download/30727530/Bingham_Coates_Mon-Williams2007.pdf"
       }
     ],
-    "2008": [
-      {
-        "title": "Calibrating grasp size and reach distance: interactions reveal integral organization of reaching-to-grasp movements",
-        "year": 2008,
-        "url": "https://link.springer.com/article/10.1007/s00221-008-1418-5",
-        "author": "Rachel Coats and Geoffrey P Bingham and Mark Mon-Williams",
-        "journal": "Experimental Brain Research",
-        "volume": "189",
-        "number": "2",
-        "pages": "211-220",
-        "publisher": "Springer-Verlag",
-        "abstract": " Feedback is a central feature of neural systems and of crucial importance to human behaviour as shown in goal directed actions such as reaching-to-grasp. One important source of feedback in reach-to-grasp behaviour arises from the haptic information obtained after grasping an object. We manipulated the felt distance and/or size of a visually constant object to explore the role of haptic information in the calibration of reaching and grasping. Crucially, our design explored post-adaptation effects rather than the previously documented role of haptic information in movement organisation. A post-adaptation reach-to-grasp task showed: (1) distorted haptic feedback caused recalibration; (2) reach distance and grasp size could be calibrated separately but, if calibrated simultaneously, then (3) recalibration was greater when distance and size changed in a consistent (e.g. reaching for a larger object at a greater …",
-        "eprint": "https://www.researchgate.net/profile/Mark_Mon-Williams/publication/5356106_Calibrating_grasp_size_and_reach_distance_Interactions_reveal_integral_organization_of_reaching-to-grasp_movements/links/00b495212521e61227000000.pdf"
-      }
-    ],
     "2010": [
       {
         "title": "Learning a coordinated rhythmic movement with task-appropriate coordination feedback",
@@ -3526,6 +3542,21 @@
         "publisher": "Springer-Verlag",
         "abstract": " A common perception–action learning task is to teach participants to produce a novel coordinated rhythmic movement, e.g. 90° mean relative phase. As a general rule, people cannot produce these novel movements stably without training. This is because they are extremely poor at discriminating the perceptual information required to coordinate and control the movement, which means people require additional (augmented) feedback to learn the novel task. Extant methods (e.g. visual metronomes, Lissajous figures) work, but all involve transforming the perceptual information about the task and thus altering the perception–action task dynamic being studied. We describe and test a new method for providing online augmented coordination feedback using a neutral colour cue. This does not alter the perceptual information or the overall task dynamic, and an experiment confirms that (a) feedback is required for …",
         "eprint": "http://www.academia.edu/download/46692766/s00221-010-2388-y20160621-10486-1ldw829.pdf"
+      }
+    ],
+    "2008": [
+      {
+        "title": "Calibrating grasp size and reach distance: interactions reveal integral organization of reaching-to-grasp movements",
+        "year": 2008,
+        "url": "https://link.springer.com/article/10.1007/s00221-008-1418-5",
+        "author": "Rachel Coats and Geoffrey P Bingham and Mark Mon-Williams",
+        "journal": "Experimental Brain Research",
+        "volume": "189",
+        "number": "2",
+        "pages": "211-220",
+        "publisher": "Springer-Verlag",
+        "abstract": " Feedback is a central feature of neural systems and of crucial importance to human behaviour as shown in goal directed actions such as reaching-to-grasp. One important source of feedback in reach-to-grasp behaviour arises from the haptic information obtained after grasping an object. We manipulated the felt distance and/or size of a visually constant object to explore the role of haptic information in the calibration of reaching and grasping. Crucially, our design explored post-adaptation effects rather than the previously documented role of haptic information in movement organisation. A post-adaptation reach-to-grasp task showed: (1) distorted haptic feedback caused recalibration; (2) reach distance and grasp size could be calibrated separately but, if calibrated simultaneously, then (3) recalibration was greater when distance and size changed in a consistent (e.g. reaching for a larger object at a greater …",
+        "eprint": "https://www.researchgate.net/profile/Mark_Mon-Williams/publication/5356106_Calibrating_grasp_size_and_reach_distance_Interactions_reveal_integral_organization_of_reaching-to-grasp_movements/links/00b495212521e61227000000.pdf"
       }
     ],
     "2011": [
@@ -3639,8 +3670,7 @@
         "number": "1",
         "pages": "75-84",
         "publisher": "Springer-Verlag",
-        "abstract": " This study examined perception–action learning in younger adults in their 20s compared to older adults in their 70s and 80s. The goal was to provide, for the first time, quantitative estimates of perceptuo-motor learning rates for each age group and to reveal how these learning rates change between these age groups. We used a visual coordination task in which participants are asked to learn to produce a novel-coordinated rhythmic movement. The task has been studied extensively in young adults, and the characteristics of the task are well understood. All groups showed improvement, although learning rates for those in their 70s and 80s were half the rate for those in their 20s. We consider the potential causes of these differences in learning rates by examining performance across the different coordination patterns examined as well as recent results that reveal age-related deficits in motion perception.",
-        "eprint": "http://www.indiana.edu/~palab/Resources/Publications/2010-2019/2013%20Coats%20et%20al.pdf"
+        "abstract": " This study examined perception–action learning in younger adults in their 20s compared to older adults in their 70s and 80s. The goal was to provide, for the first time, quantitative estimates of perceptuo-motor learning rates for each age group and to reveal how these learning rates change between these age groups. We used a visual coordination task in which participants are asked to learn to produce a novel-coordinated rhythmic movement. The task has been studied extensively in young adults, and the characteristics of the task are well understood. All groups showed improvement, although learning rates for those in their 70s and 80s were half the rate for those in their 20s. We consider the potential causes of these differences in learning rates by examining performance across the different coordination patterns examined as well as recent results that reveal age-related deficits in motion perception."
       }
     ],
     "2015": [
@@ -3735,6 +3765,21 @@
         "publisher": "Public Library of Science",
         "abstract": "Injury to the cervical spinal cord results in bilateral deficits in arm/hand function reducing functional independence and quality of life. To date little research has been undertaken to investigate control strategies of arm/hand movements following cervical spinal cord injury (cSCI). This study aimed to investigate unimanual and bimanual coordination in patients with acute cSCI using 3D kinematic analysis as they performed naturalistic reach to grasp actions with one hand, or with both hands together (symmetrical task), and compare this to the movement patterns of uninjured younger and older adults. Eighteen adults with a cSCI (mean 61.61 years) with lesions at C4-C8, with an American Spinal Injury Association (ASIA) grade B to D and 16 uninjured younger adults (mean 23.68 years) and sixteen uninjured older adults (mean 70.92 years) were recruited. Participants with a cSCI produced reach-to-grasp actions which took longer, were slower, and had longer deceleration phases than uninjured participants. These differences were exacerbated during bimanual reach-to-grasp tasks. Maximal grasp aperture was no different between groups, but reached earlier by people with cSCI. Participants with a cSCI were less synchronous than younger and older adults but all groups used the deceleration phase for error correction to end the movement in a synchronous fashion. Overall, this study suggests that after cSCI a level of bimanual coordination is retained. While there seems to be a greater reliance on feedback to produce both the reach to grasp, we observed minimal disruption of the more impaired limb on the less impaired limb. This suggests that …",
         "eprint": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0175457"
+      }
+    ],
+    "2019": [
+      {
+        "title": "The effect of using a cycling workstation on mouse dexterity",
+        "year": 2019,
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0220896",
+        "author": "Anna Anderson and Oliver Thornton and Rachel Coats and Antonio Capozio and Sarah Astill",
+        "journal": "PloS one",
+        "volume": "14",
+        "number": "8",
+        "pages": "e0220896",
+        "publisher": "Public Library of Science",
+        "abstract": "This study investigated the effect of using a cycling workstation on mouse dexterity, including if and how this changed with practice. Thirty-four healthy adults were allocated to a sitting group (n = 17) or cycling group (n = 17). All participants completed standardised computer tasks on 6 occasions: baseline and final—all participants were seated; practice 1 to 4—sitting group participants were seated, cycling group participants pedalled on an under desk cycle. Three computer tasks were employed: (1) Tracking (continuous task)—participants used the mouse pointer to track a dot in a figure of 8 pattern at 3 different speeds without a guide then with a guide (2) Aiming (discrete task)—participants moved the mouse pointer to a dot which repeatedly disappeared then reappeared again in different locations, creating the outline of a pentagram (3) Steering (continuous task)—participants steered the mouse pointer around two different pathways. Accuracy was measured during the Tracking and Steering tasks as the root mean square error and penalised path accuracy respectively. Speed was measured during the Aiming task as the movement time. Data was analysed using frequentist and Bayes Factor analyses. During the continuous tasks (Tracking and Steering), accuracy was impaired among participants using the cycling workstation, both compared to their accuracy when seated and to the accuracy of participants in the sitting group. In contrast, no deficits in speed were noted among participants using the cycling work station during the discrete task (Aiming). No learning effects were observed among either group for any tasks. These findings suggest …",
+        "eprint": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0220896"
       }
     ],
     "2018": [
