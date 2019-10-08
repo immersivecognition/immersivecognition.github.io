@@ -43,8 +43,8 @@ a:link, a:hover, a:focus, a:active, a:visited {
 
 .greyed {
     width: 100%;
-    background-color: #f8f8f8;
-    border-bottom: 1px solid #e7e7e7;
+    background-color: #1e4c5a08;
+    border-bottom: 1px solid #1e4c5a10;
 }
 
 #footer-spacer {
@@ -80,9 +80,14 @@ a:link, a:hover, a:focus, a:active, a:visited {
 }
 
 img.logo {
-    max-height: 48px;
+    max-height: 128px;
     vertical-align: middle;
-    margin: 0 0.5em 0 0em;
+    margin: 2.5em 0 2em 0;
+}
+
+a.logo {
+    text-align: center;
+    width: 100%;
 }
 
 #navbar {
@@ -115,7 +120,7 @@ ul.navlist li {
     font-size: 18px;
     display: inline-block; 
     padding: 15px 1em;
-    color: #4b4b4b;
+    color: #1e4c5a;
 }
 
 ul.navlist li.logotext {
@@ -133,6 +138,7 @@ h1, h2, h3, h4, h5, h6 {
     font-family: 'Work Sans', sans-serif;
     font-weight: 400;
     line-height: 1.3em;
+    color: #1e4c5a;
 }
 
 .center {
@@ -185,6 +191,7 @@ img.project {
 }
 
 .projecttitle {
+    color: #1e4c5a;
     font-family: 'Work Sans', sans-serif;
     font-weight: 400;
     font-size: 18px;
@@ -196,7 +203,7 @@ img.project {
     display: block;
     height: 2px;
     width: 0%;
-    border-bottom: 2px solid #f6ba00;
+    border-bottom: 2px solid #ec0186;
     text-align: center;
     padding-top: 0.1em;
     -webkit-transition: .15s; /* Safari */
@@ -221,10 +228,12 @@ img.banner {
 }
 
 p.about {
+    margin: 1em auto;
+    max-width: 750px;
+    font-size: 1.5em;
     text-align: center;
-    font-size: 2em;
     line-height: 140%;
-    color: #4b4b4b;
+    color: #1e4c5a;
 }
 
 ul#people {
@@ -248,7 +257,7 @@ ul#people li {
 
 img.person {
     border-radius: 50%;
-    border: 10px solid #f6b90000;
+    border: 10px solid #ec018600;
     -webkit-transition: .15s; /* Safari */
     transition: .15s;
     width: 138px;
@@ -257,7 +266,7 @@ img.person {
 }
 
 a.personbox:hover img.person {
-    border-color: #f6ba00;
+    border-color: #ec0186;
     -webkit-transition: .15s; /* Safari */
     transition: .15s;
 }
@@ -447,9 +456,4 @@ i.globe-color { color: #0033a1 }
     ul.navlist li {
         padding: 8px 0 8px 0;
     }   
-
-    a.logo {
-        text-align: center;
-        width: 100%;
-    }
 }

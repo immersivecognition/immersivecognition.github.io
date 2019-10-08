@@ -35,7 +35,7 @@ def remove_duplicates(lis, key):
 @application.route('/')
 @application.route('/index.html')
 def index():
-    return render_template('index.html')
+    return render_template('index.html', projects=get_mds('projects'), people=get_mds('people'), email=obfuscate('pscicon@' + DOMAIN))
 
 
 @application.route('/projects/')
