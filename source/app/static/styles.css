@@ -5,7 +5,7 @@
 
 html {
     overflow-y: scroll;
-} 
+}
 
 body {
     font-family: 'Lato', sans-serif;
@@ -29,7 +29,11 @@ stong {
     position: relative;
 }
 
-a:link, a:hover, a:focus, a:active, a:visited {
+a:link,
+a:hover,
+a:focus,
+a:active,
+a:visited {
     text-decoration: none;
     color: inherit;
 }
@@ -67,7 +71,6 @@ a:link, a:hover, a:focus, a:active, a:visited {
     text-align: center;
 }
 
-
 .section::after {
     content: " ";
     white-space: pre;
@@ -97,7 +100,7 @@ a.logo {
 
 ul.navlist {
     width: 100%;
-    display: inline-block; 
+    display: inline-block;
     margin: 0;
     padding: 0;
 }
@@ -118,7 +121,7 @@ ul.navlist li {
     font-family: 'Work Sans', sans-serif;
     font-weight: 400;
     font-size: 18px;
-    display: inline-block; 
+    display: inline-block;
     padding: 15px 1em;
     color: #1e4c5a;
 }
@@ -128,12 +131,18 @@ ul.navlist li.logotext {
 }
 
 ul.navlist li:hover {
-    -webkit-transition: .15s; /* Safari */
+    -webkit-transition: .15s;
+    /* Safari */
     transition: .15s;
     color: #000000;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     margin-top: 0;
     font-family: 'Work Sans', sans-serif;
     font-weight: 400;
@@ -164,7 +173,7 @@ a.project {
     width: 50%;
     overflow: hidden;
     display: block;
-    margin: 0.5em 0;    
+    margin: 0.5em 0;
 }
 
 a.project p {
@@ -176,7 +185,8 @@ a.project p {
     color: #353535;
     height: 100%;
     padding: 1.4em;
-    -webkit-transition: background-color .15s; /* Safari */
+    -webkit-transition: background-color .15s;
+    /* Safari */
     transition: background-color .15s;
 }
 
@@ -206,25 +216,35 @@ img.project {
     border-bottom: 2px solid #ec0186;
     text-align: center;
     padding-top: 0.1em;
-    -webkit-transition: .15s; /* Safari */
+    -webkit-transition: .15s;
+    /* Safari */
     transition: .15s;
 }
 
 div.tiles a:hover .innerproject {
     color: #000;
-    -webkit-transition: background-color .15s; /* Safari */
+    -webkit-transition: background-color .15s;
+    /* Safari */
     transition: background-color .15s;
 }
 
-
 div.tiles a.project:hover .projecttitle::after {
-    -webkit-transition: .15s; /* Safari */
+    -webkit-transition: .15s;
+    /* Safari */
     transition: .15s;
     width: 20%;
 }
 
 img.banner {
     width: 100%;
+}
+
+video.vr,
+img.vr {
+    max-width: 100%;
+    max-height: 1500px;
+    margin: auto;
+    display: block;
 }
 
 p.about {
@@ -258,7 +278,8 @@ ul#people li {
 img.person {
     border-radius: 50%;
     border: 10px solid #ec018600;
-    -webkit-transition: .15s; /* Safari */
+    -webkit-transition: .15s;
+    /* Safari */
     transition: .15s;
     width: 138px;
     height: 138px;
@@ -267,7 +288,8 @@ img.person {
 
 a.personbox:hover img.person {
     border-color: #ec0186;
-    -webkit-transition: .15s; /* Safari */
+    -webkit-transition: .15s;
+    /* Safari */
     transition: .15s;
 }
 
@@ -295,7 +317,8 @@ a.personbox:hover img.person {
     line-height: 160%;
 }
 
-.post-main img, .post-main video {
+.post-main img,
+.post-main video {
     max-width: 100%;
 }
 
@@ -327,7 +350,7 @@ ul.me-links {
     padding: 0.5em 0 0 0;
 }
 
-ul.me-links > li {
+ul.me-links>li {
     list-style: none;
     padding: 0.4em 0 1.4em 0;
 }
@@ -362,7 +385,8 @@ button.year {
     font-weight: 400;
 }
 
-.r-arrow, .d-arrow {
+.r-arrow,
+.d-arrow {
     padding-right: 0.5em;
     display: inline-block;
 }
@@ -399,7 +423,7 @@ ul.paperlist li {
     border-bottom: 1px solid #e7e7e7;
 }
 
-ul.paperlist li:last-child{
+ul.paperlist li:last-child {
     border-bottom: 0;
 }
 
@@ -411,49 +435,63 @@ ul.paperlist li:last-child{
     padding-right: 1.5em;
 }
 
+i.email-color {
+    color: #ffa930
+}
 
+i.twitter-color {
+    color: #1da1f2
+}
 
-i.email-color { color: #ffa930 }
-i.twitter-color { color: #1da1f2 }
-i.github-color { color: #333 }
-i.scholar-color { color: #4285f4 }
-i.link-color { color: #00ca54 }
-i.arrow-color { color: #e7e7e7 }
-i.pdf-color { color: #ff0000 }
-i.globe-color { color: #0033a1 }
+i.github-color {
+    color: #333
+}
 
+i.scholar-color {
+    color: #4285f4
+}
+
+i.link-color {
+    color: #00ca54
+}
+
+i.arrow-color {
+    color: #e7e7e7
+}
+
+i.pdf-color {
+    color: #ff0000
+}
+
+i.globe-color {
+    color: #0033a1
+}
 
 @media screen and (max-width: 640px) {
-
     a.project {
         width: 100%;
     }
-
     .inner-body {
         padding: 0 1em 0 1em;
     }
-
     ul.navlist {
         padding-left: 0;
     }
-
-    .post-sidebar, .post-main {
+    .post-sidebar,
+    .post-main {
         display: block;
         width: 100%;
     }
-
     ul.paperlist li {
         padding: 1em 0em;
     }
-
 }
 
 @media screen and (max-width: 900px) {
     ul.navlist a {
         display: block;
-    }   
-
+    }
     ul.navlist li {
         padding: 8px 0 8px 0;
-    }   
+    }
 }
