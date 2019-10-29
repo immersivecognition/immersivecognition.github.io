@@ -4,6 +4,7 @@ import markdown2
 import os
 import json
 import pprint
+import time
 
 CONTENT = "content"
 
@@ -27,7 +28,15 @@ def get_scholars():
 
 def get_paper(pub):
     print(f":: {pub.bib['title']}")
-    pub.fill() # takes extra time
+    t = 5
+    while not pub._filled:
+        try:
+            pub.fill() # takes extra time
+        except Exception as e:
+            print(f"{str(e)}. Retrying in {t} seconds")
+            time.sleep(t) # wait, try again
+            t = t * 2
+    
     if 'abstract' in pub.bib and not type(pub.bib['abstract']) is str:
         pub.bib['abstract'] = pub.bib['abstract'].text
     if 'eprint' in pub.bib:

@@ -5,6 +5,7 @@ interests: Cognitive Neuroscience, Psychology, Learning, Decision Making, Sensor
 twitter: faisalmushtaq
 email: F.Mushtaq
 image: faisal.jpg
+scholar: bcjpWSwAAAAJ
 ---
 
 # Profile
