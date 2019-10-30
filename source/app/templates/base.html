@@ -9,15 +9,11 @@
     <title>{% if title %}{{title}} - {% endif %}Immersive Cognition (ICON)</title>
 
     {% if description %}
-    <meta name="description" content="{{ description }}">
-    {% else %}
-    <meta name="description" content="Homepage for the Immersive Cognition Research group (ICON) at the University of Leeds, UK. We use immersive technologies (e.g. VR, AR) to study human behaviour.">
-    {% endif %}
+    <meta name="description" content="{{ description }}"> {% else %}
+    <meta name="description" content="Homepage for the Immersive Cognition Research group (ICON) at the University of Leeds, UK. We use immersive technologies (e.g. VR, AR) to study human behaviour."> {% endif %} {% if title %}
+    <meta name="og:title" property="og:title" content="{{title}}">{% endif %}
 
-    {% if title %}<meta name="og:title" property="og:title" content="{{title}}">{% endif %}
-
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ"
-        crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400i,700i|Work+Sans:400" rel="stylesheet">
     <link rel="icon" type="image/png" sizes="48x48" href="{{url_for('static', filename='favicon.png')}}">
     <link rel="stylesheet" href="{{url_for('static', filename='styles.css')}}">

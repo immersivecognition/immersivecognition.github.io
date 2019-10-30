@@ -15,7 +15,11 @@ mccabe==0.6.1
 pillow==6.2.0
 pylint==2.1.1
 PyYAML>=4.2b1
-scholarly==0.2.5
 six==1.11.0
 Werkzeug==0.14.1
 wrapt==1.10.11
+arrow
+beautifulsoup4
+bibtexparser
+pysocks
+requests[security]
