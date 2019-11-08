@@ -29,7 +29,11 @@ stong {
     position: relative;
 }
 
-a:link,
+a:link {
+    text-decoration: none;
+    color: #1a0dab;
+}
+
 a:hover,
 a:focus,
 a:active,
@@ -248,15 +252,12 @@ img.vr {
 }
 
 p.about {
-    margin: 1em auto;
-    max-width: 750px;
-    font-size: 1.5em;
-    text-align: center;
-    line-height: 140%;
-    color: #1e4c5a;
+    text-align: left;
+    font-size: 18px;
 }
 
-ul#people {
+ul#people,
+ul#alumni {
     display: flex;
     flex-wrap: wrap;
     padding: 1em 0;
@@ -267,9 +268,11 @@ a.personbox {
     height: 100%;
     display: block;
     width: 150px;
+    color: #353535;
 }
 
-ul#people li {
+ul#people li,
+ul#alumni li {
     text-align: center;
     padding: 1em;
     margin: 0 auto;

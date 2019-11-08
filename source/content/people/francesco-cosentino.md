@@ -1,7 +1,8 @@
 ---
 name: Francesco Cosentino
-role: 
+role: Postdoctoral Researcher
 interests: 
 image: francesco.jpg
 email: F.Cosentino
+alum: true
 ---

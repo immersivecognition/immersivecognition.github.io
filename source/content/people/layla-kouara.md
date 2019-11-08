@@ -4,6 +4,7 @@ role: Research Assistant
 interests: EEG, Sleep 
 email: ll16l2k
 github: LaylaKouara
+image: layla.jpg
 ---
 
 

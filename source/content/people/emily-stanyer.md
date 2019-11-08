@@ -3,6 +3,7 @@ name: Emily Stanyer
 role: Research Technician
 interests: Sleep, Slow-wave sleep, Memory, Cognition, EEG, Polysomnography
 image: emily.jpg
+alum: true
 ---
 
 

@@ -1,7 +1,10 @@
+<h1 class="center" id="people">
+    People
+</h1>
 <ul id="people">
-    {% for person in people %}
+    {% for person in current %}
     <li>
-    <a class="personbox" href="{{ url_for('person', name=person.filename) }}">
+        <a class="personbox" href="{{ url_for('person', name=person.filename) }}">
         {% if person.metadata.image %}
         <img class="person" src="{{url_for('static', filename='people-images/' + person.metadata.image)}}", alt="{{person.metadata.name}}" />
         {% else %}
@@ -16,9 +19,34 @@
 </ul>
 
 
+<h1 class="center" id="alumni">
+    Alumni
+</h1>
+<ul id="alumni">
+    {% for person in alumni %}
+    <li>
+        <a class="personbox" href="{{ url_for('person', name=person.filename) }}">
+        {% if person.metadata.image %}
+        <img class="person" src="{{url_for('static', filename='people-images/' + person.metadata.image)}}", alt="{{person.metadata.name}}" />
+        {% else %}
+        <img class="person" src="https://api.adorable.io/avatars/128/{{ person.metadata.name }}.png", alt="{{person.metadata.name}}" />
+        {% endif %}
+        <p>
+            <strong>{{ person.metadata.name }}</strong><br><em>Alum, {{ person.metadata.role }}</em>
+        </p>
+    </a>
+    </li>
+    {% endfor %}
+</ul>
+
 <script>
     // shuffles people
     var ul = document.querySelector('ul#people');
+    for (var i = ul.children.length; i >= 0; i--) {
+        ul.appendChild(ul.children[Math.random() * i | 0]);
+    }
+    // shuffles alumni
+    var ul = document.querySelector('ul#alumni');
     for (var i = ul.children.length; i >= 0; i--) {
         ul.appendChild(ul.children[Math.random() * i | 0]);
     }

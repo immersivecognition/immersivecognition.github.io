@@ -5,6 +5,7 @@ import os
 import json
 import pprint
 import time
+import requests
 
 CONTENT = "content"
 
@@ -32,7 +33,7 @@ def get_paper(pub):
     while not pub._filled:
         try:
             pub.fill() # takes extra time
-        except Exception as e:
+        except requests.exceptions.HTTPError as e:
             print(f"{str(e)}. Retrying in {t} seconds")
             time.sleep(t) # wait, try again
             t = t * 2

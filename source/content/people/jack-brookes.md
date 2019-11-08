@@ -1,6 +1,6 @@
 ---
 name: Jack Brookes
-role: Lead Developer; PhD Student
+role: Lead Developer, PhD Student
 interests: Virtual Reality, Decision Making, Learning, Motor Control
 twitter: jackbrookes
 github: jackbrookes

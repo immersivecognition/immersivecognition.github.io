@@ -1,6 +1,6 @@
 ---
 name: Faisal Mushtaq
-role: University Academic Fellow
+role: Associate Professor
 interests: Cognitive Neuroscience, Psychology, Learning, Decision Making, Sensorimotor, EEG, Virtual Reality, VR, Augmented Reality, AR
 twitter: faisalmushtaq
 email: F.Mushtaq

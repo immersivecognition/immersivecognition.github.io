@@ -52,7 +52,10 @@ def project(name):
 
 @application.route('/people/')
 def people():
-    return render_template('people.html', people=get_mds('people'), title="People")
+    people = get_mds('people')
+    alumni = [person for person in people if person.metadata.get("alum", False)]
+    current = [person for person in people if not person.metadata.get("alum", False)]
+    return render_template('people.html', current=current, alumni=alumni, title="People")
 
 
 @application.route('/people/<name>/')
