@@ -28,7 +28,7 @@ def get_scholars():
 
 
 def get_paper(pub):
-    print(f":: {pub.bib['title']}")
+    print(f":: {pub.bib['title']}", flush=True)
     t = 5
     while not pub._filled:
         try:
@@ -48,7 +48,7 @@ def get_paper(pub):
 
 def get_papers(author):
     author.fill()
-    print(f"fetching papers from {author.name}")
+    print(f"\nFetching papers from {author.name}", flush=True)
     pubs = [get_paper(pub) for pub in author.publications]
     pubs_sorted = {}
     for pub in pubs:
@@ -68,5 +68,5 @@ if __name__ == "__main__":
     authors = {s: scholarly.Author(s) for s in scholars}
     papers = {s: get_papers(a) for s, a in authors.items()}
     with open(os.path.join(CONTENT, 'papers.json'), 'w+', encoding="utf-8") as f:
-        print(f"papers info saved to papers.json")
         json.dump(papers, f, indent=2, ensure_ascii=False, skipkeys=True)
+        print(f"Papers info saved to papers.json. Now ready to freeze website.")
