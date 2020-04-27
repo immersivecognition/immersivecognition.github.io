@@ -3,6 +3,7 @@ name: Ahmed Balkhoyor
 role: PhD Student
 interests: Dental Education, Motor Learning
 image: ahmed.jpg
+alum: true
 ---
 
 
