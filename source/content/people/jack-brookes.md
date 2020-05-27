@@ -7,6 +7,7 @@ github: jackbrookes
 scholar: 0kwtpyoAAAAJ
 image: jack.jpg
 email: ed11jb
+alum: true
 ---
 
 

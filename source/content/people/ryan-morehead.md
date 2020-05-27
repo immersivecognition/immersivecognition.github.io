@@ -1,6 +1,6 @@
 ---
 name: Ryan Morehead
-role: University Academic Fellow
+role: Co-director, University Academic Fellow
 interests: Motor Learning, Motor Control
 email: r.morehead
 scholar: eRRa7KUAAAAJ

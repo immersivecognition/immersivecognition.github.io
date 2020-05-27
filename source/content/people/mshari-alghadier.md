@@ -7,6 +7,7 @@ scholar: uoOWsPIAAAAJ
 twitter: MshariAlghadier
 github: MshariAlghadier
 image: mshari.jpg
+alum: true
 ---
 
 
