@@ -1,7 +1,7 @@
 ---
 name: Matthew Warburton
-role: Research Assistant
-interests: Decision making, Motor control
+role: PhD Student
+interests: Decision making, Motor control, Virtual reality
 email: M.Warburton
 github: mwarb
 twitter: m_warb
@@ -12,8 +12,9 @@ image: matthew.jpg
 
 # Profile
 
-I gained my Mechanical Engineering MEng from the University of Leeds in 2016.
+I gained my Mechanical Engineering MEng from the University of Leeds in 2016. I worked in industry as a design engineer for a company designing automation machinery, before returning to academia as a research assisstant. I then started my PhD in 2019. 
 
 # Research interests
 
-I work as a research assistant on the Human-Like Computing project. By using Virtual Reality we aim to investigate how humans make decisions when interacting with cluttered environments, like a fridge shelf. By studying human behaviour in these scenarios we hope to inform robotics research in the area and make robotic decision making more understandable to humans.
+I joined the lab due to my interest in virtual reality and how it can be used to study behaviour, and worked on the Human-Like Computing project where we investigated how humans navigate cluttered environments.
+I am also interested in behaviour where motor control and decision-making meet, and have investigated this using a variety of methods, including virtual reality and online experiments. 
