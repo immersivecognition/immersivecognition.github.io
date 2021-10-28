@@ -97,7 +97,7 @@ class Publication(object):
         self.source = pubtype
         if self.source == 'citations':
             self.bib['title'] = __data.find('a', class_='gsc_a_at').text
-            self.id_citations = re.findall(_CITATIONPUBRE, __data.find('a', class_='gsc_a_at')['data-href'])[0]
+            self.id_citations = re.findall(_CITATIONPUBRE, str(__data))[0]
             citedby = __data.find(class_='gsc_a_ac')
             if citedby and not (citedby.text.isspace() or citedby.text == ''):
                 self.citedby = int(citedby.text)
@@ -136,12 +136,12 @@ class Publication(object):
         if self.source == 'citations':
             url = _CITATIONPUB.format(self.id_citations)
             soup = _get_soup(_HOST+url)
-            self.bib['title'] = soup.find('div', id='gsc_vcd_title').text
-            if soup.find('a', class_='gsc_vcd_title_link'):
-                self.bib['url'] = soup.find('a', class_='gsc_vcd_title_link')['href']
+            self.bib['title'] = soup.find('div', id='gsc_oci_title').text
+            if soup.find('a', class_='gsc_oci_title_link'):
+                self.bib['url'] = soup.find('a', class_='gsc_oci_title_link')['href']
             for item in soup.find_all('div', class_='gs_scl'):
-                key = item.find(class_='gsc_vcd_field').text
-                val = item.find(class_='gsc_vcd_value')
+                key = item.find(class_='gsc_oci_field').text
+                val = item.find(class_='gsc_oci_value')
                 if key == 'Authors':
                     self.bib['author'] = ' and '.join([i.strip() for i in val.text.split(',')])
                 elif key == 'Journal':
@@ -155,15 +155,21 @@ class Publication(object):
                 elif key == 'Publisher':
                     self.bib['publisher'] = val.text
                 elif key == 'Publication date':
-                    self.bib['year'] = arrow.get(val.text).year
+                    temp = val.text.rsplit("/")
+                    if len(temp) > 1:
+                        for ind in range(len(temp)):
+                            if len(temp[ind]) == 1:
+                                temp[ind] = '0' + str(temp[ind])
+                    new_text = '/'.join(temp)
+                    self.bib['year'] = arrow.get(new_text).year
                 elif key == 'Description':
                     if val.text[0:8].lower() == 'abstract':
                         val = val.text[9:].strip()
                     self.bib['abstract'] = val
                 elif key == 'Total citations':
                     self.id_scholarcitedby = re.findall(_SCHOLARPUBRE, val.a['href'])[0]
-            if soup.find('div', class_='gsc_vcd_title_ggi'):
-                self.bib['eprint'] = _HOST + soup.find('div', class_='gsc_vcd_title_ggi').a['href']
+            if soup.find('div', class_='gsc_oci_title_ggi'):
+                self.bib['eprint'] = _HOST + soup.find('div', class_='gsc_oci_title_ggi').a['href']
             self._filled = True
         elif self.source == 'scholar':
             bibtex = _get_page(self.url_scholarbib)

@@ -28,7 +28,7 @@ def get_scholars():
 
 
 def get_paper(pub):
-    print(f":: {pub.bib['title']}", flush=True)
+    print(f":: {pub.bib['title'].encode('utf-8').decode('ascii', 'ignore')}", flush=True)
     t = 5
     while not pub._filled:
         try:
