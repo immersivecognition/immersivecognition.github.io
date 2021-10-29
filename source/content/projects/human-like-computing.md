@@ -2,6 +2,7 @@
 name: Human-Like Computing
 description: A project aiming to investigate the potential of human-like approaches in computation and robotics problems.
 image: hlc.png
+website: https://github.com/m-hasan-n/hlp
 ---
 
 # Human-Like Computing (HLC)
@@ -29,3 +30,5 @@ See the video below for an example of the scenario:
 
 Experimental data was collected for 20 participants, each performing 120 trials where we manipulated the setup of the obstacles to investigate certain behaviours. 
 In conjunction with the data collection, a computational model was created to describe a high level process by which humans could select which obstacles to move given a layout, which works on assessing where the gaps between obstacles are and whether the participant needs to interact with obstacles to give a useable path to the target.
+
+Read the full [paper](https://ieeexplore.ieee.org/abstract/document/9196665) on Human-Like Computing in the 2020 IEEE International Conference on Robotics and Automation (ICRA)!
