@@ -1,6 +1,6 @@
 ---
 name: Layla Kouara
-role: Research Assistant
+role: PhD Student
 interests: EEG, Sleep 
 email: ll16l2k
 github: LaylaKouara
