@@ -17,4 +17,8 @@ I gained my Mechanical Engineering MEng from the University of Leeds in 2016. I 
 # Research interests
 
 I joined the lab due to my interest in virtual reality and how it can be used to study behaviour, and worked on the Human-Like Computing project where we investigated how humans navigate cluttered environments.
-I am also interested in behaviour where motor control and decision-making meet, and have investigated this using a variety of methods, including virtual reality and online experiments. 
+I am interested in behaviour where motor control and decision-making meet, and have investigated this using a variety of methods, including virtual reality and online experiments. 
+
+# Qualifications
+
+* MEng Mechanical Engineering
