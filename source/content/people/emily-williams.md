@@ -10,13 +10,26 @@ scholar: VQFfGpsAAAAJ
 
 
 # Profile
-Emily is currently a Postdoctoral Research Fellow working on the Helping Handwriting Shine project. In this position she is responsible for training primary school teaching staff to deliver a handwriting intervention to Year 2 and 5 pupils and supporting them in their delivery. She also acts as the Lead Admin for the project's website.
+I am a Postdoctoral Research and Engagement Fellow in the School of Psychology and the Wolfson Centre for Applied Health Research in Bradford. 
+I am currently funded by an 18-month Wellcome Trust Institutional Strategic Support Fund (ISSF) Fellowship, where I am investigating how children and adults acquire the fine motor skill of (touch) typing. 
+I am passionate about increasing academic attainment in young learners, particularly those from disadvantaged backgrounds. 
+I am a member of the Immersive Cognition (ICON) lab and the Health, Education And Development INteractions Group (HEADING) lab, led by my colleagues Dr Faisal Mushtaq and Dr Ryan Morehead, and Dr Liam Hill respectively, and I work closely with the Born in Bradford birth cohort study. 
 
-Prior to her position at the University of Leeds, Emily completed her BSc, MRes, and PhD in Psychology at the University of Manchester in the time perception lab, Time Lab Manchester. Alongside her academic work, which was funded by the ESRC and a prestigious President's Doctoral Scholar award, she held the position of Widening Participation Fellow and received a Best Contribution to Society award for her extensive outreach work.
+In 2019-20, I worked as the Postdoctoral Research Fellow on the Glasses in Classes trial, which aims to increase glasses test attendance and glasses wear in Reception children (aged 4-5), with a view to increasing their literacy and maths scores. 
+I was responsible for wrangling the health data for over 4,500 pupils, sharing weekly data insights with the external evaluation team, and I also co-designed and delivered the professional development sessions to educational professionals. 
+The year prior (2018-19), I was a Postdoctoral Research Fellow on the Helping Handwriting SHINE trial, which aimed to increase the writing composition of children in Year 2 (age 6-7) and Year 5 (age 9-10) with and without handwriting difficulties through teacher-led evidence-based activity sessions.
+
+Before joining the University of Leeds in 2018, I completed my BSc (2014), MRes (2015), and PhD (2018) in Psychology at the University of Manchester in the time perception lab, Time Lab Manchester. 
+I specialised in time perception since my third year undergraduate project, and my PhD focused on how we perceive time in different sensory modalities (hearing, vision, and touch), and how certain auditory stimulation may affect our time perception due to increasing psychophysiological arousal (as measured by heart rate and pupil dilation). 
+My thesis is titled 'Investigating the Pacemaker Component of the Human Timing System', and I was supervised by Dr Luke Jones and Dr Andrew Stewart.
+
+Alongside my postgraduate research, I held the position of Widening Participation Fellow (2015-18), and I currently act as an Engagement Fellow (2019-21) as part of the Engagement Excellence Scheme.
 
 # Research interests
-The outreach work I completed as a Widening Participation Fellow sparked an interest in the ways in which children's attainment can be improved. The Helping Handwriting Shine project hopes to increase the attainment of slow and effortful handwriters by making writing more automatic, thus freeing up cognitive resources which can be used to focus on the composition of the text. I hope to pursue work relating to increasing academic outcomes in the future.
-While my PhD tested a specific model of time perception, I aim to broaden my research within timing and time perception, particularly in relation to sensorimotor control such as in interceptive timing.
+Since my PhD, I made an effortful transition from lab-based experimental psychology (with school outreach as a significant side-project) to the core of my research being increasing academic attainment in children in my Postdoctoral work. 
+I paused my primary focus of lab-based research to gain postdoctoral experience in applied educational and health research. 
+As of October 2020, I am working on a Wellcome Trust ISSF Fellowship which fuses my expertise in experimental psychology, my experience in applied educational research, and my interest in timing-related behaviours. 
+I am investigating the acquisition of the typing skill in children and adults.
 
 # Qualifications
 * PhD Psychology
