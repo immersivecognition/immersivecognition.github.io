@@ -17,7 +17,7 @@ image: default.png
 
 Fruitbat splat is a browser-based task designed to assess reactive and proactive inhibition in the context of timed interception. 
 At night, it is safe to leave the cave and collect the fruit that flies over head. 
-At sunrise it is also safe, but if the sun comes out, the bat will burn to a crisp.
+At sunrise it is also safe, but if there is a spontaneous sunrise and the bat is caught outside, it will burn to a crisp.
 
 <a class="personbox" href="/people/john-pickavance/"> 
 <img class="person" src="/static/people-images/jp.jpg" alt="John Pickavance"/> 
@@ -28,12 +28,18 @@ At sunrise it is also safe, but if the sun comes out, the bat will burn to a cri
 
 ## Cannon Game
 
-    <a class="personbox" href="/people/max-townsend/"> 
-    <img class="person" src="/static/people-images/max.jpg" alt="Max Townsend"/> 
-    <br><strong>Max Townsend</strong><br><em>PhD Student</em>
-    </a>
+[![Cannon Game](/static/files/shooty.gif "Cannon Game")](https://live.d3j79ry36dacsl.amplifyapp.com/)
 
-Text here about cannon game.
+**Click the gif to try the demo!**
+
+Cannon Game is a model environment for isolating the more cognitive processes at play during sensorimotor adaptation tasks. 
+This environment allows us to lift the cognitive component up, out of the motor context, while providing full control over execution noise and (exogenous) implicit learning. 
+Ultimately, this should yield a model of non-motor learning and decision making, such that we can transfer it back into the motor context to constrain the space of behavioural variance associated with the motor system and better understand motor adaptation.
+
+<a class="personbox" href="/people/max-townsend/"> 
+<img class="person" src="/static/people-images/max.jpg" alt="Max Townsend"/> 
+<br><strong>Max Townsend</strong><br><em>PhD Student</em>
+</a>
 
 <br>
 
