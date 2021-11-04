@@ -18,6 +18,14 @@ def path_to_md(base, filename):
 
 def get_mds(base):
     files = [f for f in os.listdir(os.path.join(CONTENT, base)) if f.lower().endswith(".md")]
+    if (base == 'projects'):
+        new_files = ['online-experiments.md', 'virtual-reality-experiments.md', 
+                     'uxf-unity-experiment-framework.md', 'virtual-reality-and-eeg.md',
+                     'born-in-bradford.md', 'virtual-reality-dentistry.md',
+                     'human-like-computing.md', 'helping-handwriting-shine.md',
+                     'bigkat.md']
+        remaining_files = [x for x in files if x not in new_files]
+        files = new_files + remaining_files
     mds = [path_to_md(base, f) for f in files]
     return mds
 
