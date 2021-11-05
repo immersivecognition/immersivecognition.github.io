@@ -1,15 +1,10 @@
 ---
 name: Online Experiments
 description: Experiments designed to study human behaviour online
-image: default.png
+image: online-experiments.png
 ---
 
-
-# Studying Human Behaviour Online
-
-
-
-## Fruitbat Splat
+# Fruitbat Splat
 
 [![Fruitbat Splat](/static/files/fruity.gif "Fruitbat Splat")](http://tinyurl.com/6cuw5nnz)
 
@@ -26,7 +21,7 @@ At sunrise it is also safe, but if there is a spontaneous sunrise and the bat is
 
 <br>
 
-## Cannon Game
+# Cannon Game
 
 [![Cannon Game](/static/files/shooty.gif "Cannon Game")](https://live.d3j79ry36dacsl.amplifyapp.com/)
 
@@ -43,7 +38,7 @@ Ultimately, this should yield a model of non-motor learning and decision making,
 
 <br>
 
-## Turbo Typing
+# Turbo Typing
 
 [![Turbo Typing](/static/files/typey2.gif "Turbo Typing")](https://typingdemo.d2aiys383xfv5b.amplifyapp.com/)
 
@@ -60,7 +55,7 @@ This enables us to assess in detail how the skill of touch typing is acquired.
 
 <br>
 
-## Race Across Space
+# Race Across Space
 
 [![Race Across Space](/static/files/racey.gif "Race Across Space")](https://demo.d1avb9lpkd1k4h.amplifyapp.com/)
 
