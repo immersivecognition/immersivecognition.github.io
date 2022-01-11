@@ -6,7 +6,7 @@ image: online-experiments.png
 
 # Fruitbat Splat
 
-[![Fruitbat Splat](/static/files/fruity.gif "Fruitbat Splat")](http://tinyurl.com/6cuw5nnz)
+[![Fruitbat Splat](/static/files/fruity.gif "Fruitbat Splat")](www.fruitbatsplat.com/demo)
 
 **Click the gif to try the demo!**
 
