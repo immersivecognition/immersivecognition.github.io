@@ -5,6 +5,7 @@ interests: Virtual Reality, Human Behaviour, Bradykinesia, Motion Capture System
 github: mawaishafeez
 email: mnmahaf
 image: mah.jpg
+alum: true
 ---
 
 Currently doing PhD Mechanical Engineering using Virtual Reality, Motion Capture Systems in Human Behavior, with particular interest in bradykinesia, motor control. Did MS Mechanical Engineering from Korea Advanced Institue of Science & Technology (KAIST) South Korea and BSc. Mechatronics & Control Engineering from University of Engineering & Technology (UET LHR), Pakistan.

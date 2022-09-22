@@ -7,6 +7,7 @@ github: paulbaniqued
 twitter: paulobaniqued
 email: mnpdeb
 image: paul.jpg
+alum: true
 ---
 
 
